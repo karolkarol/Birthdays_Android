@@ -57,7 +57,7 @@
     <string name="notification_1">1 dia abans</string>
     <string name="notification_2">2 dies abans</string>
     <string name="notification_7">1 setmana abans</string>
-    <string name="notification_time">Temps per a les notificacions</string>
+    <string name="notification_time">Horari per a les notificacions</string>
     <string name="notification_sound">So per a les notificacions</string>
     <string name="notification_sound_desc">Si us plau, escull un to de trucada o \"Silenci\"</string>
     <string name="setTime">Si us plau escull una hora &#8230;</string>
