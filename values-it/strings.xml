@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help">Aiuto</string>
+    <string name="helpText">OPTIONS MENU:\nIn the options menu you can find several additional features of this app, e.g. changing the preferences or adding new contacts to your list of birthdays.\n\nLONG-PRESSING A CONTACT:\nWhen you long-press a contact in your list of birthdays, a menu with options will pop up where you can choose to edit or delete an existing entry in your list of birthdays.\n\nADDING A PHOTO:\nYou can only add photos for people who are not in your contacts but manually added to this application. For people from your contacts list, please edit the entry in your Android contacts.\n\nWIDGET:\nGo to your homescreen and hit \"Add\", then \"Widget\" to add the upcoming birthdays to your homescreen. Your widget will be refreshed every 6 hours!\n\n1970 PROBLEM:\nIf you cannot enter dates prior to 1970, it\'s a common problem for your device (often with Motorola devices). Please go to the app\'s settings and disable the \"Easy date selection\". After that change, you\'ll have to enter dates in a text field - but you can at least enter dates prior to 1970.\n\nNO NOTIFICATIONS:\nThe latest versions of Android (4.0+) offer special settings for notifications. For example, you can switch off all notifications in the status bar (where 3G, Wi-Fi, GPS and Bluetooth are located) or disable notifications in \"Manage apps\" among your settings. Please check these settings if your notifications don\'t work.\n\nMOVING TO EXTERNAL STORAGE:\nYou cannot move this app to the external storage (SD card) as notifications for upcoming birthdays wouldn\'t work in that case. Sorry!\n\nSUPPORTED DATE FORMATS:\nWe fully support date formats according to ISO 8601, that is YYYY-MM-DD. For other formats, we cannot guarantee that they are read correctly.\n\nCAN I HELP TRANSLATING THE APP?\nYes, you can. Just use our application on Facebook, where you can easily edit all translations and improve them for all users. Please open the following link on a desktop computer for better reading and editing:\nhttp://birthdays.latein.me/</string>
+    <string name="goHome">Vai a casa</string>
+    <string name="settingsGeneral">Impostazioni generali</string>
+    <string name="showPhotos">Contatti foto</string>
+    <string name="showPhotos_on">Foto contatti sarà mostrata.</string>
+    <string name="showPhotos_off">Foto contatti non verrà mostrato.</string>
+    <string name="nextBirthdayOnWeekDay">Il prossimo compleanno è su un</string>
+    <string name="nextAnniversaryOnWeekDay">L\'anniversario successivo è su un</string>
+    <string name="tipDontEnterYear"><b>Accennare:</b> Non voglio entrare in qualsiasi anno? Basta digitare \"1900\" e l\'anno non verrà mostrato.</string>
+    <string name="contactPhoto">Foto dei contatti</string>
+    <string name="daysLeftUnit">giorni</string>
+    <string name="noBirthdaysFound">Impossibile trovare i compleanni nel tuo elenco di contatti!</string>
+    <string name="turnVerb">gira</string>
+    <string name="onTime">su</string>
+    <string name="pleaseWait">Si prega di attendere</string>
+    <string name="refreshingList">Aggiornamento della lista &#8230;</string>
+    <string name="bornOn">Data di nascita:</string>
+    <string name="anniversaryOn">Anniversary:</string>
+    <string name="age">Età:</string>
+    <string name="yearsMarried">Da:</string>
+    <string name="years">anni</string>
+    <string name="ok">OK</string>
+    <string name="today">oggi</string>
+    <string name="in">in</string>
+    <string name="birthday">Compleanno</string>
+    <string name="yearsOld">anni</string>
+    <string name="loading">Caricamento</string>
+    <string name="fullTextConvinced">Ha questa applicazione è convinto? Saremmo molto felici se tu potessi votare la nostra applicazione su Google Play. Grazie per il vostro supporto!</string>
+    <string name="rateApp">Vota questa app</string>
+    <string name="rateNow">Vota ora</string>
+    <string name="remindLater">Più tardi</string>
+    <string name="noThanks">No, grazie</string>
+    <string name="callVerb">Chiamare</string>
+    <string name="mode_add">Aggiungere</string>
+    <string name="mode_edit">Cambiare</string>
+    <string name="mode_backup">Backup</string>
+    <string name="mode_help">Aiuto</string>
+    <string name="mode_buy">Regali</string>
+    <string name="birthdayEdited">Il compleanno selezionato è stato aggiornato per la nuova data.</string>
+    <string name="cancel">Annullare</string>
+    <string name="save">Preservare</string>
+    <string name="smsVerb">SMS</string>
+    <string name="congratulationSMS">Buon compleanno!</string>
+    <string name="comingSoon">Prossimamente!</string>
+    <string name="nameOfPerson">Il nome della persona</string>
+    <string name="dateOfBirth">Scegli la data di</string>
+    <string name="delete">Cancellare</string>
+    <string name="edit">Modifica data</string>
+    <string name="birthdayDeleted">Il compleanno selezionato è stato cancellato.</string>
+    <string name="mode_preferences">Preferenze</string>
+    <string name="notification_on">Le notifiche verranno visualizzate.</string>
+    <string name="notification_off">Nessuna notifica.</string>
+    <string name="notification_0">nel giorno del compleanno</string>
+    <string name="notification_1">1 giorno prima</string>
+    <string name="notification_2">2 giorni prima</string>
+    <string name="notification_7">1 settimana prima</string>
+    <string name="notification_time">Time for notifications</string>
+    <string name="notification_sound">Sound for notifications</string>
+    <string name="notification_sound_desc">Please choose a ringtone or \"Silent\"</string>
+    <string name="setTime">Please set your favored time &#8230;</string>
+    <string name="notificationsForBirthdays">Notifications for birthdays</string>
+    <string name="caption_adding_mode">Adding a new entry</string>
+    <string name="hint_adding_mode">If possible, you should always add birthdays to your contacts. You can use more features then.</string>
+	<string name="adding_mode_contacts">choose from contacts</string>
+	<string name="adding_mode_newentry">without phone contact</string>
+	<string name="mode_search">Search</string>
+	<string name="searchNoResult">Couldn\'t find any person in your list matching this name!</string>
+	<string name="findPerson">Find a person</string>
+	<string name="searchPerson">Search person &#8230;</string>
+	<string name="hint_search_mode">When searching a person in your list of birthdays, typing a part of the name is usually enough.</string>
+	<string name="zodiac">Zodiac</string>
+	<string name="zodiac_aries">Aries</string>
+	<string name="zodiac_taurus">Taurus</string>
+	<string name="zodiac_gemini">Gemini</string>
+	<string name="zodiac_cancer">Cancer</string>
+	<string name="zodiac_leo">Leo</string>
+	<string name="zodiac_virgo">Virgo</string>
+	<string name="zodiac_libra">Libra</string>
+	<string name="zodiac_scorpio">Scorpio</string>
+	<string name="zodiac_sagittarius">Sagittarius</string>
+	<string name="zodiac_capricornus">Capricorn</string>
+	<string name="zodiac_aquarius">Aquarius</string>
+	<string name="zodiac_pisces">Pisces</string>
+	<string name="changePicture">Change picture</string>
+	<string name="change_name">Change name</string>
+	<string name="sortBy">Order of entries</string>
+	<string name="sortBy_change">Choose what your list is sorted by</string>
+	<string-array name="sortBy_values_human">
+        <item>Days left</item>
+        <item>Name</item>
+        <item>Age</item>
+    </string-array>
+	<string-array name="sortBy_values_machine">
+        <item>days_left</item>
+        <item>name</item>
+        <item>age</item>
+    </string-array>
+    <string name="show_phoneButtons">Phone buttons</string>
+    <string name="show_phoneButtons_on">Buttons for calls and SMS will be shown.</string>
+    <string name="show_phoneButtons_off">Buttons for calls and SMS will not be shown.</string>
+    <string name="choose_type">Choose type</string>
+    <string name="type_birthday">Birthday</string>
+    <string name="type_anniversary">Anniversary</string>
+    <string name="open_contact">Open contact</string>
+    <string name="buyVerb">Find a gift</string>
+    <string name="doExport">Export / Save</string>
+    <string name="doImport">Import / Load</string>
+    <string name="importVerb">Import</string>
+	<string name="pleaseEnterImportData">Sorry, the import could not be finished!</string>
+    <string name="invalidDate">Invalid date.</string>
+    <string name="pleaseCorrect">Please correct this!</string>
+    <string name="tryOpeningInvalid">This is an invalid entry. Please long-press it and choose \"Change date\".</string>
+    <string name="chineseZodiac">Chinese</string>
+	<string name="chinese_rat">Rat</string>
+	<string name="chinese_ox">Ox</string>
+	<string name="chinese_tiger">Tiger</string>
+	<string name="chinese_rabbit">Rabbit</string>
+	<string name="chinese_dragon">Dragon</string>
+	<string name="chinese_snake">Snake</string>
+	<string name="chinese_horse">Horse</string>
+	<string name="chinese_goat">Goat</string>
+	<string name="chinese_monkey">Monkey</string>
+	<string name="chinese_rooster">Rooster</string>
+	<string name="chinese_dog">Dog</string>
+	<string name="chinese_pig">Pig</string>
+	<string name="show_zodiac">Zodiac signs</string>
+	<string name="show_zodiac_description">Do you want zodiac signs to be shown?</string>
+	<string-array name="show_zodiac_values_human">
+        <item>Western</item>
+        <item>Chinese</item>
+        <item>Western + Chinese</item>
+        <item>None</item>
+    </string-array>
+	<string-array name="show_zodiac_values_machine">
+        <item>western</item>
+        <item>chinese</item>
+        <item>both</item>
+        <item>none</item>
+    </string-array>
+	<string name="do_repeatsound">Repeat sound</string>
+	<string name="do_repeatsound_on">The notification sound will be repeated until you close the notification.</string>
+	<string name="do_repeatsound_off">The notification sound will only be played once.</string>
+	<string name="facebookImport">Import from Facebook</string>
+	<string name="install">Install now</string>
+	<string name="missing_addon_title">Birthdays Plus</string>
+	<string name="missing_addon_explain">This feature requires \"Birthdays Plus\", an extended but still free version of this app. It uses additional permissions (access to internet and SD card) to offer you better features. Just visit Google Play to get the extended app and enjoy great features. Try it - it\'s free!</string>
+    <string name="show_help">Show help</string>
+    <string name="rate_app">Rate app</string>
+    <string name="export_fail">Sorry, the export of your data could not be started!</string>
+    <string name="loading_facebook">Loading data from Facebook &#8230;</string>
+    <string name="notification_close">Close notification</string>
+    <string name="notification_remind1">Remind again in 15min</string>
+    <string name="notification_remind2">Remind again in 1h</string>
+    <string name="notification_remind3">Remind again in 6h</string>
+    <string name="importing_entries">Importing the selected entries &#8230;</string>
+    <string name="open_app">Open app</string>
+    <string-array name="default_images">
+        <item>Birthday (1)</item>
+        <item>Birthday (2)</item>
+        <item>Jubilee</item>
+        <item>Love</item>
+        <item>Wedding</item>
+        <item>Death (1)</item>
+        <item>Death (2)</item>
+    </string-array>
+    <string-array name="default_images_copyright">
+        <item>Africa Studio</item>
+        <item>bluedesign</item>
+        <item>shoot4u</item>
+        <item>Konstiantyn</item>
+        <item>artikularis</item>
+        <item>Pixel Embargo</item>
+        <item>Benjamin Haas</item>
+    </string-array>
+    <string name="pick_from_gallery">Pick from gallery</string>
+    <string name="pick_predefined_image">Select stock image</string>
+    <string name="image_provided_by">This image has been provided by</string>
+    <string name="helpTranslating">Help translating</string>
+    <string name="translationHelpHowto">Please open in your browser on your desktop computer (for better readability and editing):\nhttp://birthdays.latein.me/</string>
+    <string name="menu_main">Main menu</string>
+	<string name="mode_translate">Translate</string>
+	<string name="days_abbreviation">d</string>
+	<string name="sure_to_delete">Are you sure you want to delete this entry?</string>
+	<string name="yes">Yes</string>
+	<string name="no">No</string>
+	<string name="merge_with_contact">Merge with contact</string>
+	<string name="merge_explanation">Do you want to merge this entry with an existing phone contact?</string>
+	<string name="entry_merged">The entry has been successfully merged with the selected contact.</string>
+	<string name="contacts_app_not_found">The contacts app could not be found on your device!</string>
+	<string name="defaultDateFormat">YYYY-MM-DD</string>
+	<string name="show_datepicker">Easy date selection</string>
+	<string name="show_datepicker_on">A convenient way of date selection that lets you pick day, month and year from a list.</string>
+	<string name="show_datepicker_off">A simple text field will be shown. You can type the date manually. This is useful if your device does not accept years prior to 1970 otherwise.</string>
+	<string name="settings_other">Other settings</string>
+	<string name="congratulationText_title">Congratulation text</string>
+	<string name="congratulationText_summary">Set your predefined text for congratulation messages here.</string>
+	<string name="widet_4x1">Birthdays (4x1)</string>
+	<string name="widet_4x2">Birthdays (4x2)</string>
+    <string name="fbLoad_fail">Birthdays could not be imported from Facebook!</string>
+    <string name="fbLoad_success">Birthdays successfully imported from Facebook!</string>
+    <string name="export_success">Backup successfully saved in \"Birthdays Plus\" on SD card!</string>
+    <string name="import_fail">Backup could not be imported from \"Birthdays Plus\" on SD card!</string>
+    <string name="import_success">Backup successfully imported from \"Birthdays Plus\" on SD card!</string>
+    <string name="sdBackup">SD backup</string>
+    <string name="open_facebook_profile">Facebook profile</string>
+    <string name="loading_image">Loading photo &#8230;</string>
+    <string name="new_version">New version</string>
+    <string name="new_version_get">A new version of this app with improved features is available on Google Play. Do you want to get the update now?</string>
+    <string name="do_download">Download</string>
+    <string name="do_ignore">Ignore</string>
+    <string name="supportAndFeedback">Questions &#38; Feedback</string>
+    <string name="person_actions">Actions</string>
+    <string name="save_note">Save a note</string>
+    <string name="delete_image">Delete image</string>
+    <string name="your_note">Your note</string>
+    <string name="typeYourNote">Type your personal note &#8230;</string>
+</resources>
