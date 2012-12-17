@@ -57,82 +57,79 @@
     <string name="notification_1">1 giorno prima</string>
     <string name="notification_2">2 giorni prima</string>
     <string name="notification_7">1 settimana prima</string>
-    <string name="notification_time">Time for notifications</string>
-    <string name="notification_sound">Sound for notifications</string>
-    <string name="notification_sound_desc">Please choose a ringtone or \"Silent\"</string>
-    <string name="setTime">Please set your favored time &#8230;</string>
-    <string name="notificationsForBirthdays">Notifications for birthdays</string>
-    <string name="caption_adding_mode">Adding a new entry</string>
-    <string name="hint_adding_mode">If possible, you should always add birthdays to your contacts. You can use more features then.</string>
-	<string name="adding_mode_contacts">choose from contacts</string>
-	<string name="adding_mode_newentry">without phone contact</string>
-	<string name="mode_search">Search</string>
-	<string name="searchNoResult">Couldn\'t find any person in your list matching this name!</string>
-	<string name="findPerson">Find a person</string>
-	<string name="searchPerson">Search person &#8230;</string>
-	<string name="hint_search_mode">When searching a person in your list of birthdays, typing a part of the name is usually enough.</string>
-	<string name="zodiac">Zodiac</string>
-	<string name="zodiac_aries">Aries</string>
-	<string name="zodiac_taurus">Taurus</string>
-	<string name="zodiac_gemini">Gemini</string>
-	<string name="zodiac_cancer">Cancer</string>
-	<string name="zodiac_leo">Leo</string>
-	<string name="zodiac_virgo">Virgo</string>
+    <string name="notification_time">Tempo per le notifiche</string>
+    <string name="notification_sound">Suono per le notifiche</string>
+    <string name="notification_sound_desc">Scegliere una suoneria o renderlo \"Silenzioso\"</string>
+    <string name="setTime">Impostare il tempo preferito &#8230;</string>
+    <string name="notificationsForBirthdays">Notifiche per i compleanni</string>
+    <string name="caption_adding_mode">Aggiunta di una nuova voce</string>
+    <string name="hint_adding_mode">Se possibile, si dovrebbe sempre aggiungere compleanni ai tuoi contatti. È possibile utilizzare più funzioni allora.</string>
+	<string name="adding_mode_contacts">scegliere tra i contatti</string>
+	<string name="adding_mode_newentry">senza contatto telefonico</string>
+	<string name="mode_search">Cerca</string>
+	<string name="searchNoResult">Impossibile trovare una persona nel tuo elenco delle corrispondenze questo nome!</string>
+	<string name="findPerson">Trova una persona</string>
+	<string name="searchPerson">Cerca una persona &#8230;</string>
+	<string name="hint_search_mode">Durante la ricerca di una persona nella tua lista dei compleanni, digitare una parte del nome di solito è sufficiente.</string>
+	<string name="zodiac">Zodiaco</string>
+	<string name="zodiac_aries">Ariete</string>
+	<string name="zodiac_taurus">Toro</string>
+	<string name="zodiac_gemini">Gemelli</string>
+	<string name="zodiac_cancer">Cancro</string>
+	<string name="zodiac_leo">Leone</string>
+	<string name="zodiac_virgo">Vergine</string>
 	<string name="zodiac_libra">Libra</string>
-	<string name="zodiac_scorpio">Scorpio</string>
-	<string name="zodiac_sagittarius">Sagittarius</string>
-	<string name="zodiac_capricornus">Capricorn</string>
-	<string name="zodiac_aquarius">Aquarius</string>
-	<string name="zodiac_pisces">Pisces</string>
-	<string name="changePicture">Change picture</string>
-	<string name="change_name">Change name</string>
-	<string name="sortBy">Order of entries</string>
-	<string name="sortBy_change">Choose what your list is sorted by</string>
+	<string name="zodiac_scorpio">Scorpione</string>
+	<string name="zodiac_sagittarius">Sagittario</string>
+	<string name="zodiac_capricornus">Capricorno</string>
+	<string name="zodiac_aquarius">Acquario</string>
+	<string name="zodiac_pisces">Pesci</string>
+	<string name="changePicture">Cambia immagine</string>
+	<string name="change_name">Cambiare il nome</string>
+	<string name="sortBy">Posizione delle voci in</string>
+	<string name="sortBy_change">Scegliete ciò che l\'elenco è ordinato per</string>
 	<string-array name="sortBy_values_human">
-        <item>Days left</item>
-        <item>Name</item>
-        <item>Age</item>
+        <item>Giorni restanti</item>
+        <item>Nome</item>
+        <item>Età</item>
     </string-array>
 	<string-array name="sortBy_values_machine">
         <item>days_left</item>
         <item>name</item>
         <item>age</item>
     </string-array>
-    <string name="show_phoneButtons">Phone buttons</string>
-    <string name="show_phoneButtons_on">Buttons for calls and SMS will be shown.</string>
-    <string name="show_phoneButtons_off">Buttons for calls and SMS will not be shown.</string>
-    <string name="choose_type">Choose type</string>
-    <string name="type_birthday">Birthday</string>
-    <string name="type_anniversary">Anniversary</string>
-    <string name="open_contact">Open contact</string>
-    <string name="buyVerb">Find a gift</string>
-    <string name="doExport">Export / Save</string>
-    <string name="doImport">Import / Load</string>
-    <string name="importVerb">Import</string>
-	<string name="pleaseEnterImportData">Sorry, the import could not be finished!</string>
-    <string name="invalidDate">Invalid date.</string>
-    <string name="pleaseCorrect">Please correct this!</string>
-    <string name="tryOpeningInvalid">This is an invalid entry. Please long-press it and choose \"Change date\".</string>
-    <string name="chineseZodiac">Chinese</string>
-	<string name="chinese_rat">Rat</string>
-	<string name="chinese_ox">Ox</string>
-	<string name="chinese_tiger">Tiger</string>
-	<string name="chinese_rabbit">Rabbit</string>
-	<string name="chinese_dragon">Dragon</string>
-	<string name="chinese_snake">Snake</string>
-	<string name="chinese_horse">Horse</string>
-	<string name="chinese_goat">Goat</string>
-	<string name="chinese_monkey">Monkey</string>
-	<string name="chinese_rooster">Rooster</string>
-	<string name="chinese_dog">Dog</string>
-	<string name="chinese_pig">Pig</string>
-	<string name="show_zodiac">Zodiac signs</string>
-	<string name="show_zodiac_description">Do you want zodiac signs to be shown?</string>
+    <string name="choose_type">Scegli il tipo di</string>
+    <string name="type_birthday">Compleanno</string>
+    <string name="type_anniversary">Anniversario</string>
+    <string name="open_contact">Aprire il contatto</string>
+    <string name="buyVerb">Trova un regalo</string>
+    <string name="doExport">Esporta / Salva</string>
+    <string name="doImport">Importa / Carico</string>
+    <string name="importVerb">Importa</string>
+	<string name="pleaseEnterImportData">Siamo spiacenti, l\'importazione non può essere finito!</string>
+    <string name="invalidDate">Data non valido.</string>
+    <string name="pleaseCorrect">Si prega di correggere questa!</string>
+    <string name="tryOpeningInvalid">Si tratta di una voce non valida. Si prega di non premere a lungo e scegliere \"Modifica data\".</string>
+    <string name="chineseZodiac">Cinese</string>
+	<string name="chinese_rat">Ratto</string>
+	<string name="chinese_ox">Bue</string>
+	<string name="chinese_tiger">Tigre</string>
+	<string name="chinese_rabbit">Coniglio</string>
+	<string name="chinese_dragon">Drago</string>
+	<string name="chinese_snake">Serpente</string>
+	<string name="chinese_horse">Cavallo</string>
+	<string name="chinese_goat">Capricorno</string>
+	<string name="chinese_monkey">Scimmia</string>
+	<string name="chinese_rooster">Gallo</string>
+	<string name="chinese_dog">Cane</string>
+	<string name="chinese_pig">Maiale</string>
+	<string name="show_zodiac">Segni zodiacali</string>
+	<string name="show_zodiac_description">Vuoi segni zodiacali da mostrare?</string>
 	<string-array name="show_zodiac_values_human">
-        <item>Western</item>
-        <item>Chinese</item>
-        <item>Western + Chinese</item>
-        <item>None</item>
+        <item>Occidentale</item>
+        <item>Cinese</item>
+        <item>Occidentale + Cinese</item>
+        <item>Nessuno</item>
     </string-array>
 	<string-array name="show_zodiac_values_machine">
         <item>western</item>
@@ -140,31 +137,31 @@
         <item>both</item>
         <item>none</item>
     </string-array>
-	<string name="do_repeatsound">Repeat sound</string>
-	<string name="do_repeatsound_on">The notification sound will be repeated until you close the notification.</string>
-	<string name="do_repeatsound_off">The notification sound will only be played once.</string>
-	<string name="facebookImport">Import from Facebook</string>
-	<string name="install">Install now</string>
-	<string name="missing_addon_title">Birthdays Plus</string>
-	<string name="missing_addon_explain">This feature requires \"Birthdays Plus\", an extended but still free version of this app. It uses additional permissions (access to internet and SD card) to offer you better features. Just visit Google Play to get the extended app and enjoy great features. Try it - it\'s free!</string>
-    <string name="show_help">Show help</string>
-    <string name="rate_app">Rate app</string>
-    <string name="export_fail">Sorry, the export of your data could not be started!</string>
-    <string name="loading_facebook">Loading data from Facebook &#8230;</string>
-    <string name="notification_close">Close notification</string>
-    <string name="notification_remind1">Remind again in 15min</string>
-    <string name="notification_remind2">Remind again in 1h</string>
-    <string name="notification_remind3">Remind again in 6h</string>
-    <string name="importing_entries">Importing the selected entries &#8230;</string>
-    <string name="open_app">Open app</string>
+	<string name="do_repeatsound">Ripeti suono</string>
+	<string name="do_repeatsound_on">Il suono di notifica verrà ripetuta finché non si chiude la notifica.</string>
+	<string name="do_repeatsound_off">Il suono di notifica viene ripetuta solo una volta.</string>
+	<string name="facebookImport">Importa da Facebook</string>
+	<string name="install">Installa adesso</string>
+	<string name="missing_addon_title">Compleanni Plus</string>
+	<string name="missing_addon_explain">Questa funzionalità richiede \"Compleanni Plus\", una versione estesa, ma ancora libero di questa app. Utilizza ulteriori autorizzazioni (accesso a Internet e scheda SD) per offrire una migliore funzionalità. Basta visitare Google Play per ottenere l\'applicazione estesa e godere di grande funzionalità. Prova - è gratis!</string>
+    <string name="show_help">Mostra di aiuto</string>
+    <string name="rate_app">Tasso di app</string>
+    <string name="export_fail">Siamo spiacenti, l\'esportazione dei dati non può essere avviato!</string>
+    <string name="loading_facebook">Caricamento dei dati da Facebook &#8230;</string>
+    <string name="notification_close">Notifica Chiudi</string>
+    <string name="notification_remind1">Ricorda di nuovo in 15min</string>
+    <string name="notification_remind2">Ricorda di nuovo in 1h</string>
+    <string name="notification_remind3">Ricorda di nuovo in 6h</string>
+    <string name="importing_entries">Importare le voci selezionate. Questa operazione può richiedere alcuni minuti &#8230;</string>
+    <string name="open_app">Apri app</string>
     <string-array name="default_images">
-        <item>Birthday (1)</item>
-        <item>Birthday (2)</item>
-        <item>Jubilee</item>
-        <item>Love</item>
-        <item>Wedding</item>
-        <item>Death (1)</item>
-        <item>Death (2)</item>
+        <item>Compleanno (1)</item>
+        <item>Compleanno (2)</item>
+        <item>Giubileo</item>
+        <item>Amore</item>
+        <item>Matrimonio</item>
+        <item>Morte (1)</item>
+        <item>Morte (2)</item>
     </string-array>
     <string-array name="default_images_copyright">
         <item>Africa Studio</item>
@@ -175,46 +172,46 @@
         <item>Pixel Embargo</item>
         <item>Benjamin Haas</item>
     </string-array>
-    <string name="pick_from_gallery">Pick from gallery</string>
-    <string name="pick_predefined_image">Select stock image</string>
-    <string name="image_provided_by">This image has been provided by</string>
-    <string name="helpTranslating">Help translating</string>
-    <string name="translationHelpHowto">Please open in your browser on your desktop computer (for better readability and editing):\nhttp://birthdays.latein.me/</string>
-    <string name="menu_main">Main menu</string>
-	<string name="mode_translate">Translate</string>
-	<string name="days_abbreviation">d</string>
-	<string name="sure_to_delete">Are you sure you want to delete this entry?</string>
-	<string name="yes">Yes</string>
+    <string name="pick_from_gallery">Scegli dalla galleria</string>
+    <string name="pick_predefined_image">Selezionare archivio di immagini</string>
+    <string name="image_provided_by">Questa immagine è stata fornita da</string>
+    <string name="helpTranslating">Aiuto traduzione</string>
+    <string name="translationHelpHowto">Si prega di aprire nel browser sul computer desktop (per una migliore leggibilità e la modifica):\nhttp://birthdays.latein.me/</string>
+    <string name="menu_main">Menu principale</string>
+	<string name="mode_translate">Tradurre</string>
+	<string name="days_abbreviation">g</string>
+	<string name="sure_to_delete">Sei sicuro di voler eliminare questo messaggio?</string>
+	<string name="yes">Sì</string>
 	<string name="no">No</string>
-	<string name="merge_with_contact">Merge with contact</string>
-	<string name="merge_explanation">Do you want to merge this entry with an existing phone contact?</string>
-	<string name="entry_merged">The entry has been successfully merged with the selected contact.</string>
-	<string name="contacts_app_not_found">The contacts app could not be found on your device!</string>
-	<string name="defaultDateFormat">YYYY-MM-DD</string>
-	<string name="show_datepicker">Easy date selection</string>
-	<string name="show_datepicker_on">A convenient way of date selection that lets you pick day, month and year from a list.</string>
-	<string name="show_datepicker_off">A simple text field will be shown. You can type the date manually. This is useful if your device does not accept years prior to 1970 otherwise.</string>
-	<string name="settings_other">Other settings</string>
-	<string name="congratulationText_title">Congratulation text</string>
-	<string name="congratulationText_summary">Set your predefined text for congratulation messages here.</string>
-	<string name="widet_4x1">Birthdays (4x1)</string>
-	<string name="widet_4x2">Birthdays (4x2)</string>
-    <string name="fbLoad_fail">Birthdays could not be imported from Facebook!</string>
-    <string name="fbLoad_success">Birthdays successfully imported from Facebook!</string>
-    <string name="export_success">Backup successfully saved in \"Birthdays Plus\" on SD card!</string>
-    <string name="import_fail">Backup could not be imported from \"Birthdays Plus\" on SD card!</string>
-    <string name="import_success">Backup successfully imported from \"Birthdays Plus\" on SD card!</string>
-    <string name="sdBackup">SD backup</string>
-    <string name="open_facebook_profile">Facebook profile</string>
-    <string name="loading_image">Loading photo &#8230;</string>
-    <string name="new_version">New version</string>
-    <string name="new_version_get">A new version of this app with improved features is available on Google Play. Do you want to get the update now?</string>
-    <string name="do_download">Download</string>
-    <string name="do_ignore">Ignore</string>
-    <string name="supportAndFeedback">Questions &#38; Feedback</string>
-    <string name="person_actions">Actions</string>
-    <string name="save_note">Save a note</string>
-    <string name="delete_image">Delete image</string>
-    <string name="your_note">Your note</string>
-    <string name="typeYourNote">Type your personal note &#8230;</string>
+	<string name="merge_with_contact">Unisci con contatto</string>
+	<string name="merge_explanation">Vuoi unire questa voce con un contatto telefonico esistente?</string>
+	<string name="entry_merged">La voce è stata fusa con il contatto selezionato.</string>
+	<string name="contacts_app_not_found">L\'applicazione contatti non è stato trovato sul tuo dispositivo!</string>
+	<string name="defaultDateFormat">AAAA-MM-GG</string>
+	<string name="show_datepicker">Facile selezione data</string>
+	<string name="show_datepicker_on">Un modo conveniente per la selezione della data che consente di scegliere il giorno, mese e anno da un elenco.</string>
+	<string name="show_datepicker_off">Un semplice campo di testo viene visualizzato. È possibile digitare manualmente la data. Questo è utile se il dispositivo non accetta anni precedenti al 1970 in caso contrario.</string>
+	<string name="settings_other">Altre impostazioni</string>
+	<string name="congratulationText_title">Congratulazioni testo</string>
+	<string name="congratulationText_summary">Impostare il testo predefinito per i messaggi di congratulazione qui.</string>
+	<string name="widet_4x1">Compleanni (4x1)</string>
+	<string name="widet_4x2">Compleanni (4x2)</string>
+    <string name="fbLoad_fail">Compleanni non potevano essere importati da Facebook!</string>
+    <string name="fbLoad_success">Compleanni importato con successo da Facebook!</string>
+    <string name="export_success">Backup salvato con successo in \"Birthdays Plus\" su scheda SD!</string>
+    <string name="import_fail">Backup non può essere importato da \"Birthdays Plus\" su scheda SD!</string>
+    <string name="import_success">Backup con successo importato dalla \"Birthdays Plus\" su scheda SD!</string>
+    <string name="sdBackup">SD di backup</string>
+    <string name="open_facebook_profile">Aprire profilo di Facebook</string>
+    <string name="loading_image">Caricamento di foto &#8230;</string>
+    <string name="new_version">Nuova versione</string>
+    <string name="new_version_get">Una nuova versione di questa app con caratteristiche migliorate è disponibile su Google Play. Vuoi ottenere l\'aggiornamento ora?</string>
+    <string name="do_download">Scarica</string>
+    <string name="do_ignore">Ignorare</string>
+    <string name="supportAndFeedback">Domande &#38; Retroazione</string>
+    <string name="person_actions">Altre opzioni</string>
+    <string name="save_note">Salvare una nota</string>
+    <string name="delete_image">Elimina immagine</string>
+    <string name="your_note">Il tuo commento</string>
+    <string name="typeYourNote">Inserisci il tuo commento personale &#8230;</string>
 </resources>

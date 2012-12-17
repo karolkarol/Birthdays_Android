@@ -98,9 +98,6 @@
         <item>name</item>
         <item>age</item>
     </string-array>
-    <string name="show_phoneButtons">Botones del teléfono</string>
-    <string name="show_phoneButtons_on">Se mostrarán los botones para llamadas y SMS.</string>
-    <string name="show_phoneButtons_off">No se mostrarán los botones para llamadas y SMS.</string>
     <string name="choose_type">Elegir el tipo</string>
     <string name="type_birthday">Cumpleaños</string>
     <string name="type_anniversary">Aniversario</string>
@@ -155,7 +152,7 @@
     <string name="notification_remind1">Recordar de nuevo en 15min</string>
     <string name="notification_remind2">Recordar de nuevo en 1h</string>
     <string name="notification_remind3">Recordar de nuevo en 6h</string>
-    <string name="importing_entries">Importar entradas seleccionadas &#8230;</string>
+    <string name="importing_entries">Importar entradas seleccionadas. Esto puede tardar varios minutos &#8230;</string>
     <string name="open_app">Abrir aplicación</string>
     <string-array name="default_images">
         <item>Cumpleaños (1)</item>

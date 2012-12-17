@@ -98,9 +98,6 @@
         <item>name</item>
         <item>age</item>
     </string-array>
-    <string name="show_phoneButtons">Botons del telèfon</string>
-    <string name="show_phoneButtons_on">Es mostraran els botons per a trucades i SMS.</string>
-    <string name="show_phoneButtons_off">No es mostraran els botons per a trucades i SMS.</string>
     <string name="choose_type">Escollir el tipus</string>
     <string name="type_birthday">Natalici</string>
     <string name="type_anniversary">Aniversari</string>
@@ -155,7 +152,7 @@
     <string name="notification_remind1">Tornar a recordar en 15min</string>
     <string name="notification_remind2">Tornar a recordar en 1h</string>
     <string name="notification_remind3">Tornar a recordar en 6h</string>
-    <string name="importing_entries">Importar entrades seleccionades &#8230;</string>
+    <string name="importing_entries">Importar entrades seleccionades. Això pot trigar diversos minuts &#8230;</string>
     <string name="open_app">Obrir l’aplicació</string>
     <string-array name="default_images">
         <item>Natalici (1)</item>

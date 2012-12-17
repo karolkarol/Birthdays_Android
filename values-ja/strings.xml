@@ -98,9 +98,6 @@
         <item>name</item>
         <item>age</item>
     </string-array>
-    <string name="show_phoneButtons">電話機のボタン</string>
-    <string name="show_phoneButtons_on">通話とSMS用のボタンが表示されます。</string>
-    <string name="show_phoneButtons_off">通話とSMS用のボタンが表示されません。</string>
     <string name="choose_type">タイプを選択</string>
     <string name="type_birthday">誕生日</string>
     <string name="type_anniversary">記念日</string>
@@ -155,7 +152,7 @@
     <string name="notification_remind1">15分後にもう一度思い出させる</string>
     <string name="notification_remind2">1時間で再び思い出させる</string>
     <string name="notification_remind3">6時間後にもう一度思い出させる</string>
-    <string name="importing_entries">選択されたエントリのインポート &#8230;</string>
+    <string name="importing_entries">選択されたエントリのインポート. これには数分かかることが &#8230;</string>
     <string name="open_app">オープンアプリ</string>
     <string-array name="default_images">
         <item>誕生日 (1)</item>

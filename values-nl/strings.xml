@@ -98,9 +98,6 @@
         <item>name</item>
         <item>age</item>
     </string-array>
-    <string name="show_phoneButtons">Telefoonknoppen</string>
-    <string name="show_phoneButtons_on">.Telefoonknoppen voor Bellen &#38; SMS worden getoond</string>
-    <string name="show_phoneButtons_off">.Telefoonknoppen voor Bellen &#38; SMS worden niet getoond</string>
     <string name="choose_type">Kies type</string>
     <string name="type_birthday">Verjaardag</string>
     <string name="type_anniversary">Speciale dag</string>
@@ -155,7 +152,7 @@
     <string name="notification_remind1">Herinner mij in 15 min</string>
     <string name="notification_remind2">Herinner mij in 1 uur</string>
     <string name="notification_remind3">Herinner mij in 6 uur</string>
-    <string name="importing_entries">Importeer de geselecteerde items &#8230;</string>
+    <string name="importing_entries">Importeer de geselecteerde items. Dit kan enkele minuten duren &#8230;</string>
     <string name="open_app">Open App</string>
     <string-array name="default_images">
         <item>Verjaardag (1)</item>

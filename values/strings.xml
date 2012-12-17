@@ -98,9 +98,6 @@
         <item>name</item>
         <item>age</item>
     </string-array>
-    <string name="show_phoneButtons">Phone buttons</string>
-    <string name="show_phoneButtons_on">Buttons for calls and SMS will be shown.</string>
-    <string name="show_phoneButtons_off">Buttons for calls and SMS will not be shown.</string>
     <string name="choose_type">Choose type</string>
     <string name="type_birthday">Birthday</string>
     <string name="type_anniversary">Anniversary</string>
@@ -155,7 +152,7 @@
     <string name="notification_remind1">Remind again in 15min</string>
     <string name="notification_remind2">Remind again in 1h</string>
     <string name="notification_remind3">Remind again in 6h</string>
-    <string name="importing_entries">Importing the selected entries &#8230;</string>
+    <string name="importing_entries">Importing the selected entries. This can take several minutes &#8230;</string>
     <string name="open_app">Open app</string>
     <string-array name="default_images">
         <item>Birthday (1)</item>

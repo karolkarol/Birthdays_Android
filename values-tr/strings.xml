@@ -98,9 +98,6 @@
         <item>name</item>
         <item>age</item>
     </string-array>
-    <string name="show_phoneButtons">İletişim tuşları</string>
-    <string name="show_phoneButtons_on">Kişiye tıkladığınızda arama ve SMS tuşları gösterilir.</string>
-    <string name="show_phoneButtons_off">Kişiye tıkladığınızda arama ve SMS tuşları gösterilmez.</string>
     <string name="choose_type">Seçiniz</string>
     <string name="type_birthday">Doğum günü</string>
     <string name="type_anniversary">Yıl dönümü</string>
@@ -155,7 +152,7 @@
     <string name="notification_remind1">15dk içerisinde hatırlat</string>
     <string name="notification_remind2">1sa içerisinde hatırlat</string>
     <string name="notification_remind3">6sa içerisinde hatırlat</string>
-    <string name="importing_entries">Seçili kayıtları aktar &#8230;</string>
+    <string name="importing_entries">Seçili kayıtları aktar. Bu işlem birkaç dakika sürebilir &#8230;</string>
     <string name="open_app">Uygulamayı aç</string>
     <string-array name="default_images">
         <item>Doğum günü (1)</item>

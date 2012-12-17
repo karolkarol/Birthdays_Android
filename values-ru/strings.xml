@@ -98,9 +98,6 @@
         <item>name</item>
         <item>age</item>
     </string-array>
-    <string name="show_phoneButtons">Кнопки набора номера</string>
-    <string name="show_phoneButtons_on">Показать кнопки для набора номера или отправки СМС.</string>
-    <string name="show_phoneButtons_off">Скрыть кнопки для набора номера или отправки СМС.</string>
     <string name="choose_type">Выберете тип</string>
     <string name="type_birthday">День рождения</string>
     <string name="type_anniversary">Годовщина</string>
@@ -155,7 +152,7 @@
     <string name="notification_remind1">Напомнить еще через 15 мин.</string>
     <string name="notification_remind2">Напомнить еще через 1 ч.</string>
     <string name="notification_remind3">Напомнить еще через 6 ч.</string>
-    <string name="importing_entries">Импорт выбранных значений &#8230;</string>
+    <string name="importing_entries">Импорт выбранных значений. Это может занять несколько минут &#8230;</string>
     <string name="open_app">Открыть приложение</string>
     <string-array name="default_images">
         <item>Birthday (1)</item>

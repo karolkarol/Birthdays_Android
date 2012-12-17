@@ -98,9 +98,6 @@
         <item>name</item>
         <item>age</item>
     </string-array>
-    <string name="show_phoneButtons">Telefonoaren botoiak</string>
-    <string name="show_phoneButtons_on">Dei eta SMS-tarako botoiak erakutsiko dira.</string>
-    <string name="show_phoneButtons_off">Dei eta SMS-tarako botoiak ez dira erakutsiko.</string>
     <string name="choose_type">Aukeratu mota</string>
     <string name="type_birthday">Urtebetetzea</string>
     <string name="type_anniversary">Urteurrena</string>
@@ -155,7 +152,7 @@
     <string name="notification_remind1">Gogoratu berriro 15min barru</string>
     <string name="notification_remind2">Gogoratu berriro 1b barru</string>
     <string name="notification_remind3">Gogoratu berriro 6b barru</string>
-    <string name="importing_entries">Importatu aukeratutako sarrerak &#8230;</string>
+    <string name="importing_entries">Importatu aukeratutako sarrerak. Honek hainbat minutu iraun dezake &#8230;</string>
     <string name="open_app">Ireki aplikazioa</string>
     <string-array name="default_images">
         <item>Urtebetetzea (1)</item>

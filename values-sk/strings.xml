@@ -98,9 +98,6 @@
         <item>name</item>
         <item>age</item>
     </string-array>
-    <string name="show_phoneButtons">Tlačidlo hovoru</string>
-    <string name="show_phoneButtons_on">Tlačidlo hovoru sa bude zobrazovať.</string>
-    <string name="show_phoneButtons_off">Tlačidlo hovoru sa nebude zobrazovať.</string>
     <string name="choose_type">Vyberte typ</string>
     <string name="type_birthday">Narodeniny</string>
     <string name="type_anniversary">Výročie</string>
@@ -155,7 +152,7 @@
     <string name="notification_remind1">Pripomenúť znova o 15min</string>
     <string name="notification_remind2">Pripomenúť znova o 1hod</string>
     <string name="notification_remind3">Pripomenúť znova o 6hod</string>
-    <string name="importing_entries">Import vybraných položiek &#8230;</string>
+    <string name="importing_entries">Import vybraných položiek. To môže trvať niekoľko minút &#8230;</string>
     <string name="open_app">Otvoriť apl.</string>
     <string-array name="default_images">
         <item>Narodeniny (1)</item>
