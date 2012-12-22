@@ -7,8 +7,8 @@
     <string name="showPhotos">Fotos dels contactes</string>
     <string name="showPhotos_on">Es mostraran les fotos dels contactes.</string>
     <string name="showPhotos_off">No es mostraran les fotos dels contactes.</string>
-    <string name="nextBirthdayOnWeekDay">El proper natalici és el</string>
-    <string name="nextAnniversaryOnWeekDay">El proper aniversari és el</string>
+    <string name="nextBirthdayOnWeekDay">El proper natalici serà en</string>
+    <string name="nextAnniversaryOnWeekDay">El proper aniversari serà en</string>
     <string name="tipDontEnterYear"><b>Suggeriment:</b> Si no vols introduir l’any, només has d’escriure l’any \"1900\" i l’any no serà visible.</string>
     <string name="contactPhoto">Foto del contacte</string>
     <string name="daysLeftUnit">dies</string>
