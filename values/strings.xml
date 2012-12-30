@@ -5,8 +5,7 @@
     <string name="goHome">Go home</string>
     <string name="settingsGeneral">General settings</string>
     <string name="showPhotos">Contacts\' photos</string>
-    <string name="showPhotos_on">Contacts\' photos will be shown.</string>
-    <string name="showPhotos_off">Contacts\' photos will not be shown.</string>
+    <string name="showPhotos_summary">Do you want people\'s photos to be shown in the list?</string>
     <string name="nextBirthdayOnWeekDay">The next birthday is on a</string>
     <string name="nextAnniversaryOnWeekDay">The next anniversary is on a</string>
     <string name="tipDontEnterYear"><b>Hint:</b> Don\'t want to enter any year? Just type \"1900\" and the year will not be shown.</string>
@@ -36,7 +35,7 @@
     <string name="callVerb">Call</string>
     <string name="mode_add">Add</string>
     <string name="mode_edit">Change</string>
-    <string name="mode_backup">Backup</string>
+    <string name="mode_backup">Sync</string>
     <string name="mode_help">Help</string>
     <string name="mode_buy">Gifts</string>
     <string name="birthdayEdited">The selected birthday has been updated to the new date.</string>
@@ -103,8 +102,8 @@
     <string name="type_anniversary">Anniversary</string>
     <string name="open_contact">Open contact</string>
     <string name="buyVerb">Find a gift</string>
-    <string name="doExport">Export / Save</string>
-    <string name="doImport">Import / Load</string>
+    <string name="doExport">Export to SD</string>
+    <string name="doImport">Import from SD</string>
     <string name="importVerb">Import</string>
 	<string name="pleaseEnterImportData">Sorry, the import could not be finished!</string>
     <string name="invalidDate">Invalid date.</string>
@@ -138,8 +137,7 @@
         <item>none</item>
     </string-array>
 	<string name="do_repeatsound">Repeat sound</string>
-	<string name="do_repeatsound_on">The notification sound will be repeated until you close the notification.</string>
-	<string name="do_repeatsound_off">The notification sound will only be played once.</string>
+	<string name="do_repeatsound_summary">Will the sound be repeated until you close the notification?</string>
 	<string name="facebookImport">Import from Facebook</string>
 	<string name="install">Install now</string>
 	<string name="missing_addon_title">Birthdays Plus</string>
@@ -212,6 +210,8 @@
     <string name="person_actions">Actions</string>
     <string name="save_note">Save a note</string>
     <string name="delete_image">Delete image</string>
-    <string name="your_note">Your note</string>
+    <string name="your_note">Note</string>
     <string name="typeYourNote">Type your personal note &#8230;</string>
+    <string name="default_locale">Standard (Recommended)</string>
+    <string name="language">Language</string>
 </resources>

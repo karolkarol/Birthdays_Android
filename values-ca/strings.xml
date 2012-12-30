@@ -5,8 +5,7 @@
     <string name="goHome">Tornar</string>
     <string name="settingsGeneral">Configuració general</string>
     <string name="showPhotos">Fotos dels contactes</string>
-    <string name="showPhotos_on">Es mostraran les fotos dels contactes.</string>
-    <string name="showPhotos_off">No es mostraran les fotos dels contactes.</string>
+    <string name="showPhotos_summary">Vols fotos de la gent que es mostra a la llista?</string>
     <string name="nextBirthdayOnWeekDay">El proper natalici serà en</string>
     <string name="nextAnniversaryOnWeekDay">El proper aniversari serà en</string>
     <string name="tipDontEnterYear"><b>Suggeriment:</b> Si no vols introduir l’any, només has d’escriure l’any \"1900\" i l’any no serà visible.</string>
@@ -36,7 +35,7 @@
     <string name="callVerb">Trucar</string>
     <string name="mode_add">Afegir</string>
     <string name="mode_edit">Editar</string>
-    <string name="mode_backup">Còpia de seguretat</string>
+    <string name="mode_backup">Sincronitzar</string>
     <string name="mode_help">Ajuda</string>
     <string name="mode_buy">Regals</string>
     <string name="birthdayEdited">L’aniversari seleccionat s’ha actualitzat a la nova data.</string>
@@ -103,8 +102,8 @@
     <string name="type_anniversary">Aniversari</string>
     <string name="open_contact">Obrir el contacte</string>
     <string name="buyVerb">Trobar un regal</string>
-    <string name="doExport">Exportar / Desar</string>
-    <string name="doImport">Importar / Carregar</string>
+    <string name="doExport">Exporta a SD</string>
+    <string name="doImport">Importar des SD</string>
     <string name="importVerb">Importar</string>
 	<string name="pleaseEnterImportData">Malauradament, la importació no s’ha pogut acabar!</string>
     <string name="invalidDate">Data no vàlida.</string>
@@ -138,8 +137,7 @@
         <item>none</item>
     </string-array>
 	<string name="do_repeatsound">Repeteix el so</string>
-	<string name="do_repeatsound_on">El so de notificació es repetirà fins que es tanqui la notificació.</string>
-	<string name="do_repeatsound_off">El so de notificació només es reproduirà una vegada.</string>
+	<string name="do_repeatsound_summary">El so es repetirà fins que es tanqui la notificació?</string>
 	<string name="facebookImport">Importar de Facebook</string>
 	<string name="install">Instal·lar ara</string>
 	<string name="missing_addon_title">Aniversaris Plus</string>
@@ -212,6 +210,8 @@
     <string name="person_actions">Més opcions</string>
     <string name="save_note">Desar una nota</string>
     <string name="delete_image">Eliminar imatge</string>
-    <string name="your_note">La seva nota</string>
+    <string name="your_note">Nota</string>
     <string name="typeYourNote">Introduïu el nota personal &#8230;</string>
+    <string name="default_locale">Estàndard (recomanat)</string>
+    <string name="language">Idioma</string>
 </resources>

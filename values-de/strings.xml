@@ -5,8 +5,7 @@
     <string name="goHome">Zur Startseite</string>
     <string name="settingsGeneral">Allgemeine Einstellungen</string>
     <string name="showPhotos">Kontaktfotos</string>
-    <string name="showPhotos_on">Fotos der Kontakte werden angezeigt.</string>
-    <string name="showPhotos_off">Fotos der Kontakte werden nicht angezeigt.</string>
+    <string name="showPhotos_summary">Möchtest Du, dass die Fotos der Personen in der Liste angezeigt werden?</string>
     <string name="nextBirthdayOnWeekDay">Der nächste Geburtstag ist an einem</string>
     <string name="nextAnniversaryOnWeekDay">Der nächste Jahrestag ist an einem</string>
     <string name="tipDontEnterYear"><b>Tipp:</b> Du möchtest kein Jahr angeben? Tippe einfach \"1900\" ein - so wird später kein Jahr angezeigt.</string>
@@ -36,7 +35,7 @@
     <string name="callVerb">Anrufen</string>
     <string name="mode_add">Hinzufügen</string>
     <string name="mode_edit">Ändern</string>
-    <string name="mode_backup">Backup</string>
+    <string name="mode_backup">Sync</string>
     <string name="mode_help">Hilfe</string>
     <string name="mode_buy">Geschenke</string>
     <string name="birthdayEdited">Der ausgewählte Geburtstag wurde auf das neue Datum aktualisiert.</string>
@@ -103,8 +102,8 @@
     <string name="type_anniversary">Jahrestag</string>
     <string name="open_contact">Kontakt öffnen</string>
     <string name="buyVerb">Geschenk suchen</string>
-    <string name="doExport">Exportieren / Speichern</string>
-    <string name="doImport">Importieren / Laden</string>
+    <string name="doExport">Exportieren auf SD</string>
+    <string name="doImport">Importieren von SD</string>
     <string name="importVerb">Importieren</string>
 	<string name="pleaseEnterImportData">Sorry, der Import konnte nicht abgeschlossen werden!</string>
     <string name="invalidDate">Ungültiges Datum.</string>
@@ -138,8 +137,7 @@
         <item>none</item>
     </string-array>
 	<string name="do_repeatsound">Sound wiederholen</string>
-	<string name="do_repeatsound_on">Der Ton wird abgespielt, bis Du die Erinnerung schließt.</string>
-	<string name="do_repeatsound_off">Der Ton wird nur ein Mal abgespielt.</string>
+	<string name="do_repeatsound_summary">Soll der Sound wiederholt werden, bis Du die Benachrichtigung schließt?</string>
 	<string name="facebookImport">Importieren von Facebook</string>
 	<string name="install">Jetzt installieren</string>
 	<string name="missing_addon_title">Geburtstage Plus</string>
@@ -212,6 +210,8 @@
     <string name="person_actions">Mehr Optionen</string>
     <string name="save_note">Notiz speichern</string>
     <string name="delete_image">Bild löschen</string>
-    <string name="your_note">Deine Notiz</string>
+    <string name="your_note">Notiz</string>
     <string name="typeYourNote">Tippe Deine persönliche Notiz ein &#8230;</string>
+    <string name="default_locale">Standard (Empfohlen)</string>
+    <string name="language">Sprache</string>
 </resources>

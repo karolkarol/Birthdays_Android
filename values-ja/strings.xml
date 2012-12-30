@@ -5,8 +5,7 @@
     <string name="goHome">家に帰る</string>
     <string name="settingsGeneral">全般設定</string>
     <string name="showPhotos">連絡先の写真</string>
-    <string name="showPhotos_on">連絡先の写真が表示されます。</string>
-    <string name="showPhotos_off">連絡先の写真が表示されません。</string>
+    <string name="showPhotos_summary">あなたは人々の写真が一覧に表示されたいですか？</string>
     <string name="nextBirthdayOnWeekDay">次の誕生日はオンになっています</string>
     <string name="nextAnniversaryOnWeekDay">次の記念日はオンになっています</string>
     <string name="tipDontEnterYear"><b>ヒント：</b> 任意の年を入力したくないですか？ただタイプ1900と年が表示されません。</string>
@@ -36,7 +35,7 @@
     <string name="callVerb">呼び出す</string>
     <string name="mode_add">加える</string>
     <string name="mode_edit">変更</string>
-    <string name="mode_backup">バックアップ</string>
+    <string name="mode_backup">同期</string>
     <string name="mode_help">助ける</string>
     <string name="mode_buy">ギフト</string>
     <string name="birthdayEdited">選択された誕生日は新しい日付に更新されました。</string>
@@ -103,8 +102,8 @@
     <string name="type_anniversary">記念日</string>
     <string name="open_contact">連絡先を開きます</string>
     <string name="buyVerb">ギフトを探す</string>
-    <string name="doExport">保存/エクスポート</string>
-    <string name="doImport">インポート/ロード</string>
+    <string name="doExport">SDにエクスポート</string>
+    <string name="doImport">SDからのインポート</string>
     <string name="importVerb">インポート</string>
 	<string name="pleaseEnterImportData">申し訳ありませんが、インポートが終了することができませんでした！</string>
     <string name="invalidDate">日付が無効です。</string>
@@ -138,8 +137,7 @@
         <item>none</item>
     </string-array>
 	<string name="do_repeatsound">音を繰り返し</string>
-	<string name="do_repeatsound_on">通知を閉じるまで、通知音が繰り返されます。</string>
-	<string name="do_repeatsound_off">通知音は一度だけ再生されます。</string>
+	<string name="do_repeatsound_summary">通知を閉じるまで音が繰り返されるのだろうか？</string>
 	<string name="facebookImport">Facebookからインポート</string>
 	<string name="install">今すぐインストール</string>
 	<string name="missing_addon_title">誕生日プラス</string>
@@ -212,6 +210,8 @@
     <string name="person_actions">その他のオプション</string>
     <string name="save_note">保存しないe</string>
     <string name="delete_image">画像を削除</string>
-    <string name="your_note">あなたのメモ</string>
+    <string name="your_note">注意</string>
     <string name="typeYourNote">あなたの個人的なメモを入力 &#8230;</string>
+    <string name="default_locale">標準（推奨）</string>
+    <string name="language">言語</string>
 </resources>

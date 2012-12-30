@@ -5,8 +5,7 @@
     <string name="goHome">Begin</string>
     <string name="settingsGeneral">Instellingen</string>
     <string name="showPhotos">Contact foto\'s</string>
-    <string name="showPhotos_on">Contact foto\'s worden getoond</string>
-    <string name="showPhotos_off">Contact foto\'s worden niet getoond</string>
+    <string name="showPhotos_summary">Wil je dat mensen de foto\'s worden getoond in de lijst?</string>
     <string name="nextBirthdayOnWeekDay">De volgende verjaardag is op een</string>
     <string name="nextAnniversaryOnWeekDay">De volgende speciale dag is op een</string>
     <string name="tipDontEnterYear"><b>Tip:</b> Als je geen jaartal wilt invoeren, vul dan \"1900\" in en het jaartal zal niet getoond worden.</string>
@@ -36,7 +35,7 @@
     <string name="callVerb">Bel</string>
     <string name="mode_add">Voeg toe</string>
     <string name="mode_edit">Wijzig</string>
-    <string name="mode_backup">Back-up</string>
+    <string name="mode_backup">Sync</string>
     <string name="mode_help">Help</string>
     <string name="mode_buy">Koop</string>
     <string name="birthdayEdited">De geselecteerde geboortedatum is aangepast naar de nieuw opgegeven datum.</string>
@@ -103,8 +102,8 @@
     <string name="type_anniversary">Speciale dag</string>
     <string name="open_contact">Open contact</string>
     <string name="buyVerb">Vinden van een cadeau</string>
-    <string name="doExport">Exporteer / Opslaan</string>
-    <string name="doImport">Importeer / Laden</string>
+    <string name="doExport">Exporteren naar SD</string>
+    <string name="doImport">Importeren van SD</string>
     <string name="importVerb">Importeer</string>
 	<string name="pleaseEnterImportData">Mijn excuses, het importen kon niet succesvol afgerond worden. Probeer later opnieuw!</string>
     <string name="invalidDate">Foutieve datum.</string>
@@ -138,8 +137,7 @@
         <item>none</item>
     </string-array>
 	<string name="do_repeatsound">Herhaal alarm</string>
-	<string name="do_repeatsound_on">Het alarm zal worden herhaald, totdat je het alarm handmatig uitschakelt.</string>
-	<string name="do_repeatsound_off">Het alarmgeluid zal eenmalig afgespeeld worden.</string>
+	<string name="do_repeatsound_summary">Zal het geluid worden herhaald totdat u de melding?</string>
 	<string name="facebookImport">Importeer vanuit Facebook</string>
 	<string name="install">Nu installeren</string>
 	<string name="missing_addon_title">Verjaardagen Plus</string>
@@ -212,6 +210,8 @@
     <string name="person_actions">Meer opties</string>
     <string name="save_note">Sla er rekening mee</string>
     <string name="delete_image">Afbeelding verwijderen</string>
-    <string name="your_note">Uw opmerking</string>
+    <string name="your_note">Opmerking</string>
     <string name="typeYourNote">Typ uw persoonlijke noot &#8230;</string>
+    <string name="default_locale">Standaard (aanbevolen)</string>
+    <string name="language">Taal</string>
 </resources>

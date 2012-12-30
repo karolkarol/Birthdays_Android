@@ -5,8 +5,7 @@
     <string name="goHome">Домой</string>
     <string name="settingsGeneral">Основные настройки</string>
     <string name="showPhotos">Показать фото</string>
-    <string name="showPhotos_on">Фото на контакте установлено</string>
-    <string name="showPhotos_off">Фото на контакте скрыто.</string>
+    <string name="showPhotos_summary">Вы хотите, фотографии людей будет показана в списке?</string>
     <string name="nextBirthdayOnWeekDay">Следующий день рождения</string>
     <string name="nextAnniversaryOnWeekDay">Следующая годовщина</string>
     <string name="tipDontEnterYear"><b>Подсказка:</b> Не хотите вводить год? Введите \"1900\" и год не будет показан.</string>
@@ -36,7 +35,7 @@
     <string name="callVerb">Позвонить</string>
     <string name="mode_add">Добавить</string>
     <string name="mode_edit">Изменить</string>
-    <string name="mode_backup">Копия</string>
+    <string name="mode_backup">Синхронизация</string>
     <string name="mode_help">Справка</string>
     <string name="mode_buy">Подарки</string>
     <string name="birthdayEdited">Дата дня рождения обновлена.</string>
@@ -103,8 +102,8 @@
     <string name="type_anniversary">Годовщина</string>
     <string name="open_contact">Открыть контакт</string>
     <string name="buyVerb">найти настоящего</string>
-    <string name="doExport">Экспорт</string>
-    <string name="doImport">Импорт</string>
+    <string name="doExport">Экспорт в SD</string>
+    <string name="doImport">Импорт из SD</string>
     <string name="importVerb">Импорт</string>
 	<string name="pleaseEnterImportData">Извините, импорт не закончен!</string>
     <string name="invalidDate">Дата не верна.</string>
@@ -138,8 +137,7 @@
         <item>none</item>
     </string-array>
 	<string name="do_repeatsound">Повторить сигнал</string>
-	<string name="do_repeatsound_on">Сигнал уведомления будет повторяться до закрытия уведомления.</string>
-	<string name="do_repeatsound_off">Сигнал уведомления прозвучит один раз.</string>
+	<string name="do_repeatsound_summary">Будет ли звук повторяется до закрытия уведомления?</string>
 	<string name="facebookImport">Импорт из Facebook</string>
 	<string name="install">Установить</string>
 	<string name="missing_addon_title">Дни рождения плюс</string>
@@ -212,6 +210,8 @@
     <string name="person_actions">Дополнительные опции</string>
     <string name="save_note">Сохранить заметку</string>
     <string name="delete_image">Удалить изображение</string>
-    <string name="your_note">Ваше примечание</string>
+    <string name="your_note">внимание</string>
     <string name="typeYourNote">Введите ваши личные записки &#8230;</string>
+    <string name="default_locale">Стандартный (рекомендуется)</string>
+    <string name="language">язык</string>
 </resources>

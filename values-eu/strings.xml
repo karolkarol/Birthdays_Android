@@ -5,8 +5,7 @@
     <string name="goHome">Hasiera</string>
     <string name="settingsGeneral">Konfigurazio orokorra</string>
     <string name="showPhotos">Kontaktuen argazkiak</string>
-    <string name="showPhotos_on">Kontaktuen argazkiak erakutsiko dira.</string>
-    <string name="showPhotos_off">Kontaktuen argazkiak ez dira erakutsiko.</string>
+    <string name="showPhotos_summary">Zerrendan erakutsi beharreko pertsonen argazkiak nahi duzu?</string>
     <string name="nextBirthdayOnWeekDay">Hurrengo urtebetetzea ondokoan izango da</string>
     <string name="nextAnniversaryOnWeekDay">Hurrengo urteurrena ondokoan izango da</string>
     <string name="tipDontEnterYear"><b>Iradokizuna:</b> Urtea sartu nahi ez baduzu, \"1900\" idaztea besterik ez duzu eta ez da urtea ikusiko.</string>
@@ -36,7 +35,7 @@
     <string name="callVerb">Deitu</string>
     <string name="mode_add">Gehitu</string>
     <string name="mode_edit">Editatu</string>
-    <string name="mode_backup">Segurtasun-kopia</string>
+    <string name="mode_backup">Sinkronizatu</string>
     <string name="mode_help">Laguntza</string>
     <string name="mode_buy">Opariak</string>
     <string name="birthdayEdited">Aukeratutako urtebetetzea data berrira eguneratu da.</string>
@@ -103,8 +102,8 @@
     <string name="type_anniversary">Urteurrena</string>
     <string name="open_contact">Ireki kontaktua</string>
     <string name="buyVerb">Opari bat erosi</string>
-    <string name="doExport">Esportatu / Gorde</string>
-    <string name="doImport">Inportatu / Kargatu</string>
+    <string name="doExport">SD esportatu</string>
+    <string name="doImport">SD etik inportatu</string>
     <string name="importVerb">Inportatu</string>
 	<string name="pleaseEnterImportData">Tamalez, inportazioa ezin izan da amaitu!</string>
     <string name="invalidDate">Data baliogabea.</string>
@@ -138,8 +137,7 @@
         <item>none</item>
     </string-array>
 	<string name="do_repeatsound">Errepikatu soinua</string>
-	<string name="do_repeatsound_on">Jakinarazpenaren soinua jakinarazpena itxi arte errepikatuko da.</string>
-	<string name="do_repeatsound_off">Jakinarazpenaren soinua behin bakarrik erreproduzituko da.</string>
+	<string name="do_repeatsound_summary">Errepikatzen soinua, jakinarazpena itxi arte?</string>
 	<string name="facebookImport">Facebook-tik inportatzea</string>
 	<string name="install">Instalatu orain</string>
 	<string name="missing_addon_title">Birthdays Plus</string>
@@ -212,6 +210,8 @@
     <string name="person_actions">Actions</string>
     <string name="save_note">Save a note</string>
     <string name="delete_image">Delete image</string>
-    <string name="your_note">Your note</string>
+    <string name="your_note">Note</string>
     <string name="typeYourNote">Type your personal note &#8230;</string>
+    <string name="default_locale">Standard (gomendatua)</string>
+    <string name="language">Hizkuntzen</string>
 </resources>

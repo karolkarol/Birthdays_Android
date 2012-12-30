@@ -5,8 +5,7 @@
     <string name="goHome">Prejsť domov</string>
     <string name="settingsGeneral">Všeobecné nastavenia</string>
     <string name="showPhotos">Fotky kontaktov</string>
-    <string name="showPhotos_on">Fotky kontaktov sa budú zobrazovať</string>
-    <string name="showPhotos_off">Fotky kontaktov sa nebudú zobrazovať</string>
+    <string name="showPhotos_summary">Chceš fotografie ľudí, aby vám ukáže v zozname?</string>
     <string name="nextBirthdayOnWeekDay">Ďalšie narodeniny budú v</string>
     <string name="nextAnniversaryOnWeekDay">Ďalšie výročie bude v</string>
     <string name="tipDontEnterYear"><b>Tip:</b>Nechcete zobrazovať žiadny rok? Zadajte hodnotu \"1900\" a rok sa nebude zobrazovať.</string>
@@ -36,7 +35,7 @@
     <string name="callVerb">Hovor</string>
     <string name="mode_add">Pridať</string>
     <string name="mode_edit">Zmeniť</string>
-    <string name="mode_backup">Zálohovať</string>
+    <string name="mode_backup">Synchronizovať</string>
     <string name="mode_help">Nápoveda</string>
     <string name="mode_buy">Darčeky</string>
     <string name="birthdayEdited">Vybrané narodeniny boli aktualizované na nový dátum.</string>
@@ -103,8 +102,8 @@
     <string name="type_anniversary">Výročie</string>
     <string name="open_contact">Otvoriť kontakt</string>
     <string name="buyVerb">Nájsť darček</string>
-    <string name="doExport">Exportovať / Uložiť</string>
-    <string name="doImport">Importovať / Načítať</string>
+    <string name="doExport">Export na SD</string>
+    <string name="doImport">Dovoz z SD</string>
     <string name="importVerb">Importovať</string>
 	<string name="pleaseEnterImportData">Je nám ľúto, import zlyhal!</string>
     <string name="invalidDate">Neplatný dátum.</string>
@@ -138,8 +137,7 @@
         <item>none</item>
     </string-array>
 	<string name="do_repeatsound">Opakovať zvuk</string>
-	<string name="do_repeatsound_on">Zvukové oznámenie sa bude opakovať, kým nezatvoríte oznámenie.</string>
-	<string name="do_repeatsound_off">Zvukové oznámenie sa prehraje iba raz.</string>
+	<string name="do_repeatsound_summary">Zvuk bude opakovať, kým nezavriete oznámenia?</string>
 	<string name="facebookImport">Importovať z Facebooku</string>
 	<string name="install">Inštalovať teraz</string>
 	<string name="missing_addon_title">Narodeniny Plus</string>
@@ -212,6 +210,8 @@
     <string name="person_actions">Ďalšie možnosti</string>
     <string name="save_note">Uložiť poznámku</string>
     <string name="delete_image">Odstrániť obrázok</string>
-    <string name="your_note">Vaša poznámka</string>
+    <string name="your_note">Poznámka</string>
     <string name="typeYourNote">Zadajte svoje osobné poznámku &#8230;</string>
+    <string name="default_locale">Štandardné (doporučené)</string>
+    <string name="language">Jazyk</string>
 </resources>

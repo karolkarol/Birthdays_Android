@@ -5,8 +5,7 @@
     <string name="goHome">En arrière</string>
     <string name="settingsGeneral">Paramètres généraux</string>
     <string name="showPhotos">Photos des contacts</string>
-    <string name="showPhotos_on">Les photos des contacts sera montré.</string>
-    <string name="showPhotos_off">Les photos des contacts ne sera pas montré.</string>
+    <string name="showPhotos_summary">Voulez-vous des photos des gens à être affiché dans la liste?</string>
     <string name="nextBirthdayOnWeekDay">Le prochain anniversaire est un</string>
     <string name="nextAnniversaryOnWeekDay">Le prochain anniversaire est un</string>
     <string name="tipDontEnterYear"><b>Conseil:</b> Vous ne voulez pas saisir un an? Il suffit de taper \"1900\" et l\'année ne sera pas montré.</string>
@@ -36,7 +35,7 @@
     <string name="callVerb">Appel</string>
     <string name="mode_add">Ajoute</string>
     <string name="mode_edit">Modifier</string>
-    <string name="mode_backup">Sauvegarde</string>
+    <string name="mode_backup">Synchronisez</string>
     <string name="mode_help">Aide</string>
     <string name="mode_buy">Cadeaux</string>
     <string name="birthdayEdited">L\'anniversaire sélectionné a été modifié á la nouvelle date.</string>
@@ -103,8 +102,8 @@
     <string name="type_anniversary">Anniversaire d\'événement</string>
     <string name="open_contact">Ouvrez de contact</string>
     <string name="buyVerb">Trouver un cadeau</string>
-    <string name="doExport">Exporter / Enregistrer</string>
-    <string name="doImport">Importer / Charger</string>
+    <string name="doExport">Exporter au SD</string>
+    <string name="doImport">Importer du SD</string>
     <string name="importVerb">Importer</string>
 	<string name="pleaseEnterImportData">Désolé, l\'importation n\'a pas pu être terminé!</string>
     <string name="invalidDate">Date invalide.</string>
@@ -138,8 +137,7 @@
         <item>none</item>
     </string-array>
 	<string name="do_repeatsound">Répéter sonnerie</string>
-	<string name="do_repeatsound_on">La sonnerie de notification sera répétée jusqu\'à ce que vous fermez la notification.</string>
-	<string name="do_repeatsound_off">La sonnerie de notification ne sera joué qu\'une fois.</string>
+	<string name="do_repeatsound_summary">Est-ce que le son sera répété jusqu\'à ce que vous fermiez la notification?</string>
 	<string name="facebookImport">Importer de Facebook</string>
 	<string name="install">Installer maintenant</string>
 	<string name="missing_addon_title">Anniversaires Plus</string>
@@ -212,6 +210,8 @@
     <string name="person_actions">Plus d\'options</string>
     <string name="save_note">Enregistrer une note</string>
     <string name="delete_image">Effacer l\'image</string>
-    <string name="your_note">Votre note</string>
+    <string name="your_note">Note</string>
     <string name="typeYourNote">Tapez votre note personnelle &#8230;</string>
+    <string name="default_locale">Standard (recommandé)</string>
+    <string name="language">Langue</string>
 </resources>

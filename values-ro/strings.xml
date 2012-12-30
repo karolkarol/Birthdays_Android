@@ -5,8 +5,7 @@
     <string name="goHome">Acasa</string>
     <string name="settingsGeneral">Setari generale</string>
     <string name="showPhotos">Pozele persoanelor</string>
-    <string name="showPhotos_on">Pozele persoanelor vor fi afisate.</string>
-    <string name="showPhotos_off">Pozele persoanelor nu vor fi afisate.</string>
+    <string name="showPhotos_summary">Nu vrei fotografiile oamenilor care urmează să fie prezentate în listă?</string>
     <string name="nextBirthdayOnWeekDay">Ziua de na?tere urmatoare este</string>
     <string name="nextAnniversaryOnWeekDay">Urmatoarea aniversare este</string>
     <string name="tipDontEnterYear"><b>Sugestie:</b> Nu doriti sa introduceti nici un an? Doar tastati \"1900\" si anul nu va fi indicat.</string>
@@ -36,7 +35,7 @@
     <string name="callVerb">Sunati</string>
     <string name="mode_add">Adaugati</string>
     <string name="mode_edit">Schimbati</string>
-    <string name="mode_backup">Backup</string>
+    <string name="mode_backup">Sincronizați</string>
     <string name="mode_help">Ajutor</string>
     <string name="mode_buy">Cadouri</string>
     <string name="birthdayEdited">The selected birthday has been updated to the new date.</string>
@@ -103,8 +102,8 @@
     <string name="type_anniversary">Anniversary</string>
     <string name="open_contact">Open contact</string>
     <string name="buyVerb">Găsi un cadou</string>
-    <string name="doExport">Export / Save</string>
-    <string name="doImport">Import / Load</string>
+    <string name="doExport">Exportați în SD</string>
+    <string name="doImport">Import de la SD</string>
     <string name="importVerb">Import</string>
 	<string name="pleaseEnterImportData">Sorry, the import could not be finished!</string>
     <string name="invalidDate">Invalid date.</string>
@@ -138,8 +137,7 @@
         <item>none</item>
     </string-array>
 	<string name="do_repeatsound">Repeat sound</string>
-	<string name="do_repeatsound_on">The notification sound will be repeated until you close the notification.</string>
-	<string name="do_repeatsound_off">The notification sound will only be played once.</string>
+	<string name="do_repeatsound_summary">Va sunetul se repetă până când închideți notificarea?</string>
 	<string name="facebookImport">Import from Facebook</string>
 	<string name="install">Install now</string>
 	<string name="missing_addon_title">Zile de naștere Plus</string>
@@ -212,6 +210,8 @@
     <string name="person_actions">Mai multe opțiuni</string>
     <string name="save_note">Memora o notă</string>
     <string name="delete_image">Ștergeți imaginea</string>
-    <string name="your_note">Comentariul d-voastra</string>
+    <string name="your_note">Comentariul</string>
     <string name="typeYourNote">Tastați nota dumneavoastră personale &#8230;</string>
+    <string name="default_locale">Standard (recomandat)</string>
+    <string name="language">Limbă</string>
 </resources>

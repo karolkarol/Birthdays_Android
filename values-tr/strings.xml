@@ -5,8 +5,7 @@
     <string name="goHome">Ana Menü\'ye git</string>
     <string name="settingsGeneral">Genel Ayarlar</string>
     <string name="showPhotos">Kişilerin fotoğrafları</string>
-    <string name="showPhotos_on">Kişilerin fotoğrafları gösterilecek.</string>
-    <string name="showPhotos_off">Kişilerin fotoğrafları gösterilmeyecek</string>
+    <string name="showPhotos_summary">Eğer insanların fotoğrafları listesinde gösterilecek istiyor musunuz?</string>
     <string name="nextBirthdayOnWeekDay">Gelecek doğum günü</string>
     <string name="nextAnniversaryOnWeekDay">Gelecek yıl dönümü</string>
     <string name="tipDontEnterYear"><b>Tavsiye:</b> Yıl girmek istemiyor musunuz? Sadece \"1900\" girin ve yıl bölümü görünmesin.</string>
@@ -36,7 +35,7 @@
     <string name="callVerb">Ara</string>
     <string name="mode_add">Ekle</string>
     <string name="mode_edit">Değiştir</string>
-    <string name="mode_backup">Yedekle</string>
+    <string name="mode_backup">Sync</string>
     <string name="mode_help">Yardım</string>
     <string name="mode_buy">Hediyeler</string>
     <string name="birthdayEdited">Düzenlenen doğum günü yeni tarihe güncellendi.</string>
@@ -103,8 +102,8 @@
     <string name="type_anniversary">Yıl dönümü</string>
     <string name="open_contact">Kişiyi aç</string>
     <string name="buyVerb">Bir hediye bulmak</string>
-    <string name="doExport">Dışa çıkart / Kaydet</string>
-    <string name="doImport">İçe aktar / Yükle</string>
+    <string name="doExport">SD aktar</string>
+    <string name="doImport">SD İthalat</string>
     <string name="importVerb">İçe aktar</string>
 	<string name="pleaseEnterImportData">Üzgünüz, yükleme kaydı bitirilemedi!</string>
     <string name="invalidDate">Geçersiz tarih.</string>
@@ -138,8 +137,7 @@
         <item>none</item>
     </string-array>
 	<string name="do_repeatsound">Sesi tekrarla</string>
-	<string name="do_repeatsound_on">Bildirim sesi siz bildirimi kapatana dek çalacak.</string>
-	<string name="do_repeatsound_off">Bildirim sesi sadece bir kere çalacak.</string>
+	<string name="do_repeatsound_summary">Eğer bildirim kapatana kadar ses tekrar olacak mı?</string>
 	<string name="facebookImport">Facebook\'tan yükle</string>
 	<string name="install">Şimdi yükle</string>
 	<string name="missing_addon_title">Doğum Günleri artı</string>
@@ -212,6 +210,8 @@
     <string name="person_actions">Daha fazla seçenek</string>
     <string name="save_note">Bir not kaydedin</string>
     <string name="delete_image">Görüntüyü sil</string>
-    <string name="your_note">Kişisel notu</string>
+    <string name="your_note">Dikkat</string>
     <string name="typeYourNote">Kişisel notu yazın &#8230;</string>
+    <string name="default_locale">Standart (önerilen)</string>
+    <string name="language">Dil</string>
 </resources>
