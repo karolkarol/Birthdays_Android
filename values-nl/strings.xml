@@ -192,9 +192,11 @@
 	<string name="settings_other">Andere instellingen</string>
 	<string name="congratulationText_title">Gefeliciteerd tekst</string>
 	<string name="congratulationText_summary">Stel hier uw vooraf gedefinieerde tekst voor felicitatie berichten.</string>
-	<string name="widet_4x1">Verjaardagen (4x1)</string>
-	<string name="widet_4x2">Verjaardagen (4x2)</string>
-    <string name="fbLoad_fail">Verjaardagen kon niet worden geïmporteerd van Facebook!</string>
+	<string name="widget_4x1">Verjaardagen (4x1)</string>
+	<string name="widget_4x2">Verjaardagen (4x2)</string>
+	<string name="widget_3x1">Verjaardagen (3x1)</string>
+	<string name="widget_text">Verjaardagen (Tekst)</string>
+	<string name="fbLoad_fail">Verjaardagen kon niet worden geïmporteerd van Facebook!</string>
     <string name="fbLoad_success">Verjaardagen succes geïmporteerd uit Facebook!</string>
     <string name="export_success">Back-up succesvol opgeslagen in \"Birthdays Plus\" op SD-kaart!</string>
     <string name="import_fail">Back-up kan niet worden geïmporteerd uit \"Birthdays Plus\" op SD-kaart!</string>
@@ -214,4 +216,5 @@
     <string name="typeYourNote">Typ uw persoonlijke noot &#8230;</string>
     <string name="default_locale">Standaard (aanbevolen)</string>
     <string name="language">Taal</string>
+    <string name="then">Dan:</string>
 </resources>

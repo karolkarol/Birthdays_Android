@@ -192,9 +192,11 @@
 	<string name="settings_other">Sonstige Einstellungen</string>
 	<string name="congratulationText_title">Glückwunsch-Text</string>
 	<string name="congratulationText_summary">Lege hier Deinen voreingestellten Text für Glückwunsch-Nachrichten fest.</string>
-	<string name="widet_4x1">Geburtstage (4x1)</string>
-	<string name="widet_4x2">Geburtstage (4x2)</string>
-    <string name="fbLoad_fail">Geburtstage konnten nicht von Facebook importiert werden!</string>
+	<string name="widget_4x1">Geburtstage (4x1)</string>
+	<string name="widget_4x2">Geburtstage (4x2)</string>
+	<string name="widget_3x1">Geburtstage (3x1)</string>
+	<string name="widget_text">Geburtstage (Text)</string>
+	<string name="fbLoad_fail">Geburtstage konnten nicht von Facebook importiert werden!</string>
     <string name="fbLoad_success">Geburtstage erfolgreich von Facebook importiert!</string>
     <string name="export_success">Backup erfolgreich in \"Birthdays Plus\" auf der SD-Karte gespeichert!</string>
     <string name="import_fail">Backup konnte nicht von \"Birthdays Plus\" auf der SD-Karte geladen werden!</string>
@@ -214,4 +216,5 @@
     <string name="typeYourNote">Tippe Deine persönliche Notiz ein &#8230;</string>
     <string name="default_locale">Standard (Empfohlen)</string>
     <string name="language">Sprache</string>
+    <string name="then">Danach:</string>
 </resources>

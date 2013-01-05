@@ -192,9 +192,11 @@
 	<string name="settings_other">Altre impostazioni</string>
 	<string name="congratulationText_title">Congratulazioni testo</string>
 	<string name="congratulationText_summary">Impostare il testo predefinito per i messaggi di congratulazione qui.</string>
-	<string name="widet_4x1">Compleanni (4x1)</string>
-	<string name="widet_4x2">Compleanni (4x2)</string>
-    <string name="fbLoad_fail">Compleanni non potevano essere importati da Facebook!</string>
+	<string name="widget_4x1">Compleanni (4x1)</string>
+	<string name="widget_4x2">Compleanni (4x2)</string>
+	<string name="widget_3x1">Compleanni (3x1)</string>
+	<string name="widget_text">Compleanni (Testo)</string>
+	<string name="fbLoad_fail">Compleanni non potevano essere importati da Facebook!</string>
     <string name="fbLoad_success">Compleanni importato con successo da Facebook!</string>
     <string name="export_success">Backup salvato con successo in \"Birthdays Plus\" su scheda SD!</string>
     <string name="import_fail">Backup non può essere importato da \"Birthdays Plus\" su scheda SD!</string>
@@ -214,4 +216,5 @@
     <string name="typeYourNote">Inserisci il tuo commento personale &#8230;</string>
     <string name="default_locale">Standard (consigliato)</string>
     <string name="language">Lingua</string>
+    <string name="then">Poi:</string>
 </resources>

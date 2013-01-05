@@ -192,9 +192,11 @@
 	<string name="settings_other">Altres ajustaments</string>
 	<string name="congratulationText_title">Text de felicitació</string>
 	<string name="congratulationText_summary">Posi el seu text predefinit per missatges de felicitació aquí.</string>
-	<string name="widet_4x1">Aniversaris (4x1)</string>
-	<string name="widet_4x2">Aniversaris (4x2)</string>
-    <string name="fbLoad_fail">Els aniversari no es podien importar de Facebook!</string>
+	<string name="widget_4x1">Aniversaris (4x1)</string>
+	<string name="widget_4x2">Aniversaris (4x2)</string>
+	<string name="widget_3x1">Aniversaris (3x1)</string>
+	<string name="widget_text">Aniversaris (Text)</string>
+	<string name="fbLoad_fail">Els aniversari no es podien importar de Facebook!</string>
     <string name="fbLoad_success">Els aniversari amb èxit importat de Facebook!</string>
     <string name="export_success">Backup guardat correctament en \"Birthdays Plus\" a la targeta SD!</string>
     <string name="import_fail">Còpia de seguretat no es podien importar des \"Birthdays Plus\" a la targeta SD!</string>
@@ -214,4 +216,5 @@
     <string name="typeYourNote">Introduïu el nota personal &#8230;</string>
     <string name="default_locale">Estàndard (recomanat)</string>
     <string name="language">Idioma</string>
+    <string name="then">Llavors:</string>
 </resources>

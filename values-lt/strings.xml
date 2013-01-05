@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help">Pagalba</string>
+    <string name="helpText">PARINKČIŲ MENIU:\nParinkčių meniu jūs galite pridėti ar keisti funkcijas, pavyzdžiui, pridėti naują kontaktą.\n\nILGAS KONTAKTO PASPAUDIMAS:\nGimtadienių sąraše išrinkite kontaktą ir paspauskite, kol pasirodys papildomas meniu, kuriame galėsite pasirinkti redaguoti ar ištrinti esamą įrašą gimtadienių sąraše.\n\nNUOTRAUKOS PRIDĖJIMAS:\nJūs galite pridėti nuotrauką tik kontaktui, kurio nėra pačio telefono kontaktų sąraše. Priešingu atveju, prašome pridėti nuotrauką telefono kontaktų sąraše.\n\nVALDIKLIS:\nPridėkite valdiklį į pradžios ekraną standartiniu jūsų Android būdu. Valdiklis atnaujinamas kas 6 valandas!\n\n1970 PROBLEMA:\nJei jūs negalite įrašyti datos iki 1970 metų, tai gali būti jūsų įrenginio problema (tikriausiai, įrenginys Motorola). Prašome įeiti į programos nuostatas ir atjungti „Paprasta datos išranka“. Po šio pakeitimo, teksto laukelyje galėsite įrašyti datą ir iki 1970 metų.\n\nBE PRANEŠIMŲ:\nVėliausiose Android versijose, pradedant nuo 4.0, pridėtos papildomos pranešimų nuostatos. Pavyzdžiui, jūs galite išjungti pranešimus būklės juostoje (kur yra 3G, Wi-Fi, GPS ir Bluetooth). Prašome patikrinti šias nuostatas, jei jūsų pranešimai neveikia.\n\nPERKĖLIMAS Į IŠORINĘ SAUGYKLĄ:\nJūs galite perkelti šią programą į išorinę saugyklą (SD kortelę), bet pranešimai apie artėjančius gimtadienius šiuo atveju neveiks. Atsiprašome!\n\nPALAIKOMI DATOS FORMATAI:\nMes pilnai palaikome datos formatą pagal ISO 8601, kuris yra MMMM-MM-DD. Kitiems formatams mes negarantuojame teisingo programos veikimo.\n\nNORITE PADĖTI IŠVERSTI PROGRAMĄ?\nTaip, jūs galite. Tiesiog pasinaudokite mūsų programa Facebook, kur jūs galite lengvai redaguoti vertimus ir padėti visiems vartotojams. Patogesniam skaitymui ir redagavimui, prašome savo namų kompiuteryje atidaryti šią nuorodą:\nhttp://birthdays.latein.me/</string>
+    <string name="goHome">Į pagrindinį</string>
+    <string name="settingsGeneral">Pagrindinės nuostatos</string>
+    <string name="showPhotos">Kontaktų nuotraukos</string>
+    <string name="showPhotos_summary">Ar norite, kad žmonių nuotraukos būtų rodomos sąraše?</string>
+    <string name="nextBirthdayOnWeekDay">Kitas gimtadienis</string>
+    <string name="nextAnniversaryOnWeekDay">Kitos sukaktuvės</string>
+    <string name="tipDontEnterYear"><b>Užuomina:</b> Nenorite įrašyti metų? Įrašykite \"1900\" ir metai nebus rodomi.</string>
+    <string name="contactPhoto">Kontaktų nuotraukos</string>
+    <string name="daysLeftUnit">Dienų</string>
+    <string name="noBirthdaysFound">Jūsų kontaktų sąraše nerastas joks gimtadienis!</string>
+    <string name="turnVerb">Sukaks</string>
+    <string name="onTime"></string>
+    <string name="pleaseWait">Prašome palaukti</string>
+    <string name="refreshingList">Atnaujinamas sąrašas &#8230;</string>
+    <string name="bornOn">Gimimo data:</string>
+    <string name="anniversaryOn">Sukaktuvės:</string>
+    <string name="age">Amžius:</string>
+    <string name="yearsMarried">Nuo:</string>
+    <string name="years">metų</string>
+    <string name="ok">Gerai</string>
+    <string name="today">šiandien</string>
+    <string name="in"></string>
+    <string name="birthday">Gimtadienis</string>
+    <string name="yearsOld">metų senumo</string>
+    <string name="loading">įkeliama</string>
+    <string name="fullTextConvinced">Ši programa jums patiko? Mes būtume jums labai dėkingi, jei jūs įvertinsite mūsų programą Google Play. Ačiū už jūsų palaikymą!</string>
+    <string name="rateApp">Įvertinkite šią programą</string>
+    <string name="rateNow">Įvertinti dabar</string>
+    <string name="remindLater">Priminti vėliau</string>
+    <string name="noThanks">Ne, ačiū</string>
+    <string name="callVerb">Paskambinti</string>
+    <string name="mode_add">Pridėti</string>
+    <string name="mode_edit">Pakeisti</string>
+    <string name="mode_backup">Sinchronizacija</string>
+    <string name="mode_help">Pagalba</string>
+    <string name="mode_buy">Dovanos</string>
+    <string name="birthdayEdited">Gimimo dienos data atnaujinta.</string>
+    <string name="cancel">Atšaukti</string>
+    <string name="save">Išsaugoti</string>
+    <string name="smsVerb">SMS</string>
+    <string name="congratulationSMS">Su Gimimo Diena!</string>
+    <string name="comingSoon">Greitai bus!</string>
+    <string name="nameOfPerson">Kontakto vardas</string>
+    <string name="dateOfBirth">Išrinkti datą</string>
+    <string name="delete">Ištrinti</string>
+    <string name="edit">Pakeisti datą</string>
+    <string name="birthdayDeleted">Išrinktas gimtadienis ištrintas.</string>
+    <string name="mode_preferences">Pirmumai</string>
+    <string name="notification_on">Rodyti pranešimus.</string>
+    <string name="notification_off">Be pranešimų.</string>
+    <string name="notification_0">Gimimo dieną</string>
+    <string name="notification_1">Prieš 1 dieną</string>
+    <string name="notification_2">Prieš 2 dienas</string>
+    <string name="notification_7">Prieš 1 savaitę</string>
+    <string name="notification_time">Pranešimų laikas</string>
+    <string name="notification_sound">Pranešimų garsas</string>
+    <string name="notification_sound_desc">Prašome išrinkti skambutį arba \"Begarsis\"</string>
+    <string name="setTime">Prašome nustatyti laiką &#8230;</string>
+    <string name="notificationsForBirthdays">Gimtadieniu pranešimai</string>
+    <string name="caption_adding_mode">Pridėti naują</string>
+    <string name="hint_adding_mode">Jei galima, jūs turėtumėte visada pridėti savo kontaktų gimtadienius. Tada galėsite naudoti daugiau ypatybių.</string>
+	<string name="adding_mode_contacts">Išrinkti iš kontaktų</string>
+	<string name="adding_mode_newentry">Sukurti kontaktą</string>
+	<string name="mode_search">Paieška</string>
+	<string name="searchNoResult">Negalima rasti kontakto su šiuo vardu!</string>
+	<string name="findPerson">Rasti kontaktą</string>
+	<string name="searchPerson">Kontakto paieška &#8230;</string>
+	<string name="hint_search_mode">Ieškant asmens gimtadienių sąraše, paprastai pakanka įrašyti dalį vardo.</string>
+	<string name="zodiac">Zodiakas</string>
+	<string name="zodiac_aries">Avinas</string>
+	<string name="zodiac_taurus">Jautis</string>
+	<string name="zodiac_gemini">Dvyniai</string>
+	<string name="zodiac_cancer">Vėžys</string>
+	<string name="zodiac_leo">Liūtas</string>
+	<string name="zodiac_virgo">Mergelė</string>
+	<string name="zodiac_libra">Svarstyklės</string>
+	<string name="zodiac_scorpio">Skorpionas</string>
+	<string name="zodiac_sagittarius">Šaulys</string>
+	<string name="zodiac_capricornus">Ožiaragis</string>
+	<string name="zodiac_aquarius">Vandenis</string>
+	<string name="zodiac_pisces">Žuvys</string>
+	<string name="changePicture">Pakeisti nuotrauką</string>
+	<string name="change_name">Pakeisti vardą</string>
+	<string name="sortBy">Rūšiavimas</string>
+	<string name="sortBy_change">Išrinkti įrašų rūšiavimo tipą</string>
+	<string-array name="sortBy_values_human">
+        <item>Pagal likusias dienas</item>
+        <item>Pagal vardą</item>
+        <item>Pagal amžių</item>
+    </string-array>
+	<string-array name="sortBy_values_machine">
+        <item>days_left</item>
+        <item>name</item>
+        <item>age</item>
+    </string-array>
+    <string name="choose_type">Išrinkti tipą</string>
+    <string name="type_birthday">Gimimo diena</string>
+    <string name="type_anniversary">Sukaktuvės</string>
+    <string name="open_contact">Atidaryti kontaktą</string>
+    <string name="buyVerb">Rasti dovaną</string>
+    <string name="doExport">Eksportuoti į SD</string>
+    <string name="doImport">Importuoti iš SD</string>
+    <string name="importVerb">Importuoti</string>
+	<string name="pleaseEnterImportData">Atleiskite, importavimas nebaigtas!</string>
+    <string name="invalidDate">Neteisinga data.</string>
+    <string name="pleaseCorrect">Prašome pataisyti!</string>
+    <string name="tryOpeningInvalid">Neteisinga įvestis. Prašome paspausti palaikant ir pasirinkti \"Keisti datą\".</string>
+    <string name="chineseZodiac">Kiniškas</string>
+	<string name="chinese_rat">Žiurkė</string>
+	<string name="chinese_ox">Jautis</string>
+	<string name="chinese_tiger">Tigras</string>
+	<string name="chinese_rabbit">Triušis</string>
+	<string name="chinese_dragon">Drakonas</string>
+	<string name="chinese_snake">Gyvatė</string>
+	<string name="chinese_horse">Arklys</string>
+	<string name="chinese_goat">Ožka</string>
+	<string name="chinese_monkey">Beždžionė</string>
+	<string name="chinese_rooster">Gaidys</string>
+	<string name="chinese_dog">Šuo</string>
+	<string name="chinese_pig">Kiaulė</string>
+	<string name="show_zodiac">Zodiako ženklai</string>
+	<string name="show_zodiac_description">Ar jūs norite, kad būtų rodomi Zodiako ženklai?</string>
+	<string-array name="show_zodiac_values_human">
+        <item>Zodiakas</item>
+        <item>Kiniškas</item>
+        <item>Zodiakas + Kiniškas</item>
+        <item>Nėra</item>
+    </string-array>
+	<string-array name="show_zodiac_values_machine">
+        <item>western</item>
+        <item>chinese</item>
+        <item>both</item>
+        <item>none</item>
+    </string-array>
+	<string name="do_repeatsound">Pakartoti garsą</string>
+	<string name="do_repeatsound_summary">Ar kartoti garsą, kol jūs uždarysite pranešimą?</string>
+	<string name="facebookImport">Importuoti iš Facebook</string>
+	<string name="install">Įdiegti</string>
+	<string name="missing_addon_title">Gimtadieniai Plius</string>
+	<string name="missing_addon_explain">Šiai funkcijai reikalinga \"Gimtadieniai Plius\", išplėsta, bet vis dar nemokama šios programos versija. Ji naudoja papildomus leidimus (prieiga prie interneto ir SD kortelės), kad turėtumėte geresnes ypatybes. Tiesiog apsilankykite Google Play, atsisiųskite išplėstinę programą ir mėgaukitės įdomiomis ypatybėmis. Pabandykite - tai nemokama!</string>
+    <string name="show_help">Rodyti pagalbą</string>
+    <string name="rate_app">Įvertinti programą</string>
+    <string name="export_fail">Atleiskite, jūsų duomenų eksportas neprasidėjo!</string>
+    <string name="loading_facebook">Duomenų iš Facebook &#8230; įkėlimas</string>
+    <string name="notification_close">Uždaryti pranešimą</string>
+    <string name="notification_remind1">Priminti dar po 15 min</string>
+    <string name="notification_remind2">Priminti dar po 1 val.</string>
+    <string name="notification_remind3">Priminti dar po 6 val.</string>
+    <string name="importing_entries">Išrinktų duomenų importas. Tai gali užtrukti keletą minučių &#8230;</string>
+    <string name="open_app">Atidaryti programą</string>
+    <string-array name="default_images">
+        <item>Birthday (1)</item>
+        <item>Birthday (2)</item>
+        <item>Jubilee</item>
+        <item>Love</item>
+        <item>Wedding</item>
+        <item>Death (1)</item>
+        <item>Death (2)</item>
+    </string-array>
+    <string-array name="default_images_copyright">
+        <item>Africa Studio</item>
+        <item>bluedesign</item>
+        <item>shoot4u</item>
+        <item>Konstiantyn</item>
+        <item>artikularis</item>
+        <item>Pixel Embargo</item>
+        <item>Benjamin Haas</item>
+    </string-array>
+    <string name="pick_from_gallery">Išrinkti iš galerijos</string>
+    <string name="pick_predefined_image">Išrinkti paveikslėlį</string>
+    <string name="image_provided_by">Šį paveikslėlį pateikė</string>
+    <string name="helpTranslating">Vertimo pagalba</string>
+    <string name="translationHelpHowto">Prašome savo namų kompiuteryje (patogesniam skaitymui ir redagavimui) atidaryti šią nuorodą:\nhttp://birthdays.latein.me/</string>
+    <string name="menu_main">Pagrindinis meniu</string>
+	<string name="mode_translate">Išversti</string>
+	<string name="days_abbreviation">d.</string>
+	<string name="sure_to_delete">Ar tikrai ištrinti šį įrašą?</string>
+	<string name="yes">Taip</string>
+	<string name="no">Ne</string>
+	<string name="merge_with_contact">Sulieti su kontaktais</string>
+	<string name="merge_explanation">Ar norite sulieti šį įrašą su esančiu telefono kontaktu?</string>
+	<string name="entry_merged">Įrašas sėkmingai sulietas su išrinktu telefono kontaktu.</string>
+	<string name="contacts_app_not_found">Kontaktų programa jūsų įrenginyje nerasta!</string>
+	<string name="defaultDateFormat">MMMM-MM-DD</string>
+	<string name="show_datepicker">Paprasta datos išranka</string>
+	<string name="show_datepicker_on">Patogus datos išrinkimo būdas, leidžiantis iš sąrašo išrinkti dieną, mėnesį ir metus.</string>
+	<string name="show_datepicker_off">Bus parodytas paprastas teksto laukelis. Jūs galite įrašyti datą rankiniu būdu. Tai naudinga, jei jūsų įrenginys neleidžia įrašyti metų iki 1970.</string>
+	<string name="settings_other">Kitos nuostatos</string>
+	<string name="congratulationText_title">Pasveikinimo tekstas</string>
+	<string name="congratulationText_summary">Čia įrašykite išankstinį tekstą pasveikinimo žinutei.</string>
+	<string name="widget_4x1">Gimtadieniai (4x1)</string>
+	<string name="widget_4x2">Gimtadieniai (4x2)</string>
+	<string name="widget_3x1">Gimtadieniai (3x1)</string>
+	<string name="widget_text">Gimtadieniai (Text)</string>
+    <string name="fbLoad_fail">Gimtadienių negalima importuoti iš Facebook!</string>
+    <string name="fbLoad_success">Gimtadieniai sėkmingai importuoti iš Facebook!</string>
+    <string name="export_success">Atsarginė kopija sėkmingai išsaugota \"Birthdays Plus\" SD kortelėje!</string>
+    <string name="import_fail">Atsarginės kopijos negalima importuoti iš \"Birthdays Plus\" SD kortelėje!</string>
+    <string name="import_success">Atsarginė kopija sėkmingai importuota iš \"Birthdays Plus\" SD kortelėje!</string>
+    <string name="sdBackup">SD rezervinė kopija</string>
+    <string name="open_facebook_profile">Atidarytas Facebook profilis</string>
+    <string name="loading_image">Įkeliama nuotrauka &#8230;</string>
+    <string name="new_version">Nauja versija</string>
+    <string name="new_version_get">Nauja šios programos versija su geresnėmis ypatybėmis prieinama Google Play. Ar norite gauti atnaujinimą dabar?</string>
+    <string name="do_download">Atsisiųsti</string>
+    <string name="do_ignore">Nepaisyti</string>
+    <string name="supportAndFeedback">Klausimai &#38; Atgalinis ryšys</string>
+    <string name="person_actions">Veiksmai</string>
+    <string name="save_note">Išsaugoti pastabą</string>
+    <string name="delete_image">Pašalinti paveikslėlį</string>
+    <string name="your_note">Pastaba</string>
+    <string name="typeYourNote">Įrašykite savo pastabą &#8230;</string>
+    <string name="default_locale">Standartinė (Rekomenduojama)</string>
+    <string name="language">Kalba</string>
+    <string name="then">Tada:</string>
+</resources>

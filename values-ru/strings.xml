@@ -192,9 +192,11 @@
 	<string name="settings_other">Другие настройки</string>
 	<string name="congratulationText_title">Поздравление текст</string>
 	<string name="congratulationText_summary">Установить предопределенный текст поздравления сообщений здесь.</string>
-	<string name="widet_4x1">Дни рождения (4x1)</string>
-	<string name="widet_4x2">Дни рождения (4x2)</string>
-    <string name="fbLoad_fail">Дни рождения не могут быть импортированы из Facebook!</string>
+	<string name="widget_4x1">Дни рождения (4x1)</string>
+	<string name="widget_4x2">Дни рождения (4x2)</string>
+	<string name="widget_3x1">Дни рождения (3x1)</string>
+	<string name="widget_text">Дни рождения (текст)</string>
+	<string name="fbLoad_fail">Дни рождения не могут быть импортированы из Facebook!</string>
     <string name="fbLoad_success">Именинники успешно импортированы из Facebook!</string>
     <string name="export_success">Резервируем успешно сохранены \"Birthdays Plus\" на SD карту!</string>
     <string name="import_fail">Резервное копирование не могут быть импортированы из \"Birthdays Plus\" на SD карту!</string>
@@ -214,4 +216,5 @@
     <string name="typeYourNote">Введите ваши личные записки &#8230;</string>
     <string name="default_locale">Стандартный (рекомендуется)</string>
     <string name="language">язык</string>
+    <string name="then">затем:</string>
 </resources>

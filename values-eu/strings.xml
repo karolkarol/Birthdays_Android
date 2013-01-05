@@ -192,9 +192,11 @@
 	<string name="settings_other">Bestelako doikuntzak</string>
 	<string name="congratulationText_title">Zoriontzeko testua</string>
 	<string name="congratulationText_summary">arri hemen zure aurrezehaztutako testua zoriontzeko.</string>
-	<string name="widet_4x1">Urtebetetzeak (4x1)</string>
-	<string name="widet_4x2">Urtebetetzeak (4x2)</string>
-    <string name="fbLoad_fail">Birthdays could not be imported from Facebook!</string>
+	<string name="widget_4x1">Urtebetetzeak (4x1)</string>
+	<string name="widget_4x2">Urtebetetzeak (4x2)</string>
+	<string name="widget_3x1">Urtebetetzeak (3x1)</string>
+	<string name="widget_text">Urtebetetzeak (Testua)</string>
+	<string name="fbLoad_fail">Birthdays could not be imported from Facebook!</string>
     <string name="fbLoad_success">Birthdays successfully imported from Facebook!</string>
     <string name="export_success">Backup successfully saved in \"Birthdays Plus\" on SD card!</string>
     <string name="import_fail">Backup could not be imported from \"Birthdays Plus\" on SD card!</string>
@@ -214,4 +216,5 @@
     <string name="typeYourNote">Type your personal note &#8230;</string>
     <string name="default_locale">Standard (gomendatua)</string>
     <string name="language">Hizkuntzen</string>
+    <string name="then">Gero:</string>
 </resources>

@@ -192,9 +192,11 @@
 	<string name="settings_other">Les autres paramètres</string>
 	<string name="congratulationText_title">Félicitations texte</string>
 	<string name="congratulationText_summary">Réglez votre texte prédéfini pour les messages de félicitations ici.</string>
-	<string name="widet_4x1">Anniversaires (4x1)</string>
-	<string name="widet_4x2">Anniversaires (4x2)</string>
-    <string name="fbLoad_fail">Anniversaires n\'a pas pu être importé de Facebook!</string>
+	<string name="widget_4x1">Anniversaires (4x1)</string>
+	<string name="widget_4x2">Anniversaires (4x2)</string>
+	<string name="widget_3x1">Anniversaires (3x1)</string>
+	<string name="widget_text">Anniversaires (Texte)</string>
+	<string name="fbLoad_fail">Anniversaires n\'a pas pu être importé de Facebook!</string>
     <string name="fbLoad_success">Anniversaires importé avec succès de Facebook!</string>
     <string name="export_success">Sauvegarde avec succès enregistré dans \"Birthdays Plus\" sur la carte SD!</string>
     <string name="import_fail">Sauvegarde n\'a pas pu être importés à partir de \"Birthdays Plus\" sur la carte SD!</string>
@@ -214,4 +216,5 @@
     <string name="typeYourNote">Tapez votre note personnelle &#8230;</string>
     <string name="default_locale">Standard (recommandé)</string>
     <string name="language">Langue</string>
+    <string name="then">Puis:</string>
 </resources>

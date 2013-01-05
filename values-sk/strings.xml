@@ -192,9 +192,11 @@
 	<string name="settings_other">Ďalšie nastavenia</string>
 	<string name="congratulationText_title">Gratulujeme texte</string>
 	<string name="congratulationText_summary">Nastavte si preddefinovaný text blahoželania správ tu.</string>
-	<string name="widet_4x1">Narodeniny (4x1)</string>
-	<string name="widet_4x2">Narodeniny (4x2)</string>
-    <string name="fbLoad_fail">Narodeniny nemožno importovať z Facebooku!</string>
+	<string name="widget_4x1">Narodeniny (4x1)</string>
+	<string name="widget_4x2">Narodeniny (4x2)</string>
+	<string name="widget_3x1">Narodeniny (3x1)</string>
+	<string name="widget_text">Narodeniny (Text)</string>
+	<string name="fbLoad_fail">Narodeniny nemožno importovať z Facebooku!</string>
     <string name="fbLoad_success">Narodeniny úspešne importovaný z Facebook!</string>
     <string name="export_success">Záloha bola úspešne uložená v \"Birthdays Plus\" na SD kartu!</string>
     <string name="import_fail">Zálohovanie nie je možné importovať z \"Birthdays Plus\" na SD kartu!</string>
@@ -214,4 +216,5 @@
     <string name="typeYourNote">Zadajte svoje osobné poznámku &#8230;</string>
     <string name="default_locale">Štandardné (doporučené)</string>
     <string name="language">Jazyk</string>
+    <string name="then">Potom:</string>
 </resources>

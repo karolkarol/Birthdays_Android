@@ -192,9 +192,11 @@
 	<string name="settings_other">その他の設定</string>
 	<string name="congratulationText_title">おめでとうテキスト</string>
 	<string name="congratulationText_summary">ここにお祝いのメッセージ用の定義済みのテキストを設定します。</string>
-	<string name="widet_4x1">誕生日 (4x1)</string>
-	<string name="widet_4x2">誕生日 (4x2)</string>
-    <string name="fbLoad_fail">誕生日は、Facebookからインポートすることができませんでした！</string>
+	<string name="widget_4x1">誕生日 (4x1)</string>
+	<string name="widget_4x2">誕生日 (4x2)</string>
+	<string name="widget_3x1">誕生日 (3x1)</string>
+	<string name="widget_text">誕生日 (テキスト)</string>
+	<string name="fbLoad_fail">誕生日は、Facebookからインポートすることができませんでした！</string>
     <string name="fbLoad_success">誕生日は正常にFacebookからインポート！</string>
     <string name="export_success">正常に保存されたバックアップ \"Birthdays Plus\" on SD card!</string>
     <string name="import_fail">バックアップからインポートすることができませんでした \"Birthdays Plus\" on SD card!</string>
@@ -214,4 +216,5 @@
     <string name="typeYourNote">あなたの個人的なメモを入力 &#8230;</string>
     <string name="default_locale">標準（推奨）</string>
     <string name="language">言語</string>
+    <string name="then">その後:</string>
 </resources>

@@ -192,9 +192,11 @@
 	<string name="settings_other">Alte setări</string>
 	<string name="congratulationText_title">Felicitare de text</string>
 	<string name="congratulationText_summary">Setați textul predefinit pentru mesaje de felicitare aici.</string>
-	<string name="widet_4x1">Zile de naștere (4x1)</string>
-	<string name="widet_4x2">Zile de naștere (4x2)</string>
-    <string name="fbLoad_fail">Zile de nastere nu a putut fi importate de pe Facebook!</string>
+	<string name="widget_4x1">Zile de naștere (4x1)</string>
+	<string name="widget_4x2">Zile de naștere (4x2)</string>
+	<string name="widget_3x1">Zile de naștere (3x1)</string>
+	<string name="widget_text">Zile de naștere (Text)</string>
+	<string name="fbLoad_fail">Zile de nastere nu a putut fi importate de pe Facebook!</string>
     <string name="fbLoad_success">Zile de nastere importat cu succes de la Facebook!</string>
     <string name="export_success">Backup salvat cu succes în \"Birthdays Plus\" pe cardul SD!</string>
     <string name="import_fail">Backup nu a putut fi importate din \"Birthdays Plus\" pe cardul SD!</string>
@@ -214,4 +216,5 @@
     <string name="typeYourNote">Tastați nota dumneavoastră personale &#8230;</string>
     <string name="default_locale">Standard (recomandat)</string>
     <string name="language">Limbă</string>
+    <string name="then">Apoi:</string>
 </resources>
