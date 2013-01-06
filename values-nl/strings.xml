@@ -5,7 +5,7 @@
     <string name="goHome">Begin</string>
     <string name="settingsGeneral">Instellingen</string>
     <string name="showPhotos">Contact foto\'s</string>
-    <string name="showPhotos_summary">Wil je dat mensen de foto\'s worden getoond in de lijst?</string>
+    <string name="showPhotos_summary">Wil je dat de profielfoto van de mensen wordt getoond in de lijst?</string>
     <string name="nextBirthdayOnWeekDay">De volgende verjaardag is op een</string>
     <string name="nextAnniversaryOnWeekDay">De volgende speciale dag is op een</string>
     <string name="tipDontEnterYear"><b>Tip:</b> Als je geen jaartal wilt invoeren, vul dan \"1900\" in en het jaartal zal niet getoond worden.</string>
@@ -27,7 +27,7 @@
     <string name="birthday">Verjaardag</string>
     <string name="yearsOld">jaren oud</string>
     <string name="loading">laden</string>
-    <string name="fullTextConvinced">Bevalt deze App? Dan zouden wij erg blij worden, als je onze App wilt beoordelen bij Google Play. Dank je wel voor jouw steun!</string>
+    <string name="fullTextConvinced">Bevalt deze App? Dan zouden wij erg blij zijn, mocht je onze App willen beoordelen op Google Play. Dank je wel voor je steun!</string>
     <string name="rateApp">Beoordeel deze App</string>
     <string name="rateNow">Nu beoordelen</string>
     <string name="remindLater">Herinner mij</string>
@@ -38,7 +38,7 @@
     <string name="mode_backup">Sync</string>
     <string name="mode_help">Help</string>
     <string name="mode_buy">Koop</string>
-    <string name="birthdayEdited">De geselecteerde geboortedatum is aangepast naar de nieuw opgegeven datum.</string>
+    <string name="birthdayEdited">De geselecteerde geboortedatum is aangepast naar de nieuwe opgegeven datum.</string>
     <string name="cancel">Annuleren</string>
     <string name="save">Opslaan</string>
     <string name="smsVerb">SMS</string>
@@ -145,7 +145,7 @@
     <string name="show_help">Geef help weer</string>
     <string name="rate_app">Beoordeel app</string>
     <string name="export_fail">Mijn excuses, het exporteren van de data kon helaas niet gestart worden!</string>
-    <string name="loading_facebook">Inlezen data vanuit Facebook &#8230;</string>
+    <string name="loading_facebook">Data inlezen vanuit Facebook &#8230;</string>
     <string name="notification_close">Sluit alarm</string>
     <string name="notification_remind1">Herinner mij in 15 min</string>
     <string name="notification_remind2">Herinner mij in 1 uur</string>
@@ -210,7 +210,7 @@
     <string name="do_ignore">Negeren</string>
     <string name="supportAndFeedback">Vragen &#38; Terugkoppeling</string>
     <string name="person_actions">Meer opties</string>
-    <string name="save_note">Sla er rekening mee</string>
+    <string name="save_note">Hou er rekening mee</string>
     <string name="delete_image">Afbeelding verwijderen</string>
     <string name="your_note">Opmerking</string>
     <string name="typeYourNote">Typ uw persoonlijke noot &#8230;</string>
