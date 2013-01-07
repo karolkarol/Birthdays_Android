@@ -1,28 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="help">Pagalba</string>
-    <string name="helpText">PARINKČIŲ MENIU:\nParinkčių meniu jūs galite pridėti ar keisti funkcijas, pavyzdžiui, pridėti naują kontaktą.\n\nILGAS KONTAKTO PASPAUDIMAS:\nGimtadienių sąraše išrinkite kontaktą ir paspauskite, kol pasirodys papildomas meniu, kuriame galėsite pasirinkti redaguoti ar ištrinti esamą įrašą gimtadienių sąraše.\n\nNUOTRAUKOS PRIDĖJIMAS:\nJūs galite pridėti nuotrauką tik kontaktui, kurio nėra pačio telefono kontaktų sąraše. Priešingu atveju, prašome pridėti nuotrauką telefono kontaktų sąraše.\n\nVALDIKLIS:\nPridėkite valdiklį į pradžios ekraną standartiniu jūsų Android būdu. Valdiklis atnaujinamas kas 6 valandas!\n\n1970 PROBLEMA:\nJei jūs negalite įrašyti datos iki 1970 metų, tai gali būti jūsų įrenginio problema (tikriausiai, įrenginys Motorola). Prašome įeiti į programos nuostatas ir atjungti „Paprasta datos išranka“. Po šio pakeitimo, teksto laukelyje galėsite įrašyti datą ir iki 1970 metų.\n\nBE PRANEŠIMŲ:\nVėliausiose Android versijose, pradedant nuo 4.0, pridėtos papildomos pranešimų nuostatos. Pavyzdžiui, jūs galite išjungti pranešimus būklės juostoje (kur yra 3G, Wi-Fi, GPS ir Bluetooth). Prašome patikrinti šias nuostatas, jei jūsų pranešimai neveikia.\n\nPERKĖLIMAS Į IŠORINĘ SAUGYKLĄ:\nJūs galite perkelti šią programą į išorinę saugyklą (SD kortelę), bet pranešimai apie artėjančius gimtadienius šiuo atveju neveiks. Atsiprašome!\n\nPALAIKOMI DATOS FORMATAI:\nMes pilnai palaikome datos formatą pagal ISO 8601, kuris yra MMMM-MM-DD. Kitiems formatams mes negarantuojame teisingo programos veikimo.\n\nNORITE PADĖTI IŠVERSTI PROGRAMĄ?\nTaip, jūs galite. Tiesiog pasinaudokite mūsų programa Facebook, kur jūs galite lengvai redaguoti vertimus ir padėti visiems vartotojams. Patogesniam skaitymui ir redagavimui, prašome savo namų kompiuteryje atidaryti šią nuorodą:\nhttp://birthdays.latein.me/</string>
-    <string name="goHome">Į pagrindinį</string>
+    <string name="helpText">PARINKČIŲ MENIU:\nParinkčių meniu jūs galite pridėti ar keisti funkcijas, pavyzdžiui, pridėti naują kontaktą.\n\nILGAS KONTAKTO PASPAUDIMAS:\nGimtadienių sąraše išrinkite kontaktą ir paspauskite, kol pasirodys papildomas meniu, kuriame galėsite pasirinkti redaguoti ar ištrinti esamą įrašą gimtadienių sąraše.\n\nNUOTRAUKOS PRIDĖJIMAS:\nJūs galite pridėti nuotrauką tik kontaktui, kurio nėra pačio telefono kontaktų sąraše. Priešingu atveju, prašome pridėti nuotrauką telefono kontaktų sąraše.\n\nVALDIKLIS:\nPridėkite valdiklį į pradžios ekraną standartiniu jūsų Android būdu. Valdiklis atnaujinamas kas 6 valandas!\n\n1970 PROBLEMA:\nJei jūs negalite įrašyti datos iki 1970 metų, tai gali būti jūsų įrenginio problema (tikriausiai, įrenginys Motorola). Prašome įeiti į programos nuostatas ir atjungti „Paprasta datos išranka“. Po šio pakeitimo, teksto laukelyje galėsite įrašyti datą ir iki 1970 metų.\n\nBE PRANEŠIMŲ:\nVėliausiose Android versijose, pradedant nuo 4.0, pridėtos papildomos pranešimų nuostatos. Pavyzdžiui, jūs galite išjungti pranešimus būklės juostoje (kur yra 3G, Wi-Fi, GPS ir Bluetooth). Prašome patikrinti šias nuostatas, jei jūsų pranešimai neveikia.\n\nPERKĖLIMAS Į IŠORINĘ SAUGYKLĄ:\nJūs galite perkelti šią programą į išorinę saugyklą (SD kortelę), bet pranešimai apie artėjančius gimtadienius šiuo atveju neveiks. Atsiprašome!\n\nPALAIKOMI DATOS FORMATAI:\nMes pilnai palaikome datos formatą pagal ISO 8601, kuris yra MMMM-MM-DD. Kitiems formatams mes negarantuojame teisingo programos veikimo.\n\nNORITE PADĖTI IŠVERSTI PROGRAMĄ?\nTaip, jūs galite. Tiesiog pasinaudokite mūsų programa Facebook, kur jūs galite lengvai redaguoti vertimus ir padėti visiems vartotojams. Patogesniam skaitymui ir redagavimui, prašome savo staliniame kompiuteryje atidaryti šią nuorodą:\nhttp://birthdays.latein.me/</string>
+    <string name="goHome">Į pradžią</string>
+    <string name="tomorrow">rytoj</string>
+    <string name="x_days_left">liko %1$d dienos</string>
     <string name="settingsGeneral">Pagrindinės nuostatos</string>
     <string name="showPhotos">Kontaktų nuotraukos</string>
     <string name="showPhotos_summary">Ar norite, kad žmonių nuotraukos būtų rodomos sąraše?</string>
-    <string name="nextBirthdayOnWeekDay">Kitas gimtadienis</string>
-    <string name="nextAnniversaryOnWeekDay">Kitos sukaktuvės</string>
+    <string name="nextBirthdayOnWeekDay">Kitas gimtadienis:</string>
+    <string name="nextAnniversaryOnWeekDay">Kitos sukaktuvės:</string>
     <string name="tipDontEnterYear"><b>Užuomina:</b> Nenorite įrašyti metų? Įrašykite \"1900\" ir metai nebus rodomi.</string>
     <string name="contactPhoto">Kontaktų nuotraukos</string>
     <string name="daysLeftUnit">Dienų</string>
     <string name="noBirthdaysFound">Jūsų kontaktų sąraše nerastas joks gimtadienis!</string>
-    <string name="turnVerb">Sukaks</string>
+    <string name="turnVerb">Sukanka</string>
     <string name="onTime"></string>
     <string name="pleaseWait">Prašome palaukti</string>
     <string name="refreshingList">Atnaujinamas sąrašas &#8230;</string>
     <string name="bornOn">Gimimo data:</string>
     <string name="anniversaryOn">Sukaktuvės:</string>
     <string name="age">Amžius:</string>
-    <string name="yearsMarried">Nuo:</string>
-    <string name="years">metų</string>
+    <string name="yearsMarried">Prieš:</string>
+    <string name="years">metai</string>
     <string name="ok">Gerai</string>
-    <string name="today">šiandien</string>
+    <string name="today">Šiandien</string>
     <string name="in"></string>
     <string name="birthday">Gimtadienis</string>
     <string name="yearsOld">metų senumo</string>
@@ -38,7 +40,7 @@
     <string name="mode_backup">Sinchronizacija</string>
     <string name="mode_help">Pagalba</string>
     <string name="mode_buy">Dovanos</string>
-    <string name="birthdayEdited">Gimimo dienos data atnaujinta.</string>
+    <string name="birthdayEdited">Išrinkta gimimo dienos data atnaujinta.</string>
     <string name="cancel">Atšaukti</string>
     <string name="save">Išsaugoti</string>
     <string name="smsVerb">SMS</string>
@@ -59,15 +61,15 @@
     <string name="notification_time">Pranešimų laikas</string>
     <string name="notification_sound">Pranešimų garsas</string>
     <string name="notification_sound_desc">Prašome išrinkti skambutį arba \"Begarsis\"</string>
-    <string name="setTime">Prašome nustatyti laiką &#8230;</string>
+    <string name="setTime">Prašome nustatyti sau tinkamą laiką &#8230;</string>
     <string name="notificationsForBirthdays">Gimtadieniu pranešimai</string>
-    <string name="caption_adding_mode">Pridėti naują</string>
+    <string name="caption_adding_mode">Pridėti naują įrašą</string>
     <string name="hint_adding_mode">Jei galima, jūs turėtumėte visada pridėti savo kontaktų gimtadienius. Tada galėsite naudoti daugiau ypatybių.</string>
 	<string name="adding_mode_contacts">Išrinkti iš kontaktų</string>
 	<string name="adding_mode_newentry">Sukurti kontaktą</string>
 	<string name="mode_search">Paieška</string>
 	<string name="searchNoResult">Negalima rasti kontakto su šiuo vardu!</string>
-	<string name="findPerson">Rasti kontaktą</string>
+	<string name="findPerson">Rasti asmenį</string>
 	<string name="searchPerson">Kontakto paieška &#8230;</string>
 	<string name="hint_search_mode">Ieškant asmens gimtadienių sąraše, paprastai pakanka įrašyti dalį vardo.</string>
 	<string name="zodiac">Zodiakas</string>
@@ -85,7 +87,7 @@
 	<string name="zodiac_pisces">Žuvys</string>
 	<string name="changePicture">Pakeisti nuotrauką</string>
 	<string name="change_name">Pakeisti vardą</string>
-	<string name="sortBy">Rūšiavimas</string>
+	<string name="sortBy">Įrašų rūšiavimas</string>
 	<string name="sortBy_change">Išrinkti įrašų rūšiavimo tipą</string>
 	<string-array name="sortBy_values_human">
         <item>Pagal likusias dienas</item>
@@ -98,7 +100,7 @@
         <item>age</item>
     </string-array>
     <string name="choose_type">Išrinkti tipą</string>
-    <string name="type_birthday">Gimimo diena</string>
+    <string name="type_birthday">Gimtadienis</string>
     <string name="type_anniversary">Sukaktuvės</string>
     <string name="open_contact">Atidaryti kontaktą</string>
     <string name="buyVerb">Rasti dovaną</string>
@@ -125,9 +127,9 @@
 	<string name="show_zodiac">Zodiako ženklai</string>
 	<string name="show_zodiac_description">Ar jūs norite, kad būtų rodomi Zodiako ženklai?</string>
 	<string-array name="show_zodiac_values_human">
-        <item>Zodiakas</item>
-        <item>Kiniškas</item>
-        <item>Zodiakas + Kiniškas</item>
+        <item>Zodiako</item>
+        <item>Kinų</item>
+        <item>Zodiako + Kinų</item>
         <item>Nėra</item>
     </string-array>
 	<string-array name="show_zodiac_values_machine">
@@ -136,10 +138,10 @@
         <item>both</item>
         <item>none</item>
     </string-array>
-	<string name="do_repeatsound">Pakartoti garsą</string>
+	<string name="do_repeatsound">Kartoti garsą</string>
 	<string name="do_repeatsound_summary">Ar kartoti garsą, kol jūs uždarysite pranešimą?</string>
 	<string name="facebookImport">Importuoti iš Facebook</string>
-	<string name="install">Įdiegti</string>
+	<string name="install">Diegti dabar</string>
 	<string name="missing_addon_title">Gimtadieniai Plius</string>
 	<string name="missing_addon_explain">Šiai funkcijai reikalinga \"Gimtadieniai Plius\", išplėsta, bet vis dar nemokama šios programos versija. Ji naudoja papildomus leidimus (prieiga prie interneto ir SD kortelės), kad turėtumėte geresnes ypatybes. Tiesiog apsilankykite Google Play, atsisiųskite išplėstinę programą ir mėgaukitės įdomiomis ypatybėmis. Pabandykite - tai nemokama!</string>
     <string name="show_help">Rodyti pagalbą</string>
@@ -174,7 +176,7 @@
     <string name="pick_predefined_image">Išrinkti paveikslėlį</string>
     <string name="image_provided_by">Šį paveikslėlį pateikė</string>
     <string name="helpTranslating">Vertimo pagalba</string>
-    <string name="translationHelpHowto">Prašome savo namų kompiuteryje (patogesniam skaitymui ir redagavimui) atidaryti šią nuorodą:\nhttp://birthdays.latein.me/</string>
+    <string name="translationHelpHowto">Prašome savo staliniame kompiuteryje (patogesniam skaitymui ir redagavimui) atidaryti šią nuorodą:\nhttp://birthdays.latein.me/</string>
     <string name="menu_main">Pagrindinis meniu</string>
 	<string name="mode_translate">Išversti</string>
 	<string name="days_abbreviation">d.</string>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <plurals name="daysLeft">
-        <item quantity="zero">avui</item>
-        <item quantity="one">demà</item>
-        <item quantity="other">d\'aquí a %d dies</item>
-    </plurals>
-</resources>
