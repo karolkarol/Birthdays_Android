@@ -219,4 +219,5 @@
     <string name="default_locale">Standart (önerilen)</string>
     <string name="language">Dil</string>
     <string name="then">Sonra:</string>
+    <string name="edit_entry">Bu girdi düzenle</string>
 </resources>

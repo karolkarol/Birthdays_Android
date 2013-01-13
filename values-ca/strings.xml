@@ -219,4 +219,5 @@
     <string name="default_locale">Estàndard (recomanat)</string>
     <string name="language">Idioma</string>
     <string name="then">Llavors:</string>
+    <string name="edit_entry">Edita aquesta entrada</string>
 </resources>

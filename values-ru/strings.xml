@@ -219,4 +219,5 @@
     <string name="default_locale">Стандартный (рекомендуется)</string>
     <string name="language">язык</string>
     <string name="then">затем:</string>
+    <string name="edit_entry">Изменить эту запись</string>
 </resources>

@@ -219,4 +219,5 @@
     <string name="default_locale">Standard (Recommended)</string>
     <string name="language">Language</string>
     <string name="then">Then:</string>
+    <string name="edit_entry">Edit this entry</string>
 </resources>

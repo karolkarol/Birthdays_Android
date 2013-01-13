@@ -219,4 +219,5 @@
     <string name="default_locale">Standard (recomandat)</string>
     <string name="language">Limbă</string>
     <string name="then">Apoi:</string>
+    <string name="edit_entry">Editați această intrare</string>
 </resources>

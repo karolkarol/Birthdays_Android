@@ -219,4 +219,5 @@
     <string name="default_locale">Padrão (recomendado)</string>
     <string name="language">Linguagem</string>
     <string name="then">Depois:</string>
+    <string name="edit_entry">Editar esta entrada</string>
 </resources>

@@ -219,4 +219,5 @@
     <string name="default_locale">Standard (consigliato)</string>
     <string name="language">Lingua</string>
     <string name="then">Poi:</string>
+    <string name="edit_entry">Modifica questa voce</string>
 </resources>

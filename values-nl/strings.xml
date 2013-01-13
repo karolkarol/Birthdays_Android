@@ -219,4 +219,5 @@
     <string name="default_locale">Standaard (aanbevolen)</string>
     <string name="language">Taal</string>
     <string name="then">Dan:</string>
+    <string name="edit_entry">Wijzig dit item</string>
 </resources>

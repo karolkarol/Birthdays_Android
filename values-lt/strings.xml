@@ -219,4 +219,5 @@
     <string name="default_locale">Standartinė (Rekomenduojama)</string>
     <string name="language">Kalba</string>
     <string name="then">Tada:</string>
+    <string name="edit_entry">Redaguoti įrašą</string>
 </resources>

@@ -219,4 +219,5 @@
     <string name="default_locale">標準（推奨）</string>
     <string name="language">言語</string>
     <string name="then">その後:</string>
+    <string name="edit_entry">このエントリを編集</string>
 </resources>

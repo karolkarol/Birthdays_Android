@@ -219,4 +219,5 @@
     <string name="default_locale">Standard (gomendatua)</string>
     <string name="language">Hizkuntzen</string>
     <string name="then">Gero:</string>
+    <string name="edit_entry">Editatu sarrera hau</string>
 </resources>
