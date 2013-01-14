@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help">도움</string>
+    <string name="helpText">옵션 메뉴:\n옵션 메뉴에서 당신은 예를 들어,이 응용 프로그램의 몇 가지 추가 기능을 찾을 수 있습니다환경 설정을 변경하거나 생일 목록에 새 연락처를 추가 할 수도 있습니다.\n\n연락처를 오래 누르면:\n당신은 생일 목록에서 기존 항목을 수정하거나 삭제할 선택할 수있는 당신은 생일의 목록에서 연락처를 길게 누르면 옵션이 포함 된 메뉴가 나타납니다.\n\n위젯:\n귀하의 홈 화면으로 이동하고 홈 화면으로 다가오는 생일을 추가하려면 \'추가\'다음 \'도구 "를 누르십시오. 귀하의 위젯마다 6 시간 새로 고쳐집니다!\n\n1970 근데 문제:\n당신은 1970 년 전에 날짜를 입력 할 수 없습니다 경우 사용자의 장치를위한 공통의 문제 (자주 모토로라 장치)입니다. 응용 프로그램 \'의 설정으로 이동하여 "이지 날짜 선택"을 중지하십시오. 변화 후에는 텍스트 필드에 날짜를 입력해야 -하지만 당신은 적어도 1970 년 이전에 날짜를 입력 할 수 있습니다.\n\n알림 없음:\n안드로이드의 최신 버전 (4.0+) 알림을위한 특별 설정을 제공합니다. 예를 들어, 상태 표시 줄에 모든 알림을 해제 할 수 있습니다 (여기서 3G, Wi-Fi 인터넷 접속, GPS 및 Bluetooth이있는) 또는 설정 중 "관리 애플리케이션"에 알림을 해제합니다. 알림이 작동하지 않을 경우 다음 설정을 확인하십시오.\n\n외부 저장으로 이동:\n그 경우에 작동하지 않을 다가오는 생일에 대한 알림으로 외부 저장 장치 (SD 카드)에이 응용 프로그램을 이동할 수 없습니다. 죄송합니다!\n\n지원 날짜 형식:\n우리는 완전히 YYYY-MM-DD입니다 ISO 8601에 따라 날짜 형식을 지원합니다. 다른 형식의 경우, 우리는 그들이 제대로 읽는 것을 보장 할 수 없습니다.\n\n나는 APP 번역을 도와 줄래?\n예, 할 수 있습니다. 당신은 쉽게 모든 사용자에 대해 모든 번역을 편집하고이를 개선 할 수있는, 그냥 페이스 북에 우리 응용 프로그램을 사용합니다. 더 읽기 및 편집을위한 데스크톱 컴퓨터에서 다음 링크를여십시오:\nhttp://birthdays.latein.me/</string>
+    <string name="goHome">집에 가서</string>
+    <string name="tomorrow">내일</string>
+    <string name="x_days_left">%1$d 일 남음</string>
+    <string name="settingsGeneral">일반 설정</string>
+    <string name="showPhotos">연락처의 사진</string>
+    <string name="showPhotos_summary">당신은 사람들의 사진이 목록에 표시 하시겠습니까?</string>
+    <string name="nextBirthdayOnWeekDay">다음 생일은에</string>
+    <string name="nextAnniversaryOnWeekDay">다음 기념일에</string>
+    <string name="tipDontEnterYear"><b>힌트:</b> 어떤 연도를 입력하고 싶지 않으세요? 그냥 "1900"을 입력하고 올해는 표시되지 않습니다.</string>
+    <string name="contactPhoto">연락처의 사진</string>
+    <string name="daysLeftUnit">일</string>
+    <string name="noBirthdaysFound">연락처 목록에있는 생일을 (를) 찾을 수 없습니다!</string>
+    <string name="turnVerb">변</string>
+    <string name="onTime">일</string>
+    <string name="pleaseWait">기다려주세요</string>
+    <string name="refreshingList">새로 고침 목록 &#8230;</string>
+    <string name="bornOn">생년월일:</string>
+    <string name="anniversaryOn">에 기념일:</string>
+    <string name="age">나이:</string>
+    <string name="yearsMarried">이후:</string>
+    <string name="years">년</string>
+    <string name="ok">OK</string>
+    <string name="today">오늘</string>
+    <string name="in">후</string>
+    <string name="birthday">생일</string>
+    <string name="yearsOld">이전 년</string>
+    <string name="loading">로드</string>
+    <string name="fullTextConvinced">이 응용 프로그램 당신을 확신 했습니까? 우리는 당신이 Google Play에서 우리의 응용 프로그램을 평가 할 수 있다면 매우 기뻐할 것입니다. 귀하의 지원에 대한 감사합니다!</string>
+    <string name="rateApp">평가 앱</string>
+    <string name="rateNow">속도 지금</string>
+    <string name="remindLater">나중에 알림</string>
+    <string name="noThanks">아뇨, 됐어요</string>
+    <string name="callVerb">전화</string>
+    <string name="mode_add">추가</string>
+    <string name="mode_edit">변화</string>
+    <string name="mode_backup">동기화</string>
+    <string name="mode_help">도움</string>
+    <string name="mode_buy">선물</string>
+    <string name="birthdayEdited">선택한 생일이 새 날짜로 업데이트되었습니다.</string>
+    <string name="cancel">취소</string>
+    <string name="save">저장</string>
+    <string name="smsVerb">SMS</string>
+    <string name="congratulationSMS">생일 축하합니다!</string>
+    <string name="comingSoon">출시 예정!</string>
+    <string name="nameOfPerson">사람의 이름을</string>
+    <string name="dateOfBirth">날짜를 선택</string>
+    <string name="delete">삭제</string>
+    <string name="edit">날짜를 변경</string>
+    <string name="birthdayDeleted">선택한 생일이 삭제되었습니다.</string>
+    <string name="mode_preferences">환경 설정</string>
+    <string name="notification_on">알림이 표시됩니다.</string>
+    <string name="notification_off">어떤 통지하지 않습니다.</string>
+    <string name="notification_0">생일</string>
+    <string name="notification_1">이전 일일</string>
+    <string name="notification_2">이일 전</string>
+    <string name="notification_7">일주 전에</string>
+    <string name="notification_time">알림 시간</string>
+    <string name="notification_sound">알림에 대한 사운드</string>
+    <string name="notification_sound_desc">벨소리 또는 "침묵"을 선택하세요</string>
+    <string name="setTime">당신의 선호 시간을 설정하십시오 &#8230;</string>
+    <string name="notificationsForBirthdays">생일에 대한 알림</string>
+    <string name="caption_adding_mode">새 항목을 추가</string>
+    <string name="hint_adding_mode">가능하면, 당신은 항상 연락처에 생일을 추가해야합니다. 당신은 더 많은 기능을 사용할 수 있습니다.</string>
+	<string name="adding_mode_contacts">주소록에서 선택</string>
+	<string name="adding_mode_newentry">전화 연락없이</string>
+	<string name="mode_search">검색</string>
+	<string name="searchNoResult">이 이름을 일치 목록에서 사람을 찾을 수 없습니다!</string>
+	<string name="findPerson">사람 찾기</string>
+	<string name="searchPerson">몸수색하다 &#8230;</string>
+	<string name="hint_search_mode">이름의 일부를 입력, 생일의 목록에있는 사람을 검색 할 때하는 것이 충분하다.</string>
+	<string name="zodiac">일주</string>
+	<string name="zodiac_aries">양자리</string>
+	<string name="zodiac_taurus">황소 자리</string>
+	<string name="zodiac_gemini">쌍둥이 자리</string>
+	<string name="zodiac_cancer">암</string>
+	<string name="zodiac_leo">레오</string>
+	<string name="zodiac_virgo">처녀 자리</string>
+	<string name="zodiac_libra">천칭 별자리</string>
+	<string name="zodiac_scorpio">전갈 자리</string>
+	<string name="zodiac_sagittarius">궁수</string>
+	<string name="zodiac_capricornus">염소 자리</string>
+	<string name="zodiac_aquarius">물병 자리</string>
+	<string name="zodiac_pisces">물고기 자리</string>
+	<string name="changePicture">사진 변경</string>
+	<string name="change_name">이름 변경</string>
+	<string name="sortBy">항목의 순서</string>
+	<string name="sortBy_change">귀하의 목록에 의해 정렬됩니다 어떤 선택</string>
+	<string-array name="sortBy_values_human">
+        <item>일 남음</item>
+        <item>이름</item>
+        <item>나이</item>
+    </string-array>
+	<string-array name="sortBy_values_machine">
+        <item>days_left</item>
+        <item>name</item>
+        <item>age</item>
+    </string-array>
+    <string name="choose_type">유형을 선택</string>
+    <string name="type_birthday">생일</string>
+    <string name="type_anniversary">기념일</string>
+    <string name="open_contact">연락처를 엽니 다</string>
+    <string name="buyVerb">선물을 찾기</string>
+    <string name="doExport">SD로 내보내기</string>
+    <string name="doImport">SD에서 가져 오기</string>
+    <string name="importVerb">수입</string>
+	<string name="pleaseEnterImportData">죄송합니다, 가져 오기가 완료 할 수 없습니다!</string>
+    <string name="invalidDate">날짜가 잘못되었습니다.</string>
+    <string name="pleaseCorrect">이 문제를 해결하세요!</string>
+    <string name="tryOpeningInvalid">이 잘못된 항목입니다. 을 길게 눌러 "변경 날짜"를 선택하십시오.</string>
+    <string name="chineseZodiac">중국의</string>
+	<string name="chinese_rat">쥐</string>
+	<string name="chinese_ox">소</string>
+	<string name="chinese_tiger">호랑이</string>
+	<string name="chinese_rabbit">토끼</string>
+	<string name="chinese_dragon">용</string>
+	<string name="chinese_snake">뱀</string>
+	<string name="chinese_horse">말</string>
+	<string name="chinese_goat">염소</string>
+	<string name="chinese_monkey">원숭이</string>
+	<string name="chinese_rooster">수탉</string>
+	<string name="chinese_dog">개</string>
+	<string name="chinese_pig">돼지</string>
+	<string name="show_zodiac">조디악 표지판</string>
+	<string name="show_zodiac_description">당신은 조디악 표지판이 표시되지 하시겠습니까?</string>
+	<string-array name="show_zodiac_values_human">
+        <item>서양의</item>
+        <item>중국의</item>
+        <item>서양의 + 중국의</item>
+        <item>아니</item>
+    </string-array>
+	<string-array name="show_zodiac_values_machine">
+        <item>western</item>
+        <item>chinese</item>
+        <item>both</item>
+        <item>none</item>
+    </string-array>
+	<string name="do_repeatsound">소리를 반복</string>
+	<string name="do_repeatsound_summary">당신은 통지를 닫을 때까지 소리가 반복 될 것인가?</string>
+	<string name="facebookImport">페이스 북에서 가져 오기</string>
+	<string name="install">지금 설치</string>
+	<string name="missing_addon_title">생일 플러스</string>
+	<string name="missing_addon_explain">이 기능을 사용하려면 \"생일 플러스\", 이 응용 프로그램의 확장 여전히 무료 버전입니다. 그것은 당신에게 더 나은 기능을 제공하기 위해 추가 권한을 (인터넷 및 SD 카드에 액세스 할 수)를 사용합니다. 그냥 확장 응용 프로그램을하고 유용한 기능을 즐길 수 있도록 Google 플레이를 방문하시기 바랍니다. 한번 해봐 -은 무료입니다!</string>
+    <string name="show_help">도움말 표시</string>
+    <string name="rate_app">평가 앱</string>
+    <string name="export_fail">죄송합니다, 데이터의 수출를 시작할 수 없습니다!</string>
+    <string name="loading_facebook">페이스 북에서 데이터로드 &#8230;</string>
+    <string name="notification_close">닫기 통지</string>
+    <string name="notification_remind1">다시 알림 15분</string>
+    <string name="notification_remind2">다시 알림 1시간</string>
+    <string name="notification_remind3">다시 알림 6시간</string>
+    <string name="importing_entries">선택한 항목을 가져 오기. 이 과정은 몇 분 정도 걸릴 수 있습니다 &#8230;</string>
+    <string name="open_app">오픈 응용 프로그램</string>
+    <string-array name="default_images">
+        <item>생일 (1)</item>
+        <item>생일 (2)</item>
+        <item>축제</item>
+        <item>사랑</item>
+        <item>혼례</item>
+        <item>죽음 (1)</item>
+        <item>죽음 (2)</item>
+    </string-array>
+    <string-array name="default_images_copyright">
+        <item>Africa Studio</item>
+        <item>bluedesign</item>
+        <item>shoot4u</item>
+        <item>Konstiantyn</item>
+        <item>artikularis</item>
+        <item>Pixel Embargo</item>
+        <item>Benjamin Haas</item>
+    </string-array>
+    <string name="pick_from_gallery">갤러리에서 선택</string>
+    <string name="pick_predefined_image">재고 이미지를 선택</string>
+    <string name="image_provided_by">이 이미지에 의해 제공되었습니다</string>
+    <string name="helpTranslating">번역 도움이</string>
+    <string name="translationHelpHowto">(더 나은 가독성 및 편집 용) 데스크톱 컴퓨터에서 브라우저에서 열어보세요:\nhttp://birthdays.latein.me/</string>
+    <string name="menu_main">메인 메뉴</string>
+	<string name="mode_translate">번역</string>
+	<string name="days_abbreviation">일</string>
+	<string name="sure_to_delete">해당 항목을 삭제 하시겠습니까?</string>
+	<string name="yes">예</string>
+	<string name="no">아니</string>
+	<string name="merge_with_contact">연락처와 병합</string>
+	<string name="merge_explanation">당신은 기존의 휴대 전화 연락처와 함께이 항목을 병합 하시겠습니까?</string>
+	<string name="entry_merged">항목이 성공적으로 선택한 연락처와 병합되었습니다.</string>
+	<string name="contacts_app_not_found">연락처 응용 프로그램이 장치에서 찾을 수 없습니다!</string>
+	<string name="defaultDateFormat">YYYY-MM-DD</string>
+	<string name="show_datepicker">쉬운 날짜 선택</string>
+	<string name="show_datepicker_on">당신이 목록에서 일, 월, 연도를 선택 할 수 있습니다 날짜 선택의 편리한 방법.</string>
+	<string name="show_datepicker_off">간단한 텍스트 필드가 표시됩니다. 수동으로 날짜를 입력 할 수 있습니다. 장치가 달리 이전에 년 1970 동의하지 않는 경우 유용합니다.</string>
+	<string name="settings_other">기타 설정</string>
+	<string name="congratulationText_title">축하 텍스트</string>
+	<string name="congratulationText_summary">여기에 축하 메시지에 대한 사전 정의 된 텍스트를 설정합니다.</string>
+	<string name="widget_4x1">생일 (4x1)</string>
+	<string name="widget_4x2">생일 (4x2)</string>
+	<string name="widget_3x1">생일 (3x1)</string>
+	<string name="widget_text">생일 (Text)</string>
+    <string name="fbLoad_fail">생일은 페이스 북에서 가져온 수 없습니다!</string>
+    <string name="fbLoad_success">생일을 성공적으로 페이스 북에서 수입!</string>
+    <string name="export_success">성공적으로 저장 백업 \"Birthdays Plus\" SD 카드에!</string>
+    <string name="import_fail">백업에서 수입 할 수 없습니다 \"Birthdays Plus\" SD 카드에!</string>
+    <string name="import_success">성공적으로에서 가져온 백업 \"Birthdays Plus\" SD 카드에!</string>
+    <string name="sdBackup">SD 백업</string>
+    <string name="open_facebook_profile">페이스 북의 프로필</string>
+    <string name="loading_image">사진을로드 &#8230;</string>
+    <string name="new_version">새 버전</string>
+    <string name="new_version_get">향상된 기능이 응용 프로그램의 새 버전은 Google 플레이에서 사용할 수 있습니다. 지금 업데이트를 받으시겠습니까?</string>
+    <string name="do_download">다운로드</string>
+    <string name="do_ignore">무시하다</string>
+    <string name="supportAndFeedback">질문 &#38; 피드백</string>
+    <string name="person_actions">행위</string>
+    <string name="save_note">메모를 저장</string>
+    <string name="delete_image">이미지를 삭제</string>
+    <string name="your_note">주의</string>
+    <string name="typeYourNote">개인 메모를 입력 &#8230;</string>
+    <string name="default_locale">표준 (권장)</string>
+    <string name="language">언어</string>
+    <string name="then">그때:</string>
+    <string name="edit_entry">이 항목을 편집합니다</string>
+</resources>
