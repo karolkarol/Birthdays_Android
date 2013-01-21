@@ -8,13 +8,13 @@
     <string name="settingsGeneral">Impostazioni generali</string>
     <string name="showPhotos">Contatti foto</string>
     <string name="showPhotos_summary">Volete le foto delle persone che devono figurare nella lista?</string>
-    <string name="nextBirthdayOnWeekDay">Il prossimo compleanno è su un</string>
-    <string name="nextAnniversaryOnWeekDay">L\'anniversario successivo è su un</string>
-    <string name="tipDontEnterYear"><b>Accennare:</b> Non voglio entrare in qualsiasi anno? Basta digitare \"1900\" e l\'anno non verrà mostrato.</string>
+    <string name="nextBirthdayOnWeekDay">Il prossimo compleanno è di</string>
+    <string name="nextAnniversaryOnWeekDay">L\'anniversario successivo è di</string>
+    <string name="tipDontEnterYear"><b>Suggerimento:</b> Non voglio mostrare l\'anno? Basta digitare \"1900\" e l\'anno non verrà mostrato.</string>
     <string name="contactPhoto">Foto dei contatti</string>
     <string name="daysLeftUnit">giorni</string>
     <string name="noBirthdaysFound">Impossibile trovare i compleanni nel tuo elenco di contatti!</string>
-    <string name="turnVerb">gira</string>
+    <string name="turnVerb">anni</string>
     <string name="onTime">su</string>
     <string name="pleaseWait">Si prega di attendere</string>
     <string name="refreshingList">Aggiornamento della lista &#8230;</string>
@@ -29,7 +29,7 @@
     <string name="birthday">Compleanno</string>
     <string name="yearsOld">anni</string>
     <string name="loading">Caricamento</string>
-    <string name="fullTextConvinced">Ha questa applicazione è convinto? Saremmo molto felici se tu potessi votare la nostra applicazione su Google Play. Grazie per il vostro supporto!</string>
+    <string name="fullTextConvinced">Questa applicazione ti ha soddisfatto? Saremmo molto felici se tu potessi votare la nostra applicazione su Google Play. Grazie per il vostro supporto!</string>
     <string name="rateApp">Vota questa app</string>
     <string name="rateNow">Vota ora</string>
     <string name="remindLater">Più tardi</string>
@@ -58,9 +58,9 @@
     <string name="notification_1">1 giorno prima</string>
     <string name="notification_2">2 giorni prima</string>
     <string name="notification_7">1 settimana prima</string>
-    <string name="notification_time">Tempo per le notifiche</string>
+    <string name="notification_time">Ora delle notifiche</string>
     <string name="notification_sound">Suono per le notifiche</string>
-    <string name="notification_sound_desc">Scegliere una suoneria o renderlo \"Silenzioso\"</string>
+    <string name="notification_sound_desc">Scegliere una suoneria o renderla \"Silenziosa\"</string>
     <string name="setTime">Impostare il tempo preferito &#8230;</string>
     <string name="notificationsForBirthdays">Notifiche per i compleanni</string>
     <string name="caption_adding_mode">Aggiunta di una nuova voce</string>
@@ -79,7 +79,7 @@
 	<string name="zodiac_cancer">Cancro</string>
 	<string name="zodiac_leo">Leone</string>
 	<string name="zodiac_virgo">Vergine</string>
-	<string name="zodiac_libra">Libra</string>
+	<string name="zodiac_libra">Bilancia</string>
 	<string name="zodiac_scorpio">Scorpione</string>
 	<string name="zodiac_sagittarius">Sagittario</string>
 	<string name="zodiac_capricornus">Capricorno</string>
@@ -139,14 +139,14 @@
         <item>none</item>
     </string-array>
 	<string name="do_repeatsound">Ripeti suono</string>
-	<string name="do_repeatsound_summary">Sarà il suono essere ripetuto finché non si chiude la notifica?</string>
+	<string name="do_repeatsound_summary">Il suono sarà ripetuto finché non si chiude la notifica.</string>
 	<string name="facebookImport">Importa da Facebook</string>
 	<string name="install">Installa adesso</string>
 	<string name="missing_addon_title">Compleanni Plus</string>
 	<string name="missing_addon_explain">Questa funzionalità richiede \"Compleanni Plus\", una versione estesa, ma ancora libero di questa app. Utilizza ulteriori autorizzazioni (accesso a Internet e scheda SD) per offrire una migliore funzionalità. Basta visitare Google Play per ottenere l\'applicazione estesa e godere di grande funzionalità. Prova - è gratis!</string>
     <string name="show_help">Mostra di aiuto</string>
     <string name="rate_app">Tasso di app</string>
-    <string name="export_fail">Siamo spiacenti, l\'esportazione dei dati non può essere avviato!</string>
+    <string name="export_fail">Siamo spiacenti, l\'esportazione dei dati non può essere avviata!</string>
     <string name="loading_facebook">Caricamento dei dati da Facebook &#8230;</string>
     <string name="notification_close">Notifica Chiudi</string>
     <string name="notification_remind1">Ricorda di nuovo in 15min</string>
@@ -176,7 +176,7 @@
     <string name="pick_predefined_image">Selezionare archivio di immagini</string>
     <string name="image_provided_by">Questa immagine è stata fornita da</string>
     <string name="helpTranslating">Aiuto traduzione</string>
-    <string name="translationHelpHowto">Si prega di aprire nel browser sul computer desktop (per una migliore leggibilità e la modifica):\nhttp://birthdays.latein.me/</string>
+    <string name="translationHelpHowto">Si prega di aprire nel browser del proprio computer (per una migliore leggibilità) il seguente LINK:\nhttp://birthdays.latein.me/</string>
     <string name="menu_main">Menu principale</string>
 	<string name="mode_translate">Tradurre</string>
 	<string name="days_abbreviation">g</string>
@@ -188,7 +188,7 @@
 	<string name="entry_merged">La voce è stata fusa con il contatto selezionato.</string>
 	<string name="contacts_app_not_found">L\'applicazione contatti non è stato trovato sul tuo dispositivo!</string>
 	<string name="defaultDateFormat">AAAA-MM-GG</string>
-	<string name="show_datepicker">Facile selezione data</string>
+	<string name="show_datepicker">Selezione facile della data</string>
 	<string name="show_datepicker_on">Un modo conveniente per la selezione della data che consente di scegliere il giorno, mese e anno da un elenco.</string>
 	<string name="show_datepicker_off">Un semplice campo di testo viene visualizzato. È possibile digitare manualmente la data. Questo è utile se il dispositivo non accetta anni precedenti al 1970 in caso contrario.</string>
 	<string name="settings_other">Altre impostazioni</string>
@@ -198,8 +198,8 @@
 	<string name="widget_4x2">Compleanni (4x2)</string>
 	<string name="widget_3x1">Compleanni (3x1)</string>
 	<string name="widget_text">Compleanni (Testo)</string>
-	<string name="fbLoad_fail">Compleanni non potevano essere importati da Facebook!</string>
-    <string name="fbLoad_success">Compleanni importato con successo da Facebook!</string>
+	<string name="fbLoad_fail">Compleanni non possono essere importati da Facebook!</string>
+    <string name="fbLoad_success">Compleanni importati con successo da Facebook!</string>
     <string name="export_success">Backup salvato con successo in \"Birthdays Plus\" su scheda SD!</string>
     <string name="import_fail">Backup non può essere importato da \"Birthdays Plus\" su scheda SD!</string>
     <string name="import_success">Backup con successo importato dalla \"Birthdays Plus\" su scheda SD!</string>
