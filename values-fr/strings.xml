@@ -5,6 +5,7 @@
     <string name="goHome">En arrière</string>
     <string name="tomorrow">demain</string>
     <string name="x_days_left">encore %1$d jours</string>
+	<string name="x_days_left_short">%1$d jours</string>
     <string name="settingsGeneral">Paramètres généraux</string>
     <string name="showPhotos">Photos des contacts</string>
     <string name="showPhotos_summary">Voulez-vous des photos des gens à être affiché dans la liste?</string>

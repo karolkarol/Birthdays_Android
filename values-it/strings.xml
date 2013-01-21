@@ -5,6 +5,7 @@
     <string name="goHome">Vai a casa</string>
     <string name="tomorrow">domani</string>
     <string name="x_days_left">mancano %1$d giorni</string>
+	<string name="x_days_left_short">%1$d giorni</string>
     <string name="settingsGeneral">Impostazioni generali</string>
     <string name="showPhotos">Contatti foto</string>
     <string name="showPhotos_summary">Volete le foto delle persone che devono figurare nella lista?</string>

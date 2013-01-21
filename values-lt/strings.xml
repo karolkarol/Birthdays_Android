@@ -5,6 +5,7 @@
     <string name="goHome">Į pradžią</string>
     <string name="tomorrow">rytoj</string>
     <string name="x_days_left">liko %1$d dienos</string>
+	<string name="x_days_left_short">%1$d dienos</string>
     <string name="settingsGeneral">Pagrindinės nuostatos</string>
     <string name="showPhotos">Kontaktų nuotraukos</string>
     <string name="showPhotos_summary">Ar norite, kad žmonių nuotraukos būtų rodomos sąraše?</string>

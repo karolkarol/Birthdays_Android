@@ -5,6 +5,7 @@
     <string name="goHome">家に帰る</string>
     <string name="tomorrow">明日</string>
     <string name="x_days_left">%1$d 余日</string>
+	<string name="x_days_left_short">%1$d 日</string>
     <string name="settingsGeneral">全般設定</string>
     <string name="showPhotos">連絡先の写真</string>
     <string name="showPhotos_summary">あなたは人々の写真が一覧に表示されたいですか？</string>

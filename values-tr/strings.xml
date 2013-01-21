@@ -5,6 +5,7 @@
     <string name="goHome">Ana Menü\'ye git</string>
     <string name="tomorrow">yarın</string>
     <string name="x_days_left">%1$d gün kaldı</string>
+	<string name="x_days_left_short">%1$d gün</string>
     <string name="settingsGeneral">Genel Ayarlar</string>
     <string name="showPhotos">Kişilerin fotoğrafları</string>
     <string name="showPhotos_summary">Eğer insanların fotoğrafları listesinde gösterilecek istiyor musunuz?</string>

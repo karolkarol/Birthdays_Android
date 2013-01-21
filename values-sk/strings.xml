@@ -5,6 +5,7 @@
     <string name="goHome">Prejsť domov</string>
     <string name="tomorrow">zajtra</string>
     <string name="x_days_left">zostáva %1$d dní</string>
+	<string name="x_days_left_short">%1$d dní</string>
     <string name="settingsGeneral">Všeobecné nastavenia</string>
     <string name="showPhotos">Fotky kontaktov</string>
     <string name="showPhotos_summary">Chceš fotografie ľudí, aby vám ukáže v zozname?</string>

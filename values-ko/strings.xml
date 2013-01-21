@@ -5,6 +5,7 @@
     <string name="goHome">집에 가서</string>
     <string name="tomorrow">내일</string>
     <string name="x_days_left">%1$d 일 남음</string>
+	<string name="x_days_left_short">%1$d 일</string>
     <string name="settingsGeneral">일반 설정</string>
     <string name="showPhotos">연락처의 사진</string>
     <string name="showPhotos_summary">당신은 사람들의 사진이 목록에 표시 하시겠습니까?</string>

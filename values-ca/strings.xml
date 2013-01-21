@@ -5,6 +5,7 @@
     <string name="goHome">Tornar</string>
     <string name="tomorrow">demà</string>
     <string name="x_days_left">d\'aquí a %1$d dies</string>
+	<string name="x_days_left_short">%1$d dies</string>
     <string name="settingsGeneral">Configuració general</string>
     <string name="showPhotos">Fotos dels contactes</string>
     <string name="showPhotos_summary">Vols fotos de la gent que es mostra a la llista?</string>

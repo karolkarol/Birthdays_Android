@@ -5,6 +5,7 @@
     <string name="goHome">Acasa</string>
     <string name="tomorrow">mâine</string>
     <string name="x_days_left">%1$d zile ramase</string>
+	<string name="x_days_left_short">%1$d zile</string>
     <string name="settingsGeneral">Setari generale</string>
     <string name="showPhotos">Pozele persoanelor</string>
     <string name="showPhotos_summary">Nu vrei fotografiile oamenilor care urmează să fie prezentate în listă?</string>

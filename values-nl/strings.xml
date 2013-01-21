@@ -5,6 +5,7 @@
     <string name="goHome">Begin</string>
     <string name="tomorrow">morgen</string>
     <string name="x_days_left">%1$d dagen wachten</string>
+	<string name="x_days_left_short">%1$d dagen</string>
     <string name="settingsGeneral">Instellingen</string>
     <string name="showPhotos">Contact foto\'s</string>
     <string name="showPhotos_summary">Wil je dat de profielfoto van de mensen wordt getoond in de lijst?</string>

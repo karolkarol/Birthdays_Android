@@ -5,6 +5,7 @@
     <string name="goHome">Домой</string>
     <string name="tomorrow">завтра</string>
     <string name="x_days_left">%1$d дн. осталось</string>
+	<string name="x_days_left_short">%1$d дней</string>
     <string name="settingsGeneral">Основные настройки</string>
     <string name="showPhotos">Показать фото</string>
     <string name="showPhotos_summary">Вы хотите, фотографии людей будет показана в списке?</string>
