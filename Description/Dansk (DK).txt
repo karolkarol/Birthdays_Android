@@ -1,0 +1,54 @@
+Den bedste fødselsdagsgave kalender at blive informeret om kommende fødselsdage af venner og familie!
+
+Gratis, nem, hurtig - og uden annoncer!
+
+Bare åbne denne letvægts app (kun 895 KB) og se hvem du er nødt til at lykønske næste og hvor gammel denne person bliver derefter.
+
+Du behøver ikke at udfylde ekstra oplysninger, bare skriv dato og år på din kontakt liste og du vil aldrig glemme dine venners fødselsdage igen - den indbyggede nedtælling vil altid minde dig om det. Du kan også tilføje fødselsdage uden en telefon kontakt, bare skrive navnet og dato - hvis du vil, kan du tilføje et billede, også.
+
+Selvfølgelig lader det medfølgende fødselsdag påmindelse dig vide, hvornår du har brug for at lykønske dine venner. Du vil aldrig glemme nogen venner's fødselsdag igen!
+
+<b>Tilladelser:</b>
+• Læs kontakt data: fødselsdag's kalender har brug for denne tilladelse for at være i stand til at vise fødselsdag begivenheder fra dine kontakter. Men dine data er sikre - der er ingen Internet tilladelse.
+• Skriv kontaktdata: Du kan tilføje, ændre og slette fødselsdage i denne kalender. Af denne grund er denne tilladelse nødvendig.
+• Ekstern storage (SD-kort / læse og skrive): Den app har en import / eksport funktion, så du kan gemme alle dine fødselsdage til ekstern lagring og gendanne dem, hvis det er nødvendigt (fx på en ny enhed).
+• start automatisk ved opstart: Nødvendig for opsætning af fødselsdagspåmindelse igen, når telefonen er genstartet.
+
+<b>Er der en widget inkluderet?</b>
+Ja! Du kan placere fødselsdag nedtælling til højre på skærmen hjem! Det fås i størrelserne 4x1 og 4x2.
+
+<b>Kan jeg importere fødselsdage fra Facebook?</b>
+Ja, bare få "Fødselsdage plus", som er tilgængelig for gratis samt (kræver Internet tilladelse):
+http://bit.ly/birthdays_plus
+
+<b>Kan jeg hjælpe oversætte app?</b>
+Ja, vi vil være glade for at have dig at hjælpe! På den følgende side finder du alle oplysninger om, hvordan du oversætte denne fødselsdag app og dermed forbedre den til alle brugere:
+http://birthdays.latein.me/
+
+<b>Yderligere spørgsmål:</b>
+En udvidet hjælp sektion kan findes inden for den app selv. Når du vælger hovedmenu fødselsdag nedtællingen, vil du se svarene på de vigtigste spørgsmål om denne app, og du kan lære at løse særlige problemer med denne applikation.
+
+<b>Understøttede sprog:</b>
+• Engelsk (English)
+• Dansk (Dansk)
+• Basque (Euskal)
+• Catalansk (Català)
+• Hollandsk (Nederlands)
+• Fransk (Français)
+• Tysk (Deutsch)
+• Italiensk (Italiano)
+• Japansk (日本人)
+• Litauisk (Lietuvos)
+• Portugisisk (Português)
+• Rumænsk (Roman)
+• Russisk (Русский)
+• Slovakisk (Slovenčina)
+• Spansk (Español)
+• Tyrkisk (Türk)
+
+<b>Tak til:</b>
+• Povl Hansen / tryout.dk (DK), Giuseppe Conti (IT), Jonas Plutulevičius (LT), Guillermo (EU), Mercè Gratacós (CA), Bruno Machado (PT), Marta Loureiro (PT), Volkan Karabulut (TR), Melvin E. (NL), Martin Jurík (SK) og Andrew Sachkov (RU) til at omsætte denne fødselsdage app
+• http://www.latein.me/static/gp_attr_birthdays.txt
+
+<b>Tags:</b>
+fødselsdag påmindelse venner kontakter kalender familie fødselsdage nedtælling
