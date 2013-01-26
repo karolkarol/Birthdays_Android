@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="help">Hjælp</string>
+    <string name="helpText">OPTIONS MENU:\nI indstillingsmenuen kan du finde flere ekstra funktioner i denne app, fx . ændre præferencer eller tilføje nye kontakter til din liste over fødselsdage.\n\nLONG-TRYKKE PÅ A KONTAKT:\nNår du længerevarende tryk på en kontakt på din liste over fødselsdage, vil en menu med indstillinger poppe op hvor du kan vælge at redigere eller slette en eksisterende post på listen over fødselsdage.\n\nWIDGET:\nGå til dit hjem skærm og hit \"Tilføj\", så \"Widget\" for at tilføje de kommende fødselsdage til din startskærm. Din widget vil blive opdateret hver 6 timer!\n\n1970 PROBLEM:\nHvis du ikke kan komme ind datoer før 1970, det \'sa fælles problem for din enhed (ofte med Motorola-enheder). Gå venligst til app\'s indstillinger og deaktivere \"Easy dato selection\". Efter denne ændring, \'ll du nødt til at indtaste datoer i et tekstfelt - men du kan i det mindste angive datoer før 1970.\n\nDER MEDDELELSER:\nDen nyeste versioner af Android (4.0+) tilbyder specielle indstillinger for meddelelser. For eksempel kan du slukke alle meddelelser i statuslinjen (hvor 3G, Wi-Fi, GPS og Bluetooth er placeret) eller deaktivere meddelelser i \"Manage apps\" blandt dine indstillinger. Tjek venligst disse indstillinger, hvis dine meddelelser don\'t arbejde.\n\nMOVING EKSTERNE LAGERENHEDER:\nDu kan ikke flytte denne app til ekstern lagring (SD-kort) som meddelelser om kommende fødselsdage wouldn\'t arbejde i denne sag. Desværre!\n\nSUPPORTED DATOFORMATER:\nVi støtter fuldt datoformater i henhold til ISO 8601, der er ÅÅÅÅ-MM-DD. For andre formater, kan vi ikke garantere, at de er læst korrekt.\n\nCAN JEG HJÆLPE AT OVERSÆTTE APP?\nYes, du kan. Bare bruge vores ansøgning på Facebook, hvor du nemt kan redigere alle oversættelser og forbedre dem for alle brugere. Vær åbne følgende link på en stationær computer for bedre læsning og redigering:\nhttp://birthdays.latein.me/</string>
+    <string name="goHome">Gå tilbage</string>
+    <string name="tomorrow">i morgen</string>
+    <string name="x_days_left">%1$d dage tilbage</string>
+	<string name="x_days_left_short">%1$d dage</string>
+    <string name="settingsGeneral">Generelle indstillinger</string>
+    <string name="showPhotos">Kontakter\' Fotos</string>
+    <string name="showPhotos_summary">Vil du folk\'s fotos, der skal vises i listen?</string>
+    <string name="nextBirthdayOnWeekDay">Den næste fødselsdag er på en</string>
+    <string name="nextAnniversaryOnWeekDay">Det næste jubilæum er på en</string>
+    <string name="tipDontEnterYear"><b>Tip:</b> Don\'t ønsker at indtaste nogen år? Bare skriv \"1900\", og året vil ikke blive vist.</string>
+    <string name="contactPhoto">Kontakt\'s foto</string>
+    <string name="daysLeftUnit">dage</string>
+    <string name="noBirthdaysFound">​​Kunne\'t finde nogen fødselsdage i din kontaktliste!</string>
+    <string name="turnVerb">sving</string>
+    <string name="onTime">på</string>
+    <string name="pleaseWait">Vent venligst</string>
+    <string name="refreshingList">Opdaterer liste &#8230;</string>
+    <string name="bornOn">Fødselsdato:</string>
+    <string name="anniversaryOn">Årsdag på:</string>
+    <string name="age">Alder:</string>
+    <string name="yearsMarried">Siden:</string>
+    <string name="years">år</string>
+    <string name="ok">OK</string>
+    <string name="today">i dag</string>
+    <string name="in">ind</string>
+    <string name="birthday">Fødselsdag</string>
+    <string name="yearsOld">år gammel</string>
+    <string name="loading">loading</string>
+    <string name="fullTextConvinced">Har denne app overbeviste dig? Vi ville være meget glade, hvis du kunne bedømme vores ansøgning på Google Play. Tak for din støtte!</string>
+    <string name="rateApp">Vurder denne app</string>
+    <string name="rateNow">Vurder nu</string>
+    <string name="remindLater">Påmind senere</string>
+    <string name="noThanks">Nej tak</string>
+    <string name="callVerb">Ring</string>
+    <string name="mode_add">Tilføj</string>
+    <string name="mode_edit">Rediger</string>
+    <string name="mode_backup">Synk</string>
+    <string name="mode_help">Hjælp</string>
+    <string name="mode_buy">Gaver</string>
+    <string name="birthdayEdited">Den valgte fødselsdag er blevet opdateret til den nye dato.</string>
+    <string name="cancel">Annuller</string>
+    <string name="save">Gem</string>
+    <string name="smsVerb">SMS</string>
+    <string name="congratulationSMS">Tillykke med fødselsdagen!</string>
+    <string name="comingSoon">Kommer snart!</string>
+    <string name="nameOfPerson">Person\'s navn</string>
+    <string name="dateOfBirth">Vælg dato</string>
+    <string name="delete">Slet</string>
+    <string name="edit">Skift dato</string>
+    <string name="birthdayDeleted">Den valgte fødselsdag er blevet slettet.</string>
+    <string name="mode_preferences">Indstillinger</string>
+    <string name="notification_on">Meddelelser vil blive vist.</string>
+    <string name="notification_off">Ingen anmeldelsen.</string>
+    <string name="notification_0">på fødselsdag</string>
+    <string name="notification_1">1 dag før</string>
+    <string name="notification_2">2 dage før</string>
+    <string name="notification_7">1 uge før</string>
+    <string name="notification_time">Tid til meddelelser</string>
+    <string name="notification_sound">​​Lyd for meddelelser</string>
+    <string name="notification_sound_desc">Vælg en ringetone eller \"Lydløs\"</string>
+    <string name="setTime">Du kan indstille din foretrukne tid &#8230;</string>
+    <string name="notificationsForBirthdays">Meddelelser til fødselsdage</string>
+    <string name="caption_adding_mode">Tilføjelse af en ny post</string>
+    <string name="hint_adding_mode">Hvis det er muligt, bør du altid tilføje fødselsdage til dine kontakter. Du kan bruge flere funktioner ind.</string>
+	<string name="adding_mode_contacts">vælge mellem kontaktpersoner</string>
+	<string name="adding_mode_newentry">uden telefonkontakt</string>
+	<string name="mode_search">Søg</string>
+	<string name="searchNoResult">Kunne\'t finde nogen person på din liste der matcher dette navn!</string>
+	<string name="findPerson">Find en person</string>
+	<string name="searchPerson">Søg person &#8230;</string>
+	<string name="hint_search_mode">Når du søger en person på din liste over fødselsdage, skrive en del af navnet er som regel nok.</string>
+	<string name="zodiac">Stjernetegn</string>
+	<string name="zodiac_aries">Vædderen</string>
+	<string name="zodiac_taurus">Tyren</string>
+	<string name="zodiac_gemini">Tvillingerne</string>
+	<string name="zodiac_cancer">Krebsen</string>
+	<string name="zodiac_leo">Løve</string>
+	<string name="zodiac_virgo">Jomfruen</string>
+	<string name="zodiac_libra">Vægten</string>
+	<string name="zodiac_scorpio">Skorpionen</string>
+	<string name="zodiac_sagittarius">Skytten</string>
+	<string name="zodiac_capricornus">Stenbukken</string>
+	<string name="zodiac_aquarius">Vandmanden</string>
+	<string name="zodiac_pisces">Fiskene</string>
+	<string name="changePicture">Skift billede</string>
+	<string name="change_name">Skift navn</string>
+	<string name="sortBy">Bekendtgørelse af poster</string>
+	<string name="sortBy_change">Vælg hvad din liste sorteres efter</string>
+	<string-array name="sortBy_values_human">
+        <item>Dage tilbage</item>
+        <item>Navn</item>
+        <item>Alder</item>
+    </string-array>
+	<string-array name="sortBy_values_machine">
+        <item>days_left</item>
+        <item>name</item>
+        <item>age</item>
+    </string-array>
+    <string name="choose_type">Vælg type</string>
+    <string name="type_birthday">Fødselsdag</string>
+    <string name="type_anniversary">Årsdag</string>
+    <string name="open_contact">Åben kontakt</string>
+    <string name="buyVerb">Find en gave</string>
+    <string name="doExport">Eksporter til SD</string>
+    <string name="doImport">Importer fra SD</string>
+    <string name="importVerb">Import</string>
+	<string name="pleaseEnterImportData">Beklager, import kunne ikke afsluttet!</string>
+    <string name="invalidDate">Ugyldig dato.</string>
+    <string name="pleaseCorrect">Ret venligst dette!</string>
+    <string name="tryOpeningInvalid">Dette er en ugyldig indtastning. længerevarende tryk på den og vælg \"Skift dato\".</string>
+    <string name="chineseZodiac">Kinesisk</string>
+	<string name="chinese_rat">Rotte</string>
+	<string name="chinese_ox">Okse</string>
+	<string name="chinese_tiger">Tiger</string>
+	<string name="chinese_rabbit">Kanin</string>
+	<string name="chinese_dragon">Drage</string>
+	<string name="chinese_snake">Slange</string>
+	<string name="chinese_horse">Hest</string>
+	<string name="chinese_goat">Ged</string>
+	<string name="chinese_monkey">Abe</string>
+	<string name="chinese_rooster">Hane</string>
+	<string name="chinese_dog">Hund</string>
+	<string name="chinese_pig">Gris</string>
+	<string name="show_zodiac">Stjernetegn</string>
+	<string name="show_zodiac_description">Vil du ha stjernetegn tegn skal vises?</string>
+	<string-array name="show_zodiac_values_human">
+        <item>Vestlige</item>
+        <item>Kinesisk</item>
+        <item>Vestlige + Kinesisk</item>
+        <item>None</item>
+    </string-array>
+	<string-array name="show_zodiac_values_machine">
+        <item>western</item>
+        <item>chinese</item>
+        <item>both</item>
+        <item>none</item>
+    </string-array>
+	<string name="do_repeatsound">Gentag lyd</string>
+	<string name="do_repeatsound_summary">Vil lyden blive gentaget, indtil du lukker anmeldelsen?</string>
+	<string name="facebookImport">Importer fra Facebook</string>
+	<string name="install">Installer nu</string>
+	<string name="missing_addon_title">Fødselsdage Plus</string>
+	<string name="missing_addon_explain">Denne funktion kræver \"Fødselsdage Plus\", en udvidet, men stadig gratis version af denne app. Det bruger yderligere tilladelser (adgang til internet og SD-kort) for at tilbyde dig bedre funktioner. Bare besøge Google Play for at få den udvidede app og nyde fantastiske funktioner. Prøv det - det\'s gratis!</string>
+    <string name="show_help">Vis hjælpe</string>
+    <string name="rate_app">Vurder app</string>
+    <string name="export_fail">Beklager, eksport af dine data kunne ikke startes!</string>
+    <string name="loading_facebook">Indlæser data fra Facebook &#8230;</string>
+    <string name="notification_close">Luk meddelelse</string>
+    <string name="notification_remind1">Påmind igen om 15min</string>
+    <string name="notification_remind2">Påmind igen om 1h</string>
+    <string name="notification_remind3">Påmind igen om 6h</string>
+    <string name="importing_entries">Import de valgte poster. Dette kan tage flere minutter &#8230;</string>
+    <string name="open_app">Åben app</string>
+    <string-array name="default_images">
+        <item>Fødselsdag (1)</item>
+        <item>Fødselsdag (2)</item>
+        <item>Jubilæum</item>
+        <item>Kærlighed</item>
+        <item>Bryllup</item>
+        <item>Død (1)</item>
+        <item>Død (2)</item>
+    </string-array>
+    <string-array name="default_images_copyright">
+        <item>Africa Studio</item>
+        <item>bluedesign</item>
+        <item>shoot4u</item>
+        <item>Konstiantyn</item>
+        <item>artikularis</item>
+        <item>Pixel Embargo</item>
+        <item>Benjamin Haas</item>
+    </string-array>
+    <string name="pick_from_gallery">Vælg fra foto galleriet</string>
+    <string name="pick_predefined_image">Vælg standart billede</string>
+    <string name="image_provided_by">Dette billede er leveret af</string>
+    <string name="helpTranslating">Hjælp oversætte</string>
+    <string name="translationHelpHowto">Venligst åbent i din browser på din stationære computer (for bedre læsbarhed og redaktion):\nhttp://birthdays.latein.me/</string>
+    <string name="menu_main">Hovedmenu</string>
+	<string name="mode_translate">Oversæt</string>
+	<string name="days_abbreviation">d</string>
+	<string name="sure_to_delete">Er du sikker på du vil slette dette indlæg?</string>
+	<string name="yes">Ja</string>
+	<string name="no">Nej</string>
+	<string name="merge_with_contact">Flet med kontakt</string>
+	<string name="merge_explanation">Vil du flette dette indlæg med en eksisterende telefon kontakt?</string>
+	<string name="entry_merged">Oplysningerne er blevet lagt sammen med den valgte kontakt.</string>
+	<string name="contacts_app_not_found">Denne kontakt app kunne ikke findes på din enhed!</string>
+	<string name="defaultDateFormat">ÅÅÅÅ-MM-DD</string>
+	<string name="show_datepicker">Nem dato valg</string>
+	<string name="show_datepicker_on">En bekvem måde at dato markering, der lader dig vælge dag, måned og år fra en liste.</string>
+	<string name="show_datepicker_off">En simpel tekst felt vil blive vist. Du kan skrive datoen manuelt. Dette er nyttigt, hvis din enhed ikke accepterer årene før 1970 ellers.</string>
+	<string name="settings_other">Andre indstillinger</string>
+	<string name="congratulationText_title">Lykønskning tekst</string>
+	<string name="congratulationText_summary">Indstil din foruddefineret tekst for tillykke-meddelelser her.</string>
+	<string name="widget_4x1">Fødselsdage (4x1)</string>
+	<string name="widget_4x2">Fødselsdage (4x2)</string>
+	<string name="widget_3x1">Fødselsdage (3x1)</string>
+	<string name="widget_text">Fødselsdage (Tekst)</string>
+    <string name="fbLoad_fail">Fødselsdage kan ikke importeres fra Facebook!</string>
+    <string name="fbLoad_success">Fødselsdage blevet importeret fra Facebook!</string>
+    <string name="export_success">Backup gemt i \"Birthdays Plus\" på SD-kort!</string>
+    <string name="import_fail">Backup kunne ikke importeres fra \"Birthdays Plus\" på SD-kort!</string>
+    <string name="import_success">Backup blevet importeret fra \"Birthdays Plus\" på SD-kort!</string>
+    <string name="sdBackup">SD backup</string>
+    <string name="open_facebook_profile">Åben Facebook profil</string>
+    <string name="loading_image">Indlæser foto &#8230;</string>
+    <string name="new_version">Ny version</string>
+    <string name="new_version_get">En ny version af denne app med forbedrede funktioner er tilgængelige på Google Play. Ønsker du at få opdateringen nu?</string>
+    <string name="do_download">Download</string>
+    <string name="do_ignore">Ignorer</string>
+    <string name="supportAndFeedback">Spørgsmål &#38; Feedback</string>
+    <string name="person_actions">Handlinger</string>
+    <string name="save_note">Gem en note</string>
+    <string name="delete_image">Slet billede</string>
+    <string name="your_note">Bemærk</string>
+    <string name="typeYourNote">Indtast din personlige note &#8230;</string>
+    <string name="default_locale">Standard (anbefales)</string>
+    <string name="language">Sprog</string>
+    <string name="then">Derefter:</string>
+    <string name="edit_entry">Rediger dette indlæg</string>
+</resources>

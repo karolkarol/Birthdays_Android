@@ -2,7 +2,7 @@ The best birthday calendar to stay informed about upcoming birthdays of friends 
 
 Free, easy, fast - and without ads!
 
-Just open this lightweight app (only 654 KB) and see whom you have to congratulate next and how old this person turns then.
+Just open this lightweight app (only 895 KB) and see whom you have to congratulate next and how old this person turns then.
 
 You don't have to fill in extra information, just type in the day of birth in your contact list and never forget your friends' birthdays again - the built-in countdown always reminds you. You can also add birthdays without a phone contact, just type in the name and date - and if you want, you can add a picture, too.
 
@@ -11,6 +11,7 @@ Of course, the included birthday reminder lets you know when you need to congrat
 <b>Permissions:</b>
 • Read contact data: The birthday calendar needs this permission in order to be able to display the birthday events from your contacts. But your data is safe - there's no Internet permission.
 • Write contact data: You can add, modify and delete birthdays within this calendar. For that reason this permission is needed.
+• External storage (SD card / read and write): The app has an import/export feature so that you can save all your birthdays to the external storage and restore them, if needed (e.g. on a new device).
 • Automatically start at boot: Necessary for setting up the birthday reminder again when the phone has been restarted.
 
 <b>Is there a widget included?</b>
@@ -36,15 +37,16 @@ An extended help section can be found within the app itself. When selecting the 
 • German (Deutsch)
 • Italian (Italiano)
 • Japanese (日本人)
+• Lithuanian (Lietuvos)
 • Portuguese (Português)
 • Romanian (Român)
-• Russian (Pусский)
-• Slovak (Slovencina)
+• Russian (Русский)
+• Slovak (Slovenčina)
 • Spanish (Español)
 • Turkish (Türk)
 
 <b>Thanks to:</b>
-• Guillermo (EU), Mercè Gratacós (CA), Bruno Machado (PT), Marta Loureiro (PT), Volkan Karabulut (TR), Melvin E. (NL), Martin Jurík (SK) and Andrew Sachkov (RU) for translating this birthdays app
+• Giuseppe Conti (IT), Jonas Plutulevičius (LT), Guillermo (EU), Mercè Gratacós (CA), Bruno Machado (PT), Marta Loureiro (PT), Volkan Karabulut (TR), Melvin E. (NL), Martin Jurík (SK) and Andrew Sachkov (RU) for translating this birthdays app
 • http://www.latein.me/static/gp_attr_birthdays.txt
 
 <b>Tags:</b>
