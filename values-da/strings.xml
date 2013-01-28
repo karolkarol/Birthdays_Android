@@ -145,7 +145,7 @@
 	<string name="install">Installer nu</string>
 	<string name="missing_addon_title">Fødselsdage Plus</string>
 	<string name="missing_addon_explain">Denne funktion kræver \"Fødselsdage Plus\", en udvidet, men stadig gratis version af denne app. Det bruger yderligere tilladelser (adgang til internet og SD-kort) for at tilbyde dig bedre funktioner. Bare besøge Google Play for at få den udvidede app og nyde fantastiske funktioner. Prøv det - det\'s gratis!</string>
-    <string name="show_help">Vis hjælpe</string>
+    <string name="show_help">Vis hjælp</string>
     <string name="rate_app">Vurder app</string>
     <string name="export_fail">Beklager, eksport af dine data kunne ikke startes!</string>
     <string name="loading_facebook">Indlæser data fra Facebook &#8230;</string>

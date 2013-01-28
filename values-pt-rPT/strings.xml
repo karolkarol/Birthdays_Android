@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="help">Ajuda</string>
-	<string name="helpText">MENU DE OPÇÕES:\nNo menu de opções, pode encontrar diversas funcionalidades adicionais para esta aplicação como, por exemplo: mudar as preferências ou adicionar novos contatos à sua lista de aniversários.\n\nEDITAR OS CONTATOS:\nAo pressionar prolongadamente um contato na sua lista de aniversários, irá aparecer um menu de opções onde pode editar ou deletar um contato existente na sua lista.\n\nADICIONAR UMA FOTO:\nPoderá apenas adicionar uma foto a pessoas que não estão nos seus contatos do telemóvel mas que foram adicionados manualmente nesta aplicação. Para o fazer a uma pessoa da sua lista de contatos, faça edição do contato apartir da sua lista de contatos do Android.\n\nWIDGET:\nVá para o seu ecrã principal e selecione \"Adicionar\" e depois \"Widget\" para adicionar os próximos aniversários ao seu ecrã principal. O widget será atualizado de seis em seis horas!\n\nPROBLEMA 1970:\nSe não consegue adicionar datas anteriores ao ano 1970, você experimenta um problema comum ao seu dispositivo (muitas vezes com dispositivos Motorola). Por favor, aceda às preferências da app e desative \"Seleção fácil de data\". Após essa mudança, você terá que escrever as datas num campo de texto - assim poderá inserir datas anteriores a 1970.\n\nSEM NOTIFICAÇÕES:\nAs últimas versões Android (4.0+) oferecem definições especiais para notificações. Por exemplo, pode desligar todas as notificações na barra de estado (onde o 3G, Wi-Fi, GPS e Bluetooth estão) ou pode ainda desativá-las em \"Gerir aplicações\" nas definições. Por favor, verifique estas definições caso as suas notificações não funcionem.\n\nGUARDAR EM MEMÓRIA EXTERNA:\nEsta aplicação não deverá ser guardada em memória externa (cartão SD), pois, nesse caso, as notificações de próximos aniversários não funcionarão. Pedimos desculpa!\n\nFORMATOS DE DATA SUPORTADOS:\nSuportamos o formato de data de acordo com o ISO 8601, que é ANO-MÊS-DIA. Para outros formatos, não podemos garantir que funcionem corretamente.\n\nPODEREI AJUDAR A TRADUZIR A APLICAÇÃO?\nSim, pode. Apenas utilize a nossa aplicação no Facebook, onde poderá facilmente editar todas as traduções e melhorá-as para todos os utilizadores. Por favor, abra o seguinte link no seu computador para conseguir ler e editar melhor:\nhttp://birthdays.latein.me/</string>
+	<string name="helpText">MENU DE OPÇÕES:\nNo menu de opções, pode encontrar diversas funcionalidades adicionais para esta aplicação como, por exemplo: mudar as preferências ou adicionar novos entradas à sua lista de aniversários.\n\nEDITAR ENTRADAS:\nAo pressionar prolongadamente uma entrada da sua lista de aniversários, irá aparecer um menu de opções onde pode editar ou apagar uma entrada existente na lista.\n\nWIDGET:\nVá para o seu ecrã principal e selecione \"Adicionar\" e depois \"Widget\" para adicionar os próximos aniversários ao seu ecrã principal. O widget será atualizado de seis em seis horas!\n\nPROBLEMA 1970:\nSe não consegue adicionar datas anteriores ao ano 1970, o seu dispositivo experimenta um problema relativamente comum (muitas vezes com dispositivos Motorola). Por favor, aceda às preferências da aplicação e desative \"Seleção fácil de data\". Após essa mudança, terá que escrever as datas num campo de texto - assim poderá inserir datas anteriores a 1970.\n\nSEM NOTIFICAÇÕES:\nAs últimas versões Android (4.0+) oferecem definições especiais para notificações. Por exemplo, pode desligar todas as notificações na barra de estado (onde o 3G, Wi-Fi, GPS e Bluetooth estão) ou pode ainda desativá-las em \"Gerir aplicações\" nas definições. Por favor, verifique estas definições caso as suas notificações não funcionem.\n\nGUARDAR EM MEMÓRIA EXTERNA:\nEsta aplicação não deverá ser guardada na memória externa (cartão SD), pois, nesse caso, as notificações dos próximos aniversários não funcionarão. Pedimos desculpa!\n\nFORMATOS DE DATA SUPORTADOS:\nSuportamos o formato de data de acordo com o ISO 8601: ANO-MÊS-DIA. Para outros formatos, não poderemos garantir que funcionem corretamente.\n\nPOSSO AJUDAR A TRADUZIR A APLICAÇÃO?\nSim, pode! Apenas utilize a nossa aplicação no Facebook, onde poderá facilmente editar todas as traduções e melhorá-las para todos os utilizadores. Por favor, abra o seguinte link no seu computador para conseguir ler e editar melhor:\nhttp://birthdays.latein.me/</string>
 	<string name="goHome">Regressar a casa</string>
     <string name="tomorrow">amanhã</string>
     <string name="x_days_left">faltam %1$d dias</string>
 	<string name="x_days_left_short">%1$d dias</string>
 	<string name="settingsGeneral">Configurações gerais</string>
 	<string name="showPhotos">Fotos dos contatos</string>
-	<string name="showPhotos_summary">Você quer fotos das pessoas para ser mostrado na lista?</string>
+	<string name="showPhotos_summary">Pretende exibir as fotos dos contatos na sua lista?</string>
 	<string name="nextBirthdayOnWeekDay">O próximo aniversário é num(a)</string>
 	<string name="nextAnniversaryOnWeekDay">O próximo aniversário é num(a)</string>
-	<string name="tipDontEnterYear"><b>Dica:</b> Prefere não introduzir o ano? Digite apenas \"1900\" e o ano não será mostrado.</string>
+	<string name="tipDontEnterYear"><b>Dica:</b> Prefere não introduzir o ano? Digite apenas \"1900\" e o ano não será apresentado.</string>
 	<string name="contactPhoto">Foto do contato</string>
 	<string name="daysLeftUnit">dias</string>
 	<string name="noBirthdaysFound">Não foram encontrados aniversários na sua lista!</string>
@@ -31,7 +31,7 @@
 	<string name="yearsOld">anos</string>
 	<string name="loading">carregando</string>
 	<string name="fullTextConvinced">Será que esta aplicação o agradou? Ficaríamos satisfeitos se pudesse avaliar a nossa aplicação no Google Play. Agradecemos o seu apoio!</string>
-	<string name="rateApp">Avaliar esta app</string>
+	<string name="rateApp">Avaliar esta aplicação</string>
 	<string name="rateNow">Avaliar agora</string>
 	<string name="remindLater">Lembrar-me depois</string>
 	<string name="noThanks">Não, obrigado</string>
@@ -51,7 +51,7 @@
 	<string name="dateOfBirth">Digitar data</string>
 	<string name="delete">Apagar</string>
 	<string name="edit">Alterar data</string>
-	<string name="birthdayDeleted">O aniversário selecionado foi apagado.</string>
+	<string name="birthdayDeleted">O aniversário selecionado foi eliminado.</string>
 	<string name="mode_preferences">Preferências</string>
 	<string name="notification_on">A notificação será mostrada.</string>
 	<string name="notification_off">A notificação não será mostrada.</string>
@@ -65,7 +65,7 @@
 	<string name="setTime">Por favor, selecione o seu horário preferido &#8230;</string>
 	<string name="notificationsForBirthdays">Notificações dos aniversários</string>
 	<string name="caption_adding_mode">Adicionar uma nova entrada</string>
-	<string name="hint_adding_mode">Se possível, deve adicionar os aniversários aos seus contatos. Assim pode usar mais características.</string>
+	<string name="hint_adding_mode">Se possível, adicione os aniversários aos seus contatos. Assim pode usar mais características.</string>
 	<string name="adding_mode_contacts">Adicionar a partir de um contato</string>
 	<string name="adding_mode_newentry">Adicionar sem contato telefónico</string>
 	<string name="mode_search">Procurar</string>
@@ -105,8 +105,8 @@
 	<string name="type_anniversary">Aniversário</string>
 	<string name="open_contact">Abrir contato</string>
 	<string name="buyVerb">Encontrar um presente</string>
-	<string name="doExport">Exportar para SD</string>
-	<string name="doImport">Importar de SD</string>
+	<string name="doExport">Exportar para cartão SD</string>
+	<string name="doImport">Importar de cartão SD</string>
 	<string name="importVerb">Importar</string>
 	<string name="pleaseEnterImportData">Lamentamos, a importação dos seus dados não pôde ser concluída!</string>
 	<string name="invalidDate">Data inválida.</string>
@@ -140,11 +140,11 @@
 		<item>none</item>
 	</string-array>
 	<string name="do_repeatsound">Repetir som</string>
-	<string name="do_repeatsound_summary">Será que o som ser repetido até fechar a notificação?</string>
+	<string name="do_repeatsound_summary">Repetir o som até fechar a notificação?</string>
 	<string name="facebookImport">Importar do Facebook</string>
 	<string name="install">Instalar agora</string>
 	<string name="missing_addon_title">Aniversários Plus</string>
-	<string name="missing_addon_explain">Este recurso exige \"Aniversários Plus\", uma versão estendida, ainda gratuita, desta app. Essa versão requer permissões adicionais (acesso à internet e ao cartão SD) a fim de lhe oferecer mais características. Basta visitar a Google Play para obter a versão estendida da app e desfrutar de recursos aprimorados. Experimente, é grátis!</string>
+	<string name="missing_addon_explain">Este recurso exige \"Aniversários Plus\", uma versão estendida, ainda gratuita, desta aplicação. Essa versão requer permissões adicionais (acesso à internet e ao cartão SD) a fim de lhe oferecer mais características. Basta visitar a Google Play para obter a versão estendida da aplicação e desfrutar de recursos aprimorados. Experimente, é grátis!</string>
 	<string name="show_help">Mostrar ajuda</string>
 	<string name="rate_app">Avaliar a aplicação</string>
 	<string name="export_fail">Lamentamos, a exportação dos seus dados não pôde ser iniciada!</string>
@@ -153,7 +153,7 @@
 	<string name="notification_remind1">Relembrar em 15min</string>
 	<string name="notification_remind2">Relembrar numa 1h</string>
 	<string name="notification_remind3">Relembrar em 6h</string>
-	<string name="importing_entries">Importando as entradas selecionadas. Isso pode levar vários minutos &#8230;</string>
+	<string name="importing_entries">Importando as entradas selecionadas. Isto pode tomar alguns minutos &#8230;</string>
 	<string name="open_app">Abrir a aplicação</string>
 	<string-array name="default_images">
 		<item>Aniversário (1)</item>
@@ -173,19 +173,19 @@
 		<item>Pixel Embargo</item>
 		<item>Benjamin Haas</item>
 	</string-array>
-	<string name="pick_from_gallery">Pegar da galeria</string>
+	<string name="pick_from_gallery">Pesquisar na galeria</string>
 	<string name="pick_predefined_image">Selecionar imagem padrão</string>
-	<string name="image_provided_by">Esta imagem foi disponibilizada por</string>
+	<string name="image_provided_by">Esta imagem está creditada a</string>
 	<string name="helpTranslating">Ajude a traduzir</string>
-	<string name="translationHelpHowto">Por favor, abra no browser do seu computador (para melhor leitura e edição):\nhttp://birthdays.latein.me/</string>
+	<string name="translationHelpHowto">Por favor, abra no navegador do seu computador (para melhor leitura e edição):\nhttp://birthdays.latein.me/</string>
 	<string name="menu_main">Menu principal</string>
 	<string name="mode_translate">Traduzir</string>
 	<string name="days_abbreviation">d</string>
-	<string name="sure_to_delete">Tem a certeza que pretende apagar esta entrada?</string>
+	<string name="sure_to_delete">Deseja mesmo apagar esta entrada?</string>
 	<string name="yes">Sim</string>
 	<string name="no">Não</string>
 	<string name="merge_with_contact">Fundir com contato</string>
-	<string name="merge_explanation">Pretende fundir esta entrada com um contato telefónico pré-existente?</string>
+	<string name="merge_explanation">Pretende fundir esta entrada com um contato telefónico já existente?</string>
 	<string name="entry_merged">A entrada foi adicionada com sucesso ao seu contato!</string>
 	<string name="contacts_app_not_found">A aplicação dos contatos não foi encontrada no seu dispositivo!</string>
 	<string name="defaultDateFormat">AAAA-MM-DD</string>
@@ -200,16 +200,16 @@
 	<string name="widget_3x1">Aniversários (3x1)</string>
 	<string name="widget_text">Aniversários (Texto)</string>
 	<string name="fbLoad_fail">Aniversários não importados do Facebook!</string>
-	<string name="fbLoad_success">Aniversários importados com sucesso a partir do Facebook!</string>
+	<string name="fbLoad_success">Aniversários importados com sucesso do Facebook!</string>
 	<string name="export_success">Backup de \"Birthdays Plus\" salvo com sucesso no cartão SD!</string>
 	<string name="import_fail">Backup de \"Birthdays Plus\" não importado do cartão SD!</string>
 	<string name="import_success">Backup de \"Birthdays Plus\" importado com sucesso a partir do cartão SD!</string>
-	<string name="sdBackup">Backup para o SD</string>
+	<string name="sdBackup">Backup para o cartão SD</string>
 	<string name="open_facebook_profile">Abrir perfil do Facebook</string>
 	<string name="loading_image">Carregando foto &#8230;</string>
 	<string name="new_version">Nova versão</string>
-	<string name="new_version_get">Uma nova versão desta app, com recursos aprimorados, está disponível no Google Play. Você deseja receber a atualização agora?</string>
-	<string name="do_download">Baixar</string>
+	<string name="new_version_get">Uma nova versão desta aplicação, com recursos aprimorados, está disponível no Google Play. Deseja receber a atualização agora?</string>
+	<string name="do_download">Transferir</string>
 	<string name="do_ignore">Ignorar</string>
 	<string name="supportAndFeedback">Questões &#38; Comentários</string>
 	<string name="person_actions">Mais opções</string>
@@ -218,7 +218,7 @@
 	<string name="your_note">Nota</string>
 	<string name="typeYourNote">Digite uma nota pessoal &#8230;</string>
     <string name="default_locale">Padrão (recomendado)</string>
-    <string name="language">Linguagem</string>
+    <string name="language">Idioma</string>
     <string name="then">Depois:</string>
     <string name="edit_entry">Editar esta entrada</string>
 </resources>
