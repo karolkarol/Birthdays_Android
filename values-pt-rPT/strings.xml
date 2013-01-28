@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 	<string name="help">Ajuda</string>
-	<string name="helpText">MENU DE OPÇÕES:\nNo menu de opções, pode encontrar diversas funcionalidades adicionais para esta aplicação como, por exemplo: mudar as preferências ou adicionar novos entradas à sua lista de aniversários.\n\nEDITAR ENTRADAS:\nAo pressionar prolongadamente uma entrada da sua lista de aniversários, irá aparecer um menu de opções onde pode editar ou apagar uma entrada existente na lista.\n\nWIDGET:\nVá para o seu ecrã principal e selecione \"Adicionar\" e depois \"Widget\" para adicionar os próximos aniversários ao seu ecrã principal. O widget será atualizado de seis em seis horas!\n\nPROBLEMA 1970:\nSe não consegue adicionar datas anteriores ao ano 1970, o seu dispositivo experimenta um problema relativamente comum (muitas vezes com dispositivos Motorola). Por favor, aceda às preferências da aplicação e desative \"Seleção fácil de data\". Após essa mudança, terá que escrever as datas num campo de texto - assim poderá inserir datas anteriores a 1970.\n\nSEM NOTIFICAÇÕES:\nAs últimas versões Android (4.0+) oferecem definições especiais para notificações. Por exemplo, pode desligar todas as notificações na barra de estado (onde o 3G, Wi-Fi, GPS e Bluetooth estão) ou pode ainda desativá-las em \"Gerir aplicações\" nas definições. Por favor, verifique estas definições caso as suas notificações não funcionem.\n\nGUARDAR EM MEMÓRIA EXTERNA:\nEsta aplicação não deverá ser guardada na memória externa (cartão SD), pois, nesse caso, as notificações dos próximos aniversários não funcionarão. Pedimos desculpa!\n\nFORMATOS DE DATA SUPORTADOS:\nSuportamos o formato de data de acordo com o ISO 8601: ANO-MÊS-DIA. Para outros formatos, não poderemos garantir que funcionem corretamente.\n\nPOSSO AJUDAR A TRADUZIR A APLICAÇÃO?\nSim, pode! Apenas utilize a nossa aplicação no Facebook, onde poderá facilmente editar todas as traduções e melhorá-las para todos os utilizadores. Por favor, abra o seguinte link no seu computador para conseguir ler e editar melhor:\nhttp://birthdays.latein.me/</string>
-	<string name="goHome">Regressar a casa</string>
+	<string name="helpText">MENU DE OPÇÕES:\nNo menu de opções, pode encontrar diversas funcionalidades adicionais desta aplicação como, por exemplo, a alteração das suas preferências ou a adição de novas entradas à sua lista de aniversários.\n\nEDITAR ENTRADAS:\nAo pressionar prolongadamente uma entrada da sua lista de aniversários, surgirá um menu de opções onde pode editar ou eliminar a entrada existente nessa lista.\n\nWIDGET:\nRetornar ao ecrã principal, pressionar \"Adicionar\" e depois \"Widget\" para dispor dos próximos aniversários no seu ecrã principal. O widget será atualizado a cada seis horas!\n\nPROBLEMA 1970:\nCaso não consiga adicionar datas anteriores ao ano 1970, o seu dispositivo experimenta um problema comum (frequentemente entre dispositivos Motorola). Por favor, aceda às preferências da aplicação e desative \"Seleção fácil de data\". Após essa mudança, terá que escrever as datas num campo de texto - assim poderá inserir datas anteriores a 1970.\n\nSEM NOTIFICAÇÕES:\nAs últimas versões Android (4.0+) oferecem definições especiais para notificações. Por exemplo, pode desligar todas as notificações na barra de estado (onde estão o 3G, o Wi-Fi, o GPS e o Bluetooth) ou pode ainda desativá-las em \"Gerir aplicações\" nas definições do seu dispositivo. Por favor, verifique estas condições caso as suas notificações não funcionem.\n\nGUARDAR EM MEMÓRIA EXTERNA:\nEsta aplicação não deverá ser guardada na memória externa (cartão SD), pois, nesse caso, as notificações dos próximos aniversários não funcionarão. Pedimos desculpa!\n\nFORMATOS DE DATA SUPORTADOS:\nSuportamos o formato de data de acordo com o ISO 8601: ANO-MÊS-DIA. Para outros formatos, não poderemos garantir que funcionem corretamente.\n\nPOSSO AJUDAR A TRADUZIR A APLICAÇÃO?\nSim, pode! Apenas utilize a nossa aplicação no Facebook, onde poderá facilmente editar todas as traduções e melhorá-las para todos os utilizadores. Por favor, abra o seguinte link no seu computador para conseguir ler e editar melhor:\nhttp://birthdays.latein.me/</string>
+	<string name="goHome">Regressar ao início</string>
     <string name="tomorrow">amanhã</string>
     <string name="x_days_left">faltam %1$d dias</string>
 	<string name="x_days_left_short">%1$d dias</string>
@@ -41,7 +41,7 @@
 	<string name="mode_backup">Sincronizar</string>
 	<string name="mode_help">Ajuda</string>
 	<string name="mode_buy">Presentes</string>
-	<string name="birthdayEdited">O aniversário selecionado foi atualizado para a nova data.</string>
+	<string name="birthdayEdited">O aniversário que selecionou foi atualizado para a nova data.</string>
 	<string name="cancel">Cancelar</string>
 	<string name="save">Salvar</string>
 	<string name="smsVerb">SMS</string>
@@ -49,9 +49,9 @@
 	<string name="comingSoon">Brevemente!</string>
 	<string name="nameOfPerson">Nome da pessoa</string>
 	<string name="dateOfBirth">Digitar data</string>
-	<string name="delete">Apagar</string>
+	<string name="delete">Eliminar</string>
 	<string name="edit">Alterar data</string>
-	<string name="birthdayDeleted">O aniversário selecionado foi eliminado.</string>
+	<string name="birthdayDeleted">O aniversário que selecionou foi eliminado.</string>
 	<string name="mode_preferences">Preferências</string>
 	<string name="notification_on">A notificação será mostrada.</string>
 	<string name="notification_off">A notificação não será mostrada.</string>
@@ -72,7 +72,7 @@
 	<string name="searchNoResult">Não foi encontrada correspondência!</string>
 	<string name="findPerson">Encontrar uma pessoa</string>
 	<string name="searchPerson">Procurar uma pessoa &#8230;</string>
-	<string name="hint_search_mode">Ao procurar uma pessoa da sua lista de aniversários, se digitar uma parte do nome poderá ser suficiente.</string>
+	<string name="hint_search_mode">Ao procurar uma pessoa da sua lista de aniversários, digitar uma parte do nome poderá ser suficiente.</string>
 	<string name="zodiac">Zodíaco</string>
 	<string name="zodiac_aries">Carneiro</string>
 	<string name="zodiac_taurus">Touro</string>
@@ -144,7 +144,7 @@
 	<string name="facebookImport">Importar do Facebook</string>
 	<string name="install">Instalar agora</string>
 	<string name="missing_addon_title">Aniversários Plus</string>
-	<string name="missing_addon_explain">Este recurso exige \"Aniversários Plus\", uma versão estendida, ainda gratuita, desta aplicação. Essa versão requer permissões adicionais (acesso à internet e ao cartão SD) a fim de lhe oferecer mais características. Basta visitar a Google Play para obter a versão estendida da aplicação e desfrutar de recursos aprimorados. Experimente, é grátis!</string>
+	<string name="missing_addon_explain">Este recurso exige \"Aniversários Plus\", uma versão estendida, ainda gratuita, desta aplicação. Tal versão requer permissões adicionais (acesso à internet e ao cartão SD) a fim de lhe oferecer mais características. Basta visitar a Google Play para obter a versão estendida da aplicação e desfrutar de recursos aprimorados. Experimente, é grátis!</string>
 	<string name="show_help">Mostrar ajuda</string>
 	<string name="rate_app">Avaliar a aplicação</string>
 	<string name="export_fail">Lamentamos, a exportação dos seus dados não pôde ser iniciada!</string>
@@ -153,7 +153,7 @@
 	<string name="notification_remind1">Relembrar em 15min</string>
 	<string name="notification_remind2">Relembrar numa 1h</string>
 	<string name="notification_remind3">Relembrar em 6h</string>
-	<string name="importing_entries">Importando as entradas selecionadas. Isto pode tomar alguns minutos &#8230;</string>
+	<string name="importing_entries">Importando as entradas selecionadas &#8230; Isto pode tomar alguns minutos!</string>
 	<string name="open_app">Abrir a aplicação</string>
 	<string-array name="default_images">
 		<item>Aniversário (1)</item>
@@ -181,16 +181,16 @@
 	<string name="menu_main">Menu principal</string>
 	<string name="mode_translate">Traduzir</string>
 	<string name="days_abbreviation">d</string>
-	<string name="sure_to_delete">Deseja mesmo apagar esta entrada?</string>
+	<string name="sure_to_delete">Deseja mesmo eliminar esta entrada?</string>
 	<string name="yes">Sim</string>
 	<string name="no">Não</string>
 	<string name="merge_with_contact">Fundir com contato</string>
 	<string name="merge_explanation">Pretende fundir esta entrada com um contato telefónico já existente?</string>
-	<string name="entry_merged">A entrada foi adicionada com sucesso ao seu contato!</string>
+	<string name="entry_merged">A entrada foi acrescentada com sucesso ao seu contato!</string>
 	<string name="contacts_app_not_found">A aplicação dos contatos não foi encontrada no seu dispositivo!</string>
 	<string name="defaultDateFormat">AAAA-MM-DD</string>
 	<string name="show_datepicker">Seleção fácil de data</string>
-	<string name="show_datepicker_on">Uma forma conveniente de seleção de data que lhe permite escolher dia, mês e ano a partir de listas.</string>
+	<string name="show_datepicker_on">Uma forma conveniente de inserir datas que lhe permite selecionar dia, mês e ano através de listas.</string>
 	<string name="show_datepicker_off">Caso o seu dispositivo não aceite datas anteriores a 1970: um campo de texto aparecerá para digitar a data manualmente.</string>
 	<string name="settings_other">Outras configurações</string>
 	<string name="congratulationText_title">Texto de congratulações</string>
