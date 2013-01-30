@@ -144,7 +144,7 @@
 	<string name="facebookImport">Importa da Facebook</string>
 	<string name="install">Installa adesso</string>
 	<string name="missing_addon_title">Compleanni Plus</string>
-	<string name="missing_addon_explain">Questa funzionalità richiede \"Compleanni Plus\", una versione estesa, ma ancora gratuita di questa App. L'App richiede ulteriori autorizzazioni (accesso a Internet e scheda SD). Basta visitare Google Play per ottenere l\'applicazione. Prova - è gratis!</string>
+	<string name="missing_addon_explain">Questa funzionalità richiede \"Compleanni Plus\", una versione estesa, ma ancora gratuita di questa App. L\'App richiede ulteriori autorizzazioni (accesso a Internet e scheda SD). Basta visitare Google Play per ottenere l\'applicazione. Prova - è gratis!</string>
     <string name="show_help">Mostra aiuto</string>
     <string name="rate_app">Valutazione della App</string>
     <string name="export_fail">Siamo spiacenti, l\'esportazione dei dati non può essere avviata!</string>
