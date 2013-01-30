@@ -1,0 +1,55 @@
+Il miglior Calendario Compleanni per rimanere informati su compleanni e anniversari di amici e parenti!
+
+Gratuito, facile, veloce e senza annunci pubblicitari!
+
+Basta aprire questa piccola Applicazione (solo 909 KB) e vedere a quale persona devo fare gli auguri e quanti anni compie.
+
+Non c'è bisogno di inserire informazioni aggiuntive, basta aver inserito nei contatti telefonici del dispositivo il giorno di nascita e automaticamente l’applicazione visualizzerà nel proprio calendario i compleanni di amici e parenti. È inoltre possibile aggiungere i compleanni senza averli nei contatti telefonici, è sufficiente digitare il nome e la data e se si desidera è possibile aggiungere anche una foto.
+
+L’applicazione ha un proprio contatore interno che fa vedere quanti giorni mancano al compleanno. E’ integrato anche un promemoria che ti avvisa quando è il giorno del compleanno. Del promemoria si possono configurare sia il giorno di avviso che il tipo di avviso. Il calendario permette di visualizzare anche il segno zodiacale della persona che compie gli anni.
+Non dimenticherai mai più qualsiasi compleanno!
+
+<b>Autorizzazioni:</b>
+• Lettura dei contatti personali: L’applicazione ha bisogno di questa autorizzazione al fine di poter visualizzare gli eventi di compleanno nel proprio calendario. Non preoccuparti, i tuoi dati sono al sicuro l’applicazione non esegue accessi a Internet.
+• Modifica dei contatti personali: L’applicazione permette di aggiungere, modificare e cancellare i compleanni. Per questo motivo questa autorizzazione è necessaria.
+• Spazio di archiviazione (scheda SD / lettura e scrittura): L’applicazione è in grado di importare/esportare i compleanni su una scheda SD. In questo modo tu puoi salvare i tuoi compleanni su una memoria esterna e successivamente recuperarli se necessario (ad esempio nel caso di cambio del dispositivo).
+• Esecuzione all’avvio del dispositivo: Necessaria per avere i promemoria di compleanno funzionanti quando il telefono è stato riavviato.
+
+<b>C'è un widget incluso?</b> 
+Sì! È possibile inserire un widget che visualizza il conto alla rovescia dei compleanni direttamente nelle schermate principali del dispositivo. Il widget é disponibile nei formati 3x1, 4x1, 4x2 e formato testo.
+
+<b>Posso importare i compleanni da Facebook?</b>
+Sì, basta che installi l’applicazione "Birthdays Plus", che è disponibile gratuitamente (è necessaria l'autorizzazione all’accesso alla rete):
+http://bit.ly/birthdays_plus
+
+<b>Posso aiutare a tradurre l'applicazione?</b> 
+Sì, saremmo lieti di ricevere il tuo aiuto! Nel seguente Link, trovi tutte le informazioni su come tradurre questa applicazione in modo da migliorare l’interfaccia utente:
+http://birthdays.latein.me/
+
+<b>Altre domande:</b>
+Una guida estesa è presente all'interno dell’applicazione. Nella pagina principale dell’applicazione selezionare il menu e poi selezionare la voce “Aiuto”. Qui si trovano le risposte alle domande più frequenti su questa applicazione.
+
+<b>Lingue supportate:</b>
+• Inglese (English)
+• Basco (Euskal)
+• Catalano (Català)
+• Danese (Dansk)
+• Olandese (Nederlands)
+• Francese (Français)
+• Tedesco (Deutsch)
+• Italiano (Italiano)
+• Giapponese (日本人)
+• Lituano (Lietuvos)
+• Portoghese (Português)
+• Rumeno (Român)
+• Russo (Русский)
+• Slovacco (Slovenčina)
+• Spagnolo (Español)
+• Turco (Türk)
+
+<b>Grazie a:</b>
+• Povl Hansen / tryout.dk (DK), Giuseppe Conti (IT), Jonas Plutulevičius (LT), Guillermo (EU), Mercè Gratacós (CA), Bruno Machado (PT), Marta Loureiro (PT), Volkan Karabulut (TR), Melvin E. (NL), Martin Jurík (SK) and Andrew Sachkov (RU) for translating this birthdays app
+• http://www.latein.me/static/gp_attr_birthdays.txt
+
+<b>Tags:</b>
+promemoria compleanni amici contatti calendario famiglia conto alla rovescia compleanni

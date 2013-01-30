@@ -8,10 +8,10 @@
 	<string name="x_days_left_short">%1$d giorni</string>
     <string name="settingsGeneral">Impostazioni generali</string>
     <string name="showPhotos">Contatti foto</string>
-    <string name="showPhotos_summary">Volete le foto delle persone che devono figurare nella lista?</string>
+    <string name="showPhotos_summary">Volete vedere le foto dei contatti nella lista?</string>
     <string name="nextBirthdayOnWeekDay">Il prossimo compleanno è di</string>
     <string name="nextAnniversaryOnWeekDay">L\'anniversario successivo è di</string>
-    <string name="tipDontEnterYear"><b>Suggerimento:</b> Non voglio mostrare l\'anno? Basta digitare \"1900\" e l\'anno non verrà mostrato.</string>
+    <string name="tipDontEnterYear"><b>Suggerimento:</b> Non vuoi mostrare l\'anno? Basta che digiti \"1900\" e l\'anno non verrà mostrato.</string>
     <string name="contactPhoto">Foto dei contatti</string>
     <string name="daysLeftUnit">giorni</string>
     <string name="noBirthdaysFound">Impossibile trovare i compleanni nel tuo elenco di contatti!</string>
@@ -36,12 +36,12 @@
     <string name="remindLater">Più tardi</string>
     <string name="noThanks">No, grazie</string>
     <string name="callVerb">Chiamare</string>
-    <string name="mode_add">Aggiungere</string>
-    <string name="mode_edit">Cambiare</string>
+    <string name="mode_add">Aggiungi</string>
+    <string name="mode_edit">Cambia</string>
     <string name="mode_backup">Sincronizza</string>
     <string name="mode_help">Aiuto</string>
     <string name="mode_buy">Regali</string>
-    <string name="birthdayEdited">Il compleanno selezionato è stato aggiornato per la nuova data.</string>
+    <string name="birthdayEdited">Il compleanno selezionato è stato aggiornato con la nuova data.</string>
     <string name="cancel">Annullare</string>
     <string name="save">Preservare</string>
     <string name="smsVerb">SMS</string>
@@ -49,7 +49,7 @@
     <string name="comingSoon">Prossimamente!</string>
     <string name="nameOfPerson">Il nome della persona</string>
     <string name="dateOfBirth">Scegli la data di</string>
-    <string name="delete">Cancellare</string>
+    <string name="delete">Cancella</string>
     <string name="edit">Modifica data</string>
     <string name="birthdayDeleted">Il compleanno selezionato è stato cancellato.</string>
     <string name="mode_preferences">Preferenze</string>
@@ -65,7 +65,7 @@
     <string name="setTime">Impostare il tempo preferito &#8230;</string>
     <string name="notificationsForBirthdays">Notifiche per i compleanni</string>
     <string name="caption_adding_mode">Aggiunta di una nuova voce</string>
-    <string name="hint_adding_mode">Se possibile, si dovrebbe sempre aggiungere compleanni ai tuoi contatti. È possibile utilizzare più funzioni allora.</string>
+    <string name="hint_adding_mode">Se possibile, bisognerebbe sempre aggiungere i compleanni ai propri contatti.In questo caso sono disponibili più funzioni.</string>
 	<string name="adding_mode_contacts">scegliere tra i contatti</string>
 	<string name="adding_mode_newentry">senza contatto telefonico</string>
 	<string name="mode_search">Cerca</string>
@@ -87,9 +87,9 @@
 	<string name="zodiac_aquarius">Acquario</string>
 	<string name="zodiac_pisces">Pesci</string>
 	<string name="changePicture">Cambia immagine</string>
-	<string name="change_name">Cambiare il nome</string>
-	<string name="sortBy">Posizione delle voci in</string>
-	<string name="sortBy_change">Scegliete ciò che l\'elenco è ordinato per</string>
+	<string name="change_name">Cambia il nome</string>
+	<string name="sortBy">Tipo di ordinamento delle voci</string>
+	<string name="sortBy_change">Scegliete come ordinare l\'elenco</string>
 	<string-array name="sortBy_values_human">
         <item>Giorni restanti</item>
         <item>Nome</item>
@@ -103,15 +103,15 @@
     <string name="choose_type">Scegli il tipo di</string>
     <string name="type_birthday">Compleanno</string>
     <string name="type_anniversary">Anniversario</string>
-    <string name="open_contact">Aprire il contatto</string>
+    <string name="open_contact">Apri il contatto</string>
     <string name="buyVerb">Trova un regalo</string>
-    <string name="doExport">Esporta in SD</string>
-    <string name="doImport">Importa da SD</string>
+    <string name="doExport">Esporta nella SD</string>
+    <string name="doImport">Importa dalla SD</string>
     <string name="importVerb">Importa</string>
-	<string name="pleaseEnterImportData">Siamo spiacenti, l\'importazione non può essere finito!</string>
+	<string name="pleaseEnterImportData">Siamo spiacenti, l\'importazione non può essere eseguita!</string>
     <string name="invalidDate">Data non valido.</string>
     <string name="pleaseCorrect">Si prega di correggere questa!</string>
-    <string name="tryOpeningInvalid">Si tratta di una voce non valida. Si prega di non premere a lungo e scegliere \"Modifica data\".</string>
+    <string name="tryOpeningInvalid">Si tratta di una voce non valida. Si prega di premere a lungo e scegliere \"Modifica data\".</string>
     <string name="chineseZodiac">Cinese</string>
 	<string name="chinese_rat">Ratto</string>
 	<string name="chinese_ox">Bue</string>
@@ -126,7 +126,7 @@
 	<string name="chinese_dog">Cane</string>
 	<string name="chinese_pig">Maiale</string>
 	<string name="show_zodiac">Segni zodiacali</string>
-	<string name="show_zodiac_description">Vuoi segni zodiacali da mostrare?</string>
+	<string name="show_zodiac_description">Vuoi mostrare i segni zodiacali?</string>
 	<string-array name="show_zodiac_values_human">
         <item>Occidentale</item>
         <item>Cinese</item>
@@ -144,7 +144,7 @@
 	<string name="facebookImport">Importa da Facebook</string>
 	<string name="install">Installa adesso</string>
 	<string name="missing_addon_title">Compleanni Plus</string>
-	<string name="missing_addon_explain">Questa funzionalità richiede \"Compleanni Plus\", una versione estesa, ma ancora libero di questa app. Utilizza ulteriori autorizzazioni (accesso a Internet e scheda SD) per offrire una migliore funzionalità. Basta visitare Google Play per ottenere l\'applicazione estesa e godere di grande funzionalità. Prova - è gratis!</string>
+	<string name="missing_addon_explain">Questa funzionalità richiede \"Compleanni Plus\", una versione estesa, ma ancora gratuita di questa App. L'App richiede ulteriori autorizzazioni (accesso a Internet e scheda SD). Basta visitare Google Play per ottenere l\'applicazione. Prova - è gratis!</string>
     <string name="show_help">Mostra aiuto</string>
     <string name="rate_app">Valutazione della App</string>
     <string name="export_fail">Siamo spiacenti, l\'esportazione dei dati non può essere avviata!</string>
@@ -174,12 +174,12 @@
         <item>Benjamin Haas</item>
     </string-array>
     <string name="pick_from_gallery">Scegli dalla galleria</string>
-    <string name="pick_predefined_image">Selezionare archivio di immagini</string>
+    <string name="pick_predefined_image">Selezionare l\'archivio delle immagini</string>
     <string name="image_provided_by">Questa immagine è stata fornita da</string>
     <string name="helpTranslating">Aiuto traduzione</string>
     <string name="translationHelpHowto">Si prega di aprire nel browser del proprio computer (per una migliore leggibilità) il seguente LINK:\nhttp://birthdays.latein.me/</string>
     <string name="menu_main">Menu principale</string>
-	<string name="mode_translate">Tradurre</string>
+	<string name="mode_translate">Traduci</string>
 	<string name="days_abbreviation">g</string>
 	<string name="sure_to_delete">Sei sicuro di voler eliminare questo messaggio?</string>
 	<string name="yes">Sì</string>
@@ -189,11 +189,11 @@
 	<string name="entry_merged">La voce è stata fusa con il contatto selezionato.</string>
 	<string name="contacts_app_not_found">L\'applicazione contatti non è stata trovata sul tuo dispositivo!</string>
 	<string name="defaultDateFormat">AAAA-MM-GG</string>
-	<string name="show_datepicker">Selezione facile della data</string>
+	<string name="show_datepicker">Selezione semplificata della data</string>
 	<string name="show_datepicker_on">Un modo conveniente per la selezione della data che consente di scegliere il giorno, mese e anno da un elenco.</string>
 	<string name="show_datepicker_off">Un semplice campo di testo viene visualizzato. È possibile digitare manualmente la data. Questo è utile se il dispositivo non accetta anni precedenti al 1970 in caso contrario.</string>
 	<string name="settings_other">Altre impostazioni</string>
-	<string name="congratulationText_title">Congratulazioni testo</string>
+	<string name="congratulationText_title">Testo Auguri</string>
 	<string name="congratulationText_summary">Impostare il testo predefinito per i messaggi di congratulazione qui.</string>
 	<string name="widget_4x1">Compleanni (4x1)</string>
 	<string name="widget_4x2">Compleanni (4x2)</string>
@@ -208,12 +208,12 @@
     <string name="open_facebook_profile">Aprire profilo di Facebook</string>
     <string name="loading_image">Caricamento di foto &#8230;</string>
     <string name="new_version">Nuova versione</string>
-    <string name="new_version_get">Una nuova versione di questa app con caratteristiche migliorate è disponibile su Google Play. Vuoi ottenere l\'aggiornamento ora?</string>
+    <string name="new_version_get">Una nuova versione di questa App con caratteristiche migliorate è disponibile su Google Play. Vuoi ottenere l\'aggiornamento ora?</string>
     <string name="do_download">Scarica</string>
-    <string name="do_ignore">Ignorare</string>
+    <string name="do_ignore">Ignora</string>
     <string name="supportAndFeedback">Domande &#38; Commenti</string>
     <string name="person_actions">Altre opzioni</string>
-    <string name="save_note">Salvare una nota</string>
+    <string name="save_note">Salva una nota</string>
     <string name="delete_image">Elimina immagine</string>
     <string name="your_note">Commento</string>
     <string name="typeYourNote">Inserisci il tuo commento personale &#8230;</string>
