@@ -42,12 +42,13 @@ An extended help section can be found within the app itself. When selecting the 
 • Portuguese (Português)
 • Romanian (Român)
 • Russian (Русский)
+• Serbian (Cрпски)
 • Slovak (Slovenčina)
 • Spanish (Español)
 • Turkish (Türk)
 
 <b>Thanks to:</b>
-• Povl Hansen / tryout.dk (DK), Giuseppe Conti (IT), Jonas Plutulevičius (LT), Guillermo (EU), Mercè Gratacós (CA), Bruno Machado (PT), Marta Loureiro (PT), Volkan Karabulut (TR), Melvin E. (NL), Martin Jurík (SK) and Andrew Sachkov (RU) for translating this birthdays app
+• Marko Radojevic (SR), Povl Hansen (DK), Giuseppe Conti (IT), Jonas Plutulevičius (LT), Guillermo (EU), Mercè Gratacós (CA), Bruno Machado (PT), Marta Loureiro (PT), Volkan Karabulut (TR), Melvin E. (NL), Martin Jurík (SK) and Andrew Sachkov (RU) for translating this birthdays app
 • http://www.latein.me/static/gp_attr_birthdays.txt
 
 <b>Tags:</b>
