@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="help">Помоћ</string>
+	<string name="helpText">МЕНИ ОПЦИЈА:\nУ менију опција можеш наћи неколико додатних карактеристика ове апликације, нпр. промене подешавања или додавање нових контаката на листу рођендана.\n\nДУГ ПРИТИСАК НА КОНТАКТ:\nАко дуго притиснеш контакт у твојој листи рођендана, појавиће се мени са опцијама где можеш одабрати да изменитиш или обришеш постојећи унос у листи родјендана.\n\nWIDGET:\nИди на почетну страницу и притисни \"Додај\", потом \"Widget\" да додаш рођендане на почетну страницу. Твој widget ће бити освежен сваких 6 сати!\n\n1970 ПРОБЛЕМ:\nАко не можете да унесете датуме пре 1970, имате заједнички проблем на уређају (често са Моторола уређајима). Иди у апликацију и у поставкама онемогући \"Лаки избор датума\". После те промене, морате да унесете датуме у текстуалном пољу - али бар можете унесете датуме пре 1970.\n\nНЕМА ОБАВЕШТЕЊА:\nНајновије верзије Андроида (​​4.0 +) нуде специјалне поставке за обавештења. На пример, можете да искључите сва обавештења на статусној траци (где се налазе 3Г и Ви-Фи, ГПС и Блуетоотх) или онемогућите обавештења у \"Управљање апликацијама\" у вашим поставкама. Молимо проверите ове поставке ако ваша обавештења не раде.\n\nПРЕМЕШТАЊЕ НА СПОЉАШЊУ МЕМОРИЈУ:\nНе можеш да преместиш ову апликацију на екстерну меморију (СД картица), обавештења за предстојеће рођендане неће радити у том случају. Извини!\n\nПОДРЖАНИ ФОРМАТИ ДАТУМА:\nУ потпуности подржава формате датума у складу са ИСО 8601, који је ГГГГ-ММ-ДД. За друге формате, не можемо да гарантујемо да ће бити правилно приказани.\n\nМОГУ ЛИ ДА ПОМОГНЕМ У ПРЕВОЂЕЊУ АПЛИКАЦИЈЕ?\nДа, можеш. Користите нашу апликацију на Facebook-у, где можете лако мењати све преводе и побољшати их за све кориснике. Молимо вас да отворите следећу везу на рачунару за боље читање и уређивање:\nhttp://birthdays.latein.me/</string>
+	<string name="goHome">Почетна</string>
+	<string name="tomorrow">сутра</string>
+	<string name="x_days_left">још %1$d дан-а</string>
+	<string name="x_days_left_short">%1$d дан-а</string>
+	<string name="settingsGeneral">Опште поставке</string>
+	<string name="showPhotos">Фотографије контакта</string>
+	<string name="showPhotos_summary">Да ли желиш да слике контакта буду приказане на листи?</string>
+	<string name="nextBirthdayOnWeekDay">Следећи рођендан је у</string>
+	<string name="nextAnniversaryOnWeekDay">Следећа годишњица је у</string>
+	<string name="tipDontEnterYear"><b>Савет:</b> Не желиш да упишеш годину? Само укуцај \"1900\" и година неће бити приказана.</string>
+	<string name="contactPhoto">Фотографије контакта</string>
+	<string name="daysLeftUnit">дана</string>
+	<string name="noBirthdaysFound">Не могу пронаћи ни један рођендан у контакт листи!</string>
+	<string name="turnVerb">пуни</string>
+	<string name="onTime">у</string>
+	<string name="pleaseWait">Сачекај</string>
+	<string name="refreshingList">Освежавање листе &#8230;</string>
+	<string name="bornOn">Датум рођендана:</string>
+	<string name="anniversaryOn">Годишњица:</string>
+	<string name="age">Старост:</string>
+	<string name="yearsMarried">Од:</string>
+	<string name="years">Година</string>
+	<string name="ok">У реду</string>
+	<string name="today">данас</string>
+	<string name="in">у</string>
+	<string name="birthday">Рођендан</string>
+	<string name="yearsOld">година</string>
+	<string name="loading">учитавање</string>
+	<string name="fullTextConvinced">Да ли ти ова апликација користи? Било би нам драго, ако би могао/ла да оцениш нашу апликацију на Google Play-у. Хвала на подршци!</string>
+	<string name="rateApp">Оцени апликацију</string>
+	<string name="rateNow">Оцени сада</string>
+	<string name="remindLater">Касније</string>
+	<string name="noThanks">Не, хвала</string>
+	<string name="callVerb">Позови</string>
+	<string name="mode_add">Додај</string>
+	<string name="mode_edit">Промени</string>
+	<string name="mode_backup">Усклади</string>
+	<string name="mode_help">Помоћ</string>
+	<string name="mode_buy">Поклони</string>
+	<string name="birthdayEdited">Изабрани рођендан је ажуриран на нови датум.</string>
+	<string name="cancel">Откажи</string>
+	<string name="save">Сачувај</string>
+	<string name="smsVerb">СМС</string>
+	<string name="congratulationSMS">Срећан рођендан!</string>
+	<string name="comingSoon">Ускоро!</string>
+	<string name="nameOfPerson">Име особе</string>
+	<string name="dateOfBirth">Изабери датум</string>
+	<string name="delete">Обриши</string>
+	<string name="edit">Промени датум</string>
+	<string name="birthdayDeleted">Изабрани рођендан је обрисан.</string>
+	<string name="mode_preferences">Поставке</string>
+	<string name="notification_on">Обавештења ће бити приказана.</string>
+	<string name="notification_off">Без обавештења.</string>
+	<string name="notification_0">за рођендан</string>
+	<string name="notification_1">1 дан пре</string>
+	<string name="notification_2">2 дана пре</string>
+	<string name="notification_7">1 недеља пре</string>
+	<string name="notification_time">Време обавештења</string>
+	<string name="notification_sound">Мелодија обавештења</string>
+	<string name="notification_sound_desc">Изабери мелодију или \"нечујно\"</string>
+	<string name="setTime">Постави своје омиљено време &#8230;</string>
+	<string name="notificationsForBirthdays">Обавештења за рођендан</string>
+	<string name="caption_adding_mode">Додавање нове ставке</string>
+	<string name="hint_adding_mode">Ако је могуће, увек требаш додати рођендане твојим контактима. Потом можеш користити више функција.</string>
+	<string name="adding_mode_contacts">изабеи из контаката</string>
+	<string name="adding_mode_newentry">без контакта</string>
+	<string name="mode_search">Тражи</string>
+	<string name="searchNoResult">Не могу пронаћи особу у листи са подударним именом!</string>
+	<string name="findPerson">Пронађи особу</string>
+	<string name="searchPerson">Пронађи особу &#8230;</string>
+	<string name="hint_search_mode">Приликом тражења особе из листе рођендана, уписивање дела имена је обично довољно.</string>
+	<string name="zodiac">Хороскоп</string>
+	<string name="zodiac_aries">Ован</string>
+	<string name="zodiac_taurus">Бик</string>
+	<string name="zodiac_gemini">Близанци</string>
+	<string name="zodiac_cancer">Рак</string>
+	<string name="zodiac_leo">Лав</string>
+	<string name="zodiac_virgo">Девица</string>
+	<string name="zodiac_libra">Вага</string>
+	<string name="zodiac_scorpio">Шкорпија</string>
+	<string name="zodiac_sagittarius">Стрелац</string>
+	<string name="zodiac_capricornus">Јарац</string>
+	<string name="zodiac_aquarius">Водолија</string>
+	<string name="zodiac_pisces">Риба</string>
+	<string name="changePicture">Промени слику</string>
+	<string name="change_name">Промени име</string>
+	<string name="sortBy">Редослед списка</string>
+	<string name="sortBy_change">Изабери како ће твој списак бити постављен</string>
+	<string-array name="sortBy_values_human">
+		<item>Преостало дана</item>
+		<item>Име</item>
+		<item>Старост</item>
+	</string-array>
+	<string-array name="sortBy_values_machine">
+		<item>days_left</item>
+		<item>name</item>
+		<item>age</item>
+	</string-array>
+	<string name="choose_type">Изабери</string>
+	<string name="type_birthday">Рођендан</string>
+	<string name="type_anniversary">Годишњица</string>
+	<string name="open_contact">Отвори контакт</string>
+	<string name="buyVerb">Пронађи поклон</string>
+	<string name="doExport">Избези у СД</string>
+	<string name="doImport">Увези из СД</string>
+	<string name="importVerb">Увези</string>
+	<string name="pleaseEnterImportData">Увоз не може бити завршен!</string>
+	<string name="invalidDate">Погрешан датум.</string>
+	<string name="pleaseCorrect">Поправи ово!</string>
+	<string name="tryOpeningInvalid">Ово је погрешан унос. Дугим притиском изабери \"Промени датум\".</string>
+	<string name="chineseZodiac">Кинески</string>
+	<string name="chinese_rat">Пацов</string>
+	<string name="chinese_ox">Во</string>
+	<string name="chinese_tiger">Тигар</string>
+	<string name="chinese_rabbit">Зец</string>
+	<string name="chinese_dragon">Змај</string>
+	<string name="chinese_snake">Змија</string>
+	<string name="chinese_horse">Коњ</string>
+	<string name="chinese_goat">Јарац</string>
+	<string name="chinese_monkey">Мајмун</string>
+	<string name="chinese_rooster">Петао</string>
+	<string name="chinese_dog">Пас</string>
+	<string name="chinese_pig">Свиња</string>
+	<string name="show_zodiac">Хороскопски знаци</string>
+	<string name="show_zodiac_description">Желиш ли да хороскопски знаци буду приказани?</string>
+	<string-array name="show_zodiac_values_human">
+		<item>Наш</item>
+		<item>Кинески</item>
+		<item>Наш и Кинески</item>
+		<item>Без</item>
+	</string-array>
+	<string-array name="show_zodiac_values_machine">
+		<item>western</item>
+		<item>chinese</item>
+		<item>both</item>
+		<item>none</item>
+	</string-array>
+	<string name="do_repeatsound">Понови музику</string>
+	<string name="do_repeatsound_summary">Звук се понавља све док не затвориш обавештење?</string>
+	<string name="facebookImport">Увези из Facebook-а</string>
+	<string name="install">Инсталирај</string>
+	<string name="missing_addon_title">Рођендан Плус</string>
+	<string name="missing_addon_explain">Ова опција захтева \"Рођендан Плус\", проширена, али бесплатна верзија ове апликације. Она користи додатне дозволе (приступ Интернету и СД картици) да ти понуди боље карактеристике. Довољно је да посетиш Google Play да одабереш проширену апликацију и уживаш велике могућности. Пробај - бесплатно!</string>
+	<string name="show_help">Прикажи помоћ</string>
+	<string name="rate_app">Оцени апликацију</string>
+	<string name="export_fail">Жао нам је, извоз твојих података не може да се покрене!</string>
+	<string name="loading_facebook">Учитавање података са Facebook &#8230;</string>
+	<string name="notification_close">Затвори обавештење</string>
+	<string name="notification_remind1">Подсети поново за 15мин</string>
+	<string name="notification_remind2">Подсети поново у 1сат</string>
+	<string name="notification_remind3">Подсети поново у 6сати</string>
+	<string name="importing_entries">Увоз изабране ставке. Ово може потрајати неколико минута &#8230;</string>
+	<string name="open_app">Отвори апликацију</string>
+	<string-array name="default_images">
+		<item>Рођендан (1)</item>
+		<item>Рођендан (2)</item>
+		<item>Јубилеј</item>
+		<item>Лубав</item>
+		<item>Венчање</item>
+		<item>Смрт (1)</item>
+		<item>Смтр (2)</item>
+	</string-array>
+	<string-array name="default_images_copyright">
+		<item>Africa Studio</item>
+		<item>bluedesign</item>
+		<item>shoot4u</item>
+		<item>Konstiantyn</item>
+		<item>artikularis</item>
+		<item>Pixel Embargo</item>
+		<item>Benjamin Haas</item>
+	</string-array>
+	<string name="pick_from_gallery">Изабери из галерије</string>
+	<string name="pick_predefined_image">Изабери постављену слику</string>
+	<string name="image_provided_by">Ову слику је обезбедио </string>
+	<string name="helpTranslating">Превођење</string>
+	<string name="translationHelpHowto">Отвори у твом прегледачу на десктоп рачунару (за бољу читљивост и измену):\nhttp://birthdays.latein.me/</string>
+	<string name="menu_main">Главни мени</string>
+	<string name="mode_translate">Преведи</string>
+	<string name="days_abbreviation">д</string>
+	<string name="sure_to_delete">Желиш ли да обришеш овај унос?</string>
+	<string name="yes">Да</string>
+	<string name="no">Не</string>
+	<string name="merge_with_contact">Обједини са контактом</string>
+	<string name="merge_explanation">Желиш ли да објединиш овај унос са постојећим телефонском контактом?</string>
+	<string name="entry_merged">Унос се успешно спојио са изабраним контактом.</string>
+	<string name="contacts_app_not_found">Апликација Контакти се не може наћи на вашем уређају!</string>
+	<string name="defaultDateFormat">ГГГГ-ММ-ДД</string>
+	<string name="show_datepicker">Лаки избор датума</string>
+	<string name="show_datepicker_on">Погодан начин избора датума који ти омогућава да изаберш дан, месец и годину са листе.</string>
+	<string name="show_datepicker_off">Једноставано текст поље. Можеш ручно да упишеш датум. Ово је корисно ако твој уређај не прихвата године пре 1970.</string>
+	<string name="settings_other">Друге поставке</string>
+	<string name="congratulationText_title">Текст честитке</string>
+	<string name="congratulationText_summary">Постави овде твој текст за честитку поруке.</string>
+	<string name="widget_4x1">Рођендани (4x1)</string>
+	<string name="widget_4x2">Рођендани (4x2)</string>
+	<string name="widget_3x1">Рођендани (3x1)</string>
+	<string name="widget_text">Рођендани (Текст)</string>
+	<string name="fbLoad_fail">Рођендан се не може увести са Facebook-а!</string>
+	<string name="fbLoad_success">Рођендан је увежен са Facebook-а!</string>
+	<string name="export_success">Бекап снимљен у \"Birthdays Plus\" на СД картици!</string>
+	<string name="import_fail">Бекап се не може преузети из \"Birthdays Plus\" са СД картице!</string>
+	<string name="import_success">Бекап преузет из \"Birthdays Plus\" са СД картице!</string>
+	<string name="sdBackup">СД Бекап</string>
+	<string name="open_facebook_profile">Отвори Facebook профил</string>
+	<string name="loading_image">Учитавањ фотографије &#8230;</string>
+	<string name="new_version">Нова верзија</string>
+	<string name="new_version_get">Нова верзија ове апликације са побољшаним функцијама је доступна на Google Play-у. Да ли желиш да преузмеш исправку?</string>
+	<string name="do_download">Преузми</string>
+	<string name="do_ignore">Одбаци</string>
+	<string name="supportAndFeedback">Питања &#38; Feedback</string>
+	<string name="person_actions">Додај</string>
+	<string name="save_note">Сними белешку</string>
+	<string name="delete_image">Уклони слику</string>
+	<string name="your_note">Белешка</string>
+	<string name="typeYourNote">Упиши белешку &#8230;</string>
+	<string name="default_locale">Standard (Recommended)</string>
+	<string name="language">Језик</string>
+	<string name="then">Онда:</string>
+	<string name="edit_entry">Измени ову ставку</string>
+</resources>
