@@ -221,4 +221,5 @@
     <string name="language">言語</string>
     <string name="then">その後:</string>
     <string name="edit_entry">このエントリを編集</string>
+    <string name="could_not_add_to_contact">あなたは、この連絡先にイベントを追加することはできません！</string>
 </resources>

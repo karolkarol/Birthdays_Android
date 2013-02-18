@@ -221,4 +221,5 @@
     <string name="language">язык</string>
     <string name="then">затем:</string>
     <string name="edit_entry">Изменить эту запись</string>
+    <string name="could_not_add_to_contact">Вы не можете добавлять события в этот контакт!</string>
 </resources>

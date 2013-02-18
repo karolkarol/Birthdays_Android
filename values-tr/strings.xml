@@ -221,4 +221,5 @@
     <string name="language">Dil</string>
     <string name="then">Sonra:</string>
     <string name="edit_entry">Bu girdi düzenle</string>
+    <string name="could_not_add_to_contact">Bu kişiye olay ekleyemezsiniz!</string>
 </resources>

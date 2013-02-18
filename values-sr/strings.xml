@@ -221,4 +221,5 @@
 	<string name="language">Језик</string>
 	<string name="then">Онда:</string>
 	<string name="edit_entry">Измени ову ставку</string>
+	<string name="could_not_add_to_contact">Ви не можете додати догађаје овог контакта!</string>
 </resources>

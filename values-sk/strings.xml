@@ -221,4 +221,5 @@
     <string name="language">Jazyk</string>
     <string name="then">Potom:</string>
     <string name="edit_entry">Upraviť tento záznam</string>
+    <string name="could_not_add_to_contact">Nemôžete pridávať udalosti do tohto kontaktu!</string>
 </resources>

@@ -221,4 +221,5 @@
     <string name="language">Taal</string>
     <string name="then">Dan:</string>
     <string name="edit_entry">Wijzig dit item</string>
+    <string name="could_not_add_to_contact">U kunt geen gebeurtenissen aan dit contact!</string>
 </resources>

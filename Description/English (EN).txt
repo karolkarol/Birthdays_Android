@@ -38,6 +38,7 @@ An extended help section can be found within the app itself. When selecting the 
 • German (Deutsch)
 • Italian (Italiano)
 • Japanese (日本人)
+• Korean (한국의)
 • Lithuanian (Lietuvos)
 • Portuguese (Português)
 • Romanian (Român)

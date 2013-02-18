@@ -221,4 +221,5 @@
     <string name="language">Sprache</string>
     <string name="then">Danach:</string>
     <string name="edit_entry">Eintrag bearbeiten</string>
+    <string name="could_not_add_to_contact">Zu diesem Kontakt können keine Ereignisse hinzugefügt werden!</string>
 </resources>
