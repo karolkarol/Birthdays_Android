@@ -9,8 +9,8 @@
     <string name="settingsGeneral">Configuración general</string>
     <string name="showPhotos">Fotos de los contactos</string>
     <string name="showPhotos_summary">¿Quieres fotos de la gente que se muestra en la lista?</string>
-    <string name="nextBirthdayOnWeekDay">El próximo cumpleaños es el</string>
-    <string name="nextAnniversaryOnWeekDay">El próximo aniversario es el</string>
+    <string name="nextBirthdayOnWeekDay">El próximo cumpleaños será un</string>
+    <string name="nextAnniversaryOnWeekDay">El próximo aniversario será un</string>
     <string name="tipDontEnterYear"><b>Sugerencia:</b> Si no deseas introducir el año, sólo tienes que escribir el año \"1900\" y el año no será visible.</string>
     <string name="contactPhoto">Foto de contacto</string>
     <string name="daysLeftUnit">días</string>
