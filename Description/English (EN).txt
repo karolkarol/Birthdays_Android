@@ -32,6 +32,7 @@ An extended help section can be found within the app itself. When selecting the 
 • English (English)
 • Basque (Euskal)
 • Catalan (Català)
+• Czech (Český)
 • Danish (Dansk)
 • Dutch (Nederlands)
 • French (Français)
@@ -49,7 +50,7 @@ An extended help section can be found within the app itself. When selecting the 
 • Turkish (Türk)
 
 <b>Thanks to:</b>
-• Marko Radojevic (SR), Povl Hansen (DK), Giuseppe Conti (IT), Jonas Plutulevičius (LT), Guillermo (EU), Mercè Gratacós (CA), Bruno Machado (PT), Marta Loureiro (PT), Volkan Karabulut (TR), Melvin E. (NL), Martin Jurík (SK) and Andrew Sachkov (RU) for translating this birthdays app
+• Petr Kříž (CZ), Marko Radojevic (SR), Povl Hansen (DK), Giuseppe Conti (IT), Jonas Plutulevičius (LT), Guillermo (EU), Mercè Gratacós (CA), Bruno Machado (PT), Marta Loureiro (PT), Volkan Karabulut (TR), Melvin E. (NL), Martin Jurík (SK) and Andrew Sachkov (RU) for translating this birthdays app
 • http://www.latein.me/static/gp_attr_birthdays.txt
 
 <b>Tags:</b>
